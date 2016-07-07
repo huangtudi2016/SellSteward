@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg" >
+
+    <RelativeLayout
+        android:id="@id/titleLine"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/size44"
+        android:background="@drawable/home_title_bar_bg" >
+
+        <ImageView
+            android:id="@id/btnMarket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/home_market_btn" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/wacai_title1" />
+
+        <Button
+            android:id="@id/btnSync"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/home_sync_btn" />
+
+        <TextView
+            android:id="@id/tvUnloadCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/num_bg"
+            android:gravity="center"
+            android:textColor="@color/lightBrown"
+            android:textSize="@dimen/txtSizeF1"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/countRLine"
+        android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:layout_below="@id/titleLine"
+        android:background="@drawable/home_main_image" >
+
+        <LinearLayout
+            android:id="@id/llHomeDisplayView"
+            android:layout_width="@dimen/size108"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="5dip"
+            android:layout_marginRight="@dimen/size20"
+            android:layout_marginTop="5dip"
+            android:baselineAligned="false"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="9.0"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@id/tvTitle1"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="本月销售"
+                    android:textColor="#ff9bd8f1"
+                    android:textSize="@dimen/txtSizeF2" />
+
+                <TextView
+                    android:id="@id/tvValue1"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="234.00"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="9.0"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@id/tvTitle2"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="本月进货"
+                    android:textColor="#ff9bd8f1"
+                    android:textSize="@dimen/txtSizeF2" />
+
+                <TextView
+                    android:id="@id/tvValue2"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="234.00"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="9.0"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@id/tvTitle3"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="本月利润"
+                    android:textColor="#ff9bd8f1"
+                    android:textSize="@dimen/txtSizeF2" />
+
+                <TextView
+                    android:id="@id/tvValue3"
+                    style="@style/blackDownShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:text="100.00"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@id/btnTally"
+        style="@style/whiteDownShadow"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:layout_below="@id/countRLine"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/home_input_record_btn"
+        android:gravity="center"
+        android:text="@string/inputRecord"
+        android:textColor="#ff664015"
+        android:textSize="@dimen/txtSizeF5" />
+
+    <RelativeLayout
+        android:id="@+id/txm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnTally"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="35dip"
+        android:layout_marginRight="35dip"
+        android:layout_marginTop="10dip" >
+
+        <TextView
+            android:id="@+id/smtxm"
+            style="@style/whiteDownShadow"
+            android:layout_width="fill_parent"
+            android:layout_height="70dip"
+            android:background="@drawable/txm"
+            android:gravity="center"
+            android:textColor="#ff664015"
+            android:textSize="@dimen/txtSizeF5" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_below="@id/smtxm"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="65dip"
+            android:layout_marginRight="65dip"
+            android:gravity="center"
+            android:text="扫描"
+            android:textColor="#ff664015"
+            android:textSize="@dimen/txtSizeF5" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/bottombar" >
+
+        <ImageView
+            android:id="@id/btnMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/home_msg_btn" />
+
+        <TextView
+            android:id="@id/tvMsgCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size26"
+            android:background="@drawable/num_bg"
+            android:gravity="center"
+            android:textColor="@color/lightBrown"
+            android:textSize="@dimen/txtSizeF1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="15dip"
+            android:layout_toRightOf="@id/btnMsg"
+            android:text="提醒"
+            android:textColor="@color/lightBrown"
+            android:textSize="@dimen/txtSizeF3" />
+
+        <RelativeLayout
+            android:id="@id/btnSearch"
+            android:layout_marginLeft="250dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dip"
+                android:text="搜索"
+                android:textColor="@color/lightBrown"
+                android:textSize="@dimen/txtSizeF3" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/home_search_btn" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/bottom_home_screen" />
+
+</RelativeLayout>

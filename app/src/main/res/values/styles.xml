@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WaicaiListView" parent="@android:style/Widget.ListView">
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+
+    <style name="WaicaiExpandableListView" parent="@android:style/Widget.ExpandableListView">
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+
+    <style name="whiteDownShadow" parent="@android:style/TextAppearance">
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+    <style name="blackDownShadow" parent="@android:style/TextAppearance">
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+
+    <style name="blackUpShadow" parent="@style/blackDownShadow">
+        <item name="android:shadowDy">-1.0</item>
+    </style>
+
+    <style name="dialogWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_anim</item>
+    </style>
+
+    <style name="titlebar" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/txtSizeF4</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+    <style name="calcText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/btn_calc_txt</item>
+    </style>
+
+    <style name="calcSimpleText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffeadbd1</item>
+    </style>
+
+    <style name="calcTextDisplay" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff49452e</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+    <style name="dateWeekText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/txtSizeF4</item>
+        <item name="android:textColor">#ff7a3f00</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+    <style name="dateDayText" parent="@style/dateWeekText">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="newsTextUnread" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffa56a36</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+    <style name="newsTextRead" parent="@style/newsTextUnread">
+        <item name="android:textColor">#ff999999</item>
+    </style>
+
+    <style name="WacaiTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@drawable/wacai_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:expandableListViewStyle">@style/WaicaiExpandableListView</item>
+        <item name="android:listViewStyle">@style/WaicaiListView</item>
+    </style>
+
+    <style name="Panel" parent="@android:style/Theme.Panel">
+        <item name="android:windowAnimationStyle">@style/dialogWindowAnim</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+
+    <style name="CustomDialog" parent="@android:style/Theme.Panel">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/dialogWindowAnim</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <style name="BillHelpDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="style_14_4B4B4B">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff4b4b4b</item>
+    </style>
+
+    <style name="scan_dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/whites</item>
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="transparent" type="drawable">#00000000</item>
+    <item name="opacity15" type="drawable">#26000000</item>
+    <item name="blueItem" type="drawable">#ffdae4f2</item>
+    <item name="opacity10" type="drawable">#19000000</item>
+    <item name="opacity30" type="drawable">#4c000000</item>
+    <item name="whiteClick" type="drawable">#ffe5e5e5</item>
+    <item name="typeSubNor" type="drawable">#fffafbfc</item>
+    <item name="calcTextP" type="drawable">#ff940808</item>
+
+</resources>

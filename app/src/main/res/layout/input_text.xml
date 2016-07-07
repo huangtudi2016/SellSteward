@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <TextView
+        android:id="@id/tvCountPrompt"
+        style="@style/whiteDownShadow"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/size10"
+        android:layout_marginRight="@dimen/bgPaddingLR"
+        android:layout_marginTop="@dimen/size10"
+        android:gravity="right|center"
+        android:text="@string/weiboCharacterCanInput"
+        android:textColor="@color/lightBlue"
+        android:textSize="@dimen/txtSizeF2" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/paperMarginBottom"
+            android:paddingLeft="@dimen/paperMarginLR"
+            android:paddingRight="@dimen/paperMarginLR" >
+
+            <EditText
+                android:id="@id/etText"
+                style="@style/whiteDownShadow"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_input_text"
+                android:gravity="top|left|center"
+                android:minHeight="@dimen/size172"
+                android:padding="@dimen/paperPaddingLR"
+                android:textColor="@color/lightBlue"
+                android:hint="请输入...."
+                android:textSize="@dimen/txtSizeF3" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/bottom_back_ok" />
+
+</LinearLayout>

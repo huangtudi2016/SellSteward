@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/bottombar"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/size50"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/bottom_bar_bg" >
+
+    <TextView
+        android:id="@id/btnDetail"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+       android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+       android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_weight="1.0"
+        android:text="销售" />
+
+    <TextView
+        android:id="@id/btnStat"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_weight="1.0"
+        android:text="进货" />
+
+    <TextView
+        android:id="@id/btnAccount"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_weight="1.0"
+        android:text="库存" />
+
+    <TextView
+        android:id="@id/btnBudget"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+      android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_weight="1.0"
+        android:text="客户" />
+
+    <TextView
+        android:id="@id/btnSetting"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+       android:layout_marginLeft="15dip"
+        android:layout_marginRight="5dip"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_weight="1.0"
+        android:text="更多" />
+
+</LinearLayout>

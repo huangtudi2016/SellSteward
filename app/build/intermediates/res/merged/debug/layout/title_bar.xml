@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/titleLine"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/size28"
+    android:background="@drawable/title_bar_bg" >
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/white" />
+
+</LinearLayout>

@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="AlertType">
+        <item>@string/txtAlertNone</item>
+        <item>@string/txtAlertCurDay</item>
+        <item>@string/txtAlertPre3Day</item>
+        <item>@string/txtAlertMonthly</item>
+    </array>
+    <array name="BackupTypes">
+        <item>@string/txt1DayTitle</item>
+        <item>@string/txt3DayTitle</item>
+        <item>@string/txt7DayTitle</item>
+        <item>@string/txt30DayTitle</item>
+        <item>@string/txtNeverTitle</item>
+    </array>
+    <array name="CycleIncomeType">
+        <item>@string/txtPerMonth</item>
+        <item>@string/txtPerTowMonth</item>
+        <item>@string/txtPerQuarter</item>
+        <item>@string/txtPerHalfYear</item>
+        <item>@string/txtPerYear</item>
+    </array>
+    <array name="CycleType">
+        <item>@string/txtPerDay</item>
+        <item>@string/txtWorkingDay</item>
+        <item>@string/txtPerMonth</item>
+        <item>@string/txtPerTowMonth</item>
+        <item>@string/txtPerQuarter</item>
+        <item>@string/txtPerHalfYear</item>
+        <item>@string/txtPerYear</item>
+    </array>
+    <array name="DetailType">
+        <item>@string/all</item>
+        <item>@string/txtOutgo</item>
+        <item>@string/txtIncome</item>
+        <item>@string/txtTransfer</item>
+        <item>@string/txtLoan</item>
+    </array>
+    <array name="DetailsBalanceTimes">
+        <item>@string/txtThisYear</item>
+        <item>@string/txtThisQuarter</item>
+        <item>@string/txtThisMonth</item>
+        <item>@string/txtThisWeek</item>
+    </array>
+    <array name="LoanType">
+        <item>@string/txtBorrowPayable</item>
+        <item>@string/txtLoanReceivable</item>
+        <item>@string/txtRepayment</item>
+        <item>@string/txtMakeCollections</item>
+    </array>
+    <array name="NoteTransferType">
+        <item>@string/txtSaveAsOutgo</item>
+        <item>@string/txtSaveAsIncome</item>
+        <item>@string/txtSaveAsTransfer</item>
+        <item>@string/txtSaveAsLoan</item>
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <string-array name="OccurDate">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+    </string-array>
+    <array name="ReimburseSetting">
+        <item>@string/txtFullString</item>
+        <item>@string/txtCanReimburse</item>
+        <item>@string/txtNoneReimburse</item>
+        <item>@string/txtHaveReimburse</item>
+    </array>
+    <array name="ReimburseType">
+        <item>@string/txtNoneReimburse</item>
+        <item>@string/txtCanReimburse</item>
+        <item>@string/txtHaveReimburse</item>
+    </array>
+    <array name="RemindContent">
+        <item>@string/txtRemind1</item>
+        <item>@string/txtRemind2</item>
+        <item>@string/txtRemind3</item>
+        <item>@string/txtRemind4</item>
+        <item>@string/txtRemind5</item>
+        <item>@string/txtRemind6</item>
+        <item>@string/txtRemind7</item>
+        <item>@string/txtRemind8</item>
+        <item>@string/txtRemind9</item>
+    </array>
+    <array name="RemindType">
+        <item>@string/txtRemindType1Day</item>
+        <item>@string/txtRemindType2Day</item>
+        <item>@string/txtRemindType3Day</item>
+        <item>@string/txtRemindType4Day</item>
+        <item>@string/txtRemindType5Day</item>
+        <item>@string/txtRemindType6Day</item>
+        <item>@string/txtRemindType7Day</item>
+    </array>
+    <array name="SMSTransferType">
+        <item>@string/txtSaveAsOutgo</item>
+        <item>@string/txtSaveAsIncome</item>
+        <item>@string/txtSaveAsTransfer</item>
+        <item>@string/txtSaveAsLoan</item>
+        <item>@string/txtSaveAsWhiteList</item>
+        <item>@string/txtDelete</item>
+        <item>@string/txtMenuDeleteAll</item>
+    </array>
+    <array name="SearchLoanType">
+        <item>@string/txtFullString</item>
+        <item>@string/txtBorrowPayable</item>
+        <item>@string/txtLoanReceivable</item>
+        <item>@string/txtRepayment</item>
+        <item>@string/txtMakeCollections</item>
+    </array>
+    <array name="SearchType">
+        <item>@string/txtExpired</item>
+        <item>@string/txtNotExpired</item>
+        <item>@string/txtFullString</item>
+    </array>
+    <array name="ShareMolds">
+        <item>@string/txtShareMold1</item>
+        <item>@string/txtShareMold2</item>
+        <item>@string/txtShareMold3</item>
+        <item>@string/txtShareMold4</item>
+        <item>@string/txtShareMold5</item>
+        <item>@string/txtShareMold6</item>
+        <item>@string/txtShareMold7</item>
+        <item>@string/txtShareMold8</item>
+        <item>@string/txtShareMold9</item>
+        <item>@string/txtShareMold10</item>
+        <item>@string/txtShareMold11</item>
+        <item>@string/txtShareMold12</item>
+    </array>
+    <array name="ShareStatMolds">
+        <item>@string/txtShareStatMold1</item>
+        <item>@string/txtShareStatMold2</item>
+        <item>@string/txtShareStatMold3</item>
+        <item>@string/txtShareStatMold4</item>
+        <item>@string/txtShareStatMold5</item>
+        <item>@string/txtShareStatMold6</item>
+        <item>@string/txtShareStatMold7</item>
+    </array>
+    <array name="TakePicType">
+        <item>@string/txtTakePhotos</item>
+        <item>@string/txtChoosePhotos</item>
+    </array>
+    <array name="Times">
+        <item>@string/txtToday1</item>
+        <item>@string/txtYesterday</item>
+        <item>@string/txtThisWeek</item>
+        <item>@string/txtLastWeek</item>
+        <item>@string/txtThisMonth</item>
+        <item>@string/txtLastMonth</item>
+        <item>@string/txtThisQuarter</item>
+        <item>@string/txtLastQuarter</item>
+        <item>@string/txtThisYear</item>
+        <item>@string/txtLastYear</item>
+        <item>@string/txtLast7Day</item>
+        <item>@string/txtLast30Day</item>
+    </array>
+    <array name="TypeAddWhite">
+        <item>@string/txtImportFromSMS</item>
+        <item>@string/txtImportManual</item>
+    </array>
+    <array name="WeiboPicDel">
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="WeiboTakePicTypeDel">
+        <item>@string/txtTakePhotos</item>
+        <item>@string/txtChoosePhotos</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="arrayEditDelete">
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="arrayEditReimburse">
+        <item>@string/txtEdit</item>
+        <item>@string/txtReimburseTitle</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="arrayProcessSMS">
+        <item>@string/txtMenuDeleteAll</item>
+        <item>@string/txtSMSFeedback</item>
+    </array>
+    <array name="basicSortMode">
+        <item>@string/txtDefaultSort</item>
+        <item>@string/txtSortByPinyin</item>
+    </array>
+    <array name="creditRemind">
+        <item>@string/txtAlertNone</item>
+        <item>@string/txtAlertCurDay</item>
+        <item>@string/txtAlert3Day</item>
+        <item>@string/txtAlert7Day</item>
+    </array>
+    <array name="creditRepayDayType">
+        <item>@string/txtFixedDate</item>
+        <item>@string/txtAfterBillDay</item>
+    </array>
+    <array name="detailTabSelectorArray">
+        <item>@string/txtFullString</item>
+        <item>@string/txtType</item>
+        <item>@string/txtAccount</item>
+        <item>@string/txtTarget</item>
+        <item>@string/txtMember</item>
+        <item>@string/txtProject</item>
+    </array>
+    <array name="editDelete">
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="openAndClose">
+        <item>@string/txtClose</item>
+        <item>@string/txtOpen</item>
+    </array>
+    <attr format="boolean" name="bidirection"/>
+    <attr format="reference" name="centerDrawable"/>
+    <attr format="color" name="contourColor"/>
+    <attr format="dimension" name="contourWidth"/>
+    <attr format="boolean" name="cyclic"/>
+    <attr format="float" name="cylinderHovalHRatio"/>
+    <attr format="reference" name="indicator"/>
+    <attr format="integer" name="indicatorCount"/>
+    <attr format="dimension" name="intervalWidth"/>
+    <attr format="boolean" name="isNeedBottom"/>
+    <attr format="dimension" name="labelTextSize"/>
+    <attr format="integer" name="maxTextLength"/>
+    <attr format="float" name="ovalHeightWithRatio"/>
+    <attr format="float" name="ovalInOutRatio"/>
+    <attr format="dimension" name="percentTextSize"/>
+    <attr format="dimension" name="pillarContourWidth"/>
+    <attr format="dimension" name="pillarOvalHeight"/>
+    <attr format="dimension" name="pillarWidth"/>
+    <attr format="reference" name="pressShadowColor"/>
+    <attr format="float" name="pressShadowDx"/>
+    <attr format="float" name="pressShadowDy"/>
+    <attr format="float" name="pressShadowRadius"/>
+    <attr format="boolean" name="showdaysoption"/>
+    <attr format="float" name="startAngle"/>
+    <attr format="dimension" name="topFaceHeight"/>
+    <attr format="integer" name="visibleCount"/>
+    <attr format="integer" name="wheelEdgePadding"/>
+    <color name="TextColor">#FFFFFF</color>
+    <color name="backColor">#2000</color>
+    <color name="background">#272727</color>
+    <color name="bgColor">#000000</color>
+    <color name="bill_help_bg">#ffdec2a0</color>
+    <color name="bill_underanalyze">#ff8b2d14</color>
+    <color name="black">#000000</color>
+    <color name="blue">#499BF7</color>
+    <color name="brown">#ff9c3000</color>
+    <color name="calcDiv">#ff515151</color>
+    <color name="common_title">#F9F9F9</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="darkBrown">#ff664015</color>
+    <color name="darkGray">#ff333333</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="defaultTextColor">#666</color>
+    <color name="detail_bgColor">#f5f5f5</color>
+    <color name="devide_line">#CBCED2</color>
+    <color name="dialogContent">#ffeceff5</color>
+    <color name="dialogTitle">#ffdee4ee</color>
+    <color name="dialog_title_blue">#9CCCF7</color>
+    <color name="divider">#33000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="gold">#000000</color>
+    <color name="gray">#AFAFAF</color>
+    <color name="gray_font">#818181</color>
+    <color name="grays">#818181</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="histogram_text">@color/black</color>
+    <color name="incomeMoney">#ff329600</color>
+    <color name="lightBlack">#ff646464</color>
+    <color name="lightBlue">#ff374b69</color>
+    <color name="lightBlueHalf">#7f374b69</color>
+    <color name="lightBrown">#ff905d2f</color>
+    <color name="lightGray">#ff999999</color>
+    <color name="lightYellow">#fffdf8e5</color>
+    <color name="moneyGreen">#ff329600</color>
+    <color name="moneyRed">#ffc80032</color>
+    <color name="myColor">#000000</color>
+    <color name="naming">#ABABAB</color>
+    <color name="opacity20">#33000000</color>
+    <color name="opacity50">#88000000</color>
+    <color name="opacity60">#99000000</color>
+    <color name="opacity65">#a6000000</color>
+    <color name="opacity85">#d8000000</color>
+    <color name="orange">#ff9900</color>
+    <color name="orange_yellow">#9b9ba0</color>
+    <color name="outgoMoney">#ffc80032</color>
+    <color name="pie_part_1">#ff6e7fb5</color>
+    <color name="pie_part_2">#ffc5212c</color>
+    <color name="pie_part_3">#ff34a9b1</color>
+    <color name="pie_part_4">#ff564290</color>
+    <color name="pie_part_5">#ffeea556</color>
+    <color name="pie_part_6">#ff61c25a</color>
+    <color name="pie_part_7">#ff8cadd7</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="refresh_head_bg">#2B2B2B</color>
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="text_num_gray">#333</color>
+    <color name="text_num_gray1">#333</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_fb_color_btn_normal">#333333</color>
+    <color name="umeng_fb_color_btn_pressed">#1495F7</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="whites">#ffffff</color>
+    <color name="yellow">#F99503</color>
+    <dimen name="Histogram_des_height">15.0dip</dimen>
+    <dimen name="Histogram_dual_pillar_view_width">50.0dip</dimen>
+    <dimen name="Histogram_interval">16.0dip</dimen>
+    <dimen name="Histogram_pillar_contour_width">1.0dip</dimen>
+    <dimen name="Histogram_single_pillar_view_width">40.0dip</dimen>
+    <dimen name="Histogram_top_face_height">10.0dip</dimen>
+    <dimen name="Histogram_width">20.0dip</dimen>
+    <dimen name="Histogream_dual_interval">5.0dip</dimen>
+    <dimen name="Histogream_dual_w">14.0dip</dimen>
+    <dimen name="TextView_MinSize">12.0sp</dimen>
+    <dimen name="bgPaddingLR">18.0dip</dimen>
+    <dimen name="bluePgPaddingLR1">@dimen/size8</dimen>
+    <dimen name="bluePgPaddingLR2">@dimen/size10</dimen>
+    <dimen name="buttonHeight1">36.0dip</dimen>
+    <dimen name="buttonHeight2">28.0dip</dimen>
+    <dimen name="grayBtnHeight">30.0dip</dimen>
+    <dimen name="listCornerPadding">@dimen/size18</dimen>
+    <dimen name="listHeight1">42.0dip</dimen>
+    <dimen name="listHeight2">52.0dip</dimen>
+    <dimen name="paperMarginB1">@dimen/size14</dimen>
+    <dimen name="paperMarginB2">@dimen/size6</dimen>
+    <dimen name="paperMarginBottom">4.0dip</dimen>
+    <dimen name="paperMarginLR">6.0dip</dimen>
+    <dimen name="paperMarginTop">8.0dip</dimen>
+    <dimen name="paperPaddingLR">12.0dip</dimen>
+    <dimen name="paperPaddingLRC">@dimen/size10</dimen>
+    <dimen name="paperPaddingTop">@dimen/size8</dimen>
+    <dimen name="paperShadeBottom">4.0dip</dimen>
+    <dimen name="paperShadeLR">2.0dip</dimen>
+    <dimen name="size1">1.0dip</dimen>
+    <dimen name="size10">10.0dip</dimen>
+    <dimen name="size100">100.0dip</dimen>
+    <dimen name="size102">102.0dip</dimen>
+    <dimen name="size104">104.0dip</dimen>
+    <dimen name="size107">107.0dip</dimen>
+    <dimen name="size108">108.0dip</dimen>
+    <dimen name="size110">110.0dip</dimen>
+    <dimen name="size112">112.0dip</dimen>
+    <dimen name="size113">113.0dip</dimen>
+    <dimen name="size116">116.0dip</dimen>
+    <dimen name="size118">118.0dip</dimen>
+    <dimen name="size12">12.0dip</dimen>
+    <dimen name="size120">120.0dip</dimen>
+    <dimen name="size127">127.0dip</dimen>
+    <dimen name="size128">128.0dip</dimen>
+    <dimen name="size13">13.0dip</dimen>
+    <dimen name="size130">130.0dip</dimen>
+    <dimen name="size132">132.0dip</dimen>
+    <dimen name="size134">134.0dip</dimen>
+    <dimen name="size136">136.0dip</dimen>
+    <dimen name="size138">138.0dip</dimen>
+    <dimen name="size14">14.0dip</dimen>
+    <dimen name="size141">141.0dip</dimen>
+    <dimen name="size148">148.0dip</dimen>
+    <dimen name="size15">15.0dip</dimen>
+    <dimen name="size154">154.0dip</dimen>
+    <dimen name="size155">155.0dip</dimen>
+    <dimen name="size16">16.0dip</dimen>
+    <dimen name="size160">160.0dip</dimen>
+    <dimen name="size161">161.0dip</dimen>
+    <dimen name="size163">163.0dip</dimen>
+    <dimen name="size168">168.0dip</dimen>
+    <dimen name="size17">17.0dip</dimen>
+    <dimen name="size172">172.0dip</dimen>
+    <dimen name="size175">175.0dip</dimen>
+    <dimen name="size178">178.0dip</dimen>
+    <dimen name="size179">179.0dip</dimen>
+    <dimen name="size18">18.0dip</dimen>
+    <dimen name="size180">180.0dip</dimen>
+    <dimen name="size185">185.0dip</dimen>
+    <dimen name="size192">192.0dip</dimen>
+    <dimen name="size2">2.0dip</dimen>
+    <dimen name="size20">20.0dip</dimen>
+    <dimen name="size202">202.0dip</dimen>
+    <dimen name="size21">21.0dip</dimen>
+    <dimen name="size213">213.0dip</dimen>
+    <dimen name="size219">219.0dip</dimen>
+    <dimen name="size22">22.0dip</dimen>
+    <dimen name="size23">23.0dip</dimen>
+    <dimen name="size235">235.0dip</dimen>
+    <dimen name="size24">24.0dip</dimen>
+    <dimen name="size241">241.0dip</dimen>
+    <dimen name="size245">245.0dip</dimen>
+    <dimen name="size25">25.0dip</dimen>
+    <dimen name="size26">26.0dip</dimen>
+    <dimen name="size260">260.0dip</dimen>
+    <dimen name="size27">27.0dip</dimen>
+    <dimen name="size28">28.0dip</dimen>
+    <dimen name="size280">280.0dip</dimen>
+    <dimen name="size290">290.0dip</dimen>
+    <dimen name="size293">293.0dip</dimen>
+    <dimen name="size3">3.0dip</dimen>
+    <dimen name="size30">30.0dip</dimen>
+    <dimen name="size32">32.0dip</dimen>
+    <dimen name="size320">320.0dip</dimen>
+    <dimen name="size33">33.0dip</dimen>
+    <dimen name="size34">34.0dip</dimen>
+    <dimen name="size35">35.0dip</dimen>
+    <dimen name="size36">36.0dip</dimen>
+    <dimen name="size37">37.0dip</dimen>
+    <dimen name="size38">38.0dip</dimen>
+    <dimen name="size39">39.0dip</dimen>
+    <dimen name="size4">4.0dip</dimen>
+    <dimen name="size40">40.0dip</dimen>
+    <dimen name="size41">41.0dip</dimen>
+    <dimen name="size42">42.0dip</dimen>
+    <dimen name="size43">43.0dip</dimen>
+    <dimen name="size44">44.0dip</dimen>
+    <dimen name="size45">45.0dip</dimen>
+    <dimen name="size46">46.0dip</dimen>
+    <dimen name="size48">48.0dip</dimen>
+    <dimen name="size49">49.0dip</dimen>
+    <dimen name="size5">5.0dip</dimen>
+    <dimen name="size50">50.0dip</dimen>
+    <dimen name="size52">52.0dip</dimen>
+    <dimen name="size53">53.0dip</dimen>
+    <dimen name="size54">54.0dip</dimen>
+    <dimen name="size55">55.0dip</dimen>
+    <dimen name="size56">56.0dip</dimen>
+    <dimen name="size58">58.0dip</dimen>
+    <dimen name="size6">6.0dip</dimen>
+    <dimen name="size60">60.0dip</dimen>
+    <dimen name="size61">61.0dip</dimen>
+    <dimen name="size63">63.0dip</dimen>
+    <dimen name="size65">65.0dip</dimen>
+    <dimen name="size67">67.0dip</dimen>
+    <dimen name="size68">68.0dip</dimen>
+    <dimen name="size7">7.0dip</dimen>
+    <dimen name="size70">70.0dip</dimen>
+    <dimen name="size72">72.0dip</dimen>
+    <dimen name="size73">73.0dip</dimen>
+    <dimen name="size76">76.0dip</dimen>
+    <dimen name="size77">77.0dip</dimen>
+    <dimen name="size78">78.0dip</dimen>
+    <dimen name="size8">8.0dip</dimen>
+    <dimen name="size80">80.0dip</dimen>
+    <dimen name="size81">81.0dip</dimen>
+    <dimen name="size83">83.0dip</dimen>
+    <dimen name="size85">85.0dip</dimen>
+    <dimen name="size86">86.0dip</dimen>
+    <dimen name="size87">87.0dip</dimen>
+    <dimen name="size88">88.0dip</dimen>
+    <dimen name="size89">89.0dip</dimen>
+    <dimen name="size90">90.0dip</dimen>
+    <dimen name="size91">91.0dip</dimen>
+    <dimen name="size93">93.0dip</dimen>
+    <dimen name="size95">95.0dip</dimen>
+    <dimen name="size97">97.0dip</dimen>
+    <dimen name="sizen10">-10.0dip</dimen>
+    <dimen name="sizen12">-12.0dip</dimen>
+    <dimen name="sizen2">-2.0dip</dimen>
+    <dimen name="sizen25">-25.0dip</dimen>
+    <dimen name="sizen4">-4.0dip</dimen>
+    <dimen name="sizen6">-6.0dip</dimen>
+    <dimen name="sizen8">-8.0dip</dimen>
+    <dimen name="tallyPicWidth">120.0dip</dimen>
+    <dimen name="txtSizeF1">12.0sp</dimen>
+    <dimen name="txtSizeF2">14.0sp</dimen>
+    <dimen name="txtSizeF3">16.0sp</dimen>
+    <dimen name="txtSizeF4">18.0sp</dimen>
+    <dimen name="txtSizeF5">24.0sp</dimen>
+    <dimen name="txtSizeF6">30.0sp</dimen>
+    <item name="blueItem" type="drawable">#ffdae4f2</item>
+    <item name="calcTextP" type="drawable">#ff940808</item>
+    <item name="opacity10" type="drawable">#19000000</item>
+    <item name="opacity15" type="drawable">#26000000</item>
+    <item name="opacity30" type="drawable">#4c000000</item>
+    <drawable name="semi_black">#80000000</drawable>
+    <item name="transparent" type="drawable">#00000000</item>
+    <item name="typeSubNor" type="drawable">#fffafbfc</item>
+    <item name="whiteClick" type="drawable">#ffe5e5e5</item>
+    <item name="IOList" type="id">false</item>
+    <item name="NetworkLayout" type="id">false</item>
+    <item name="QueryList" type="id">false</item>
+    <item name="RemindLayout" type="id">false</item>
+    <item name="aboutWacai" type="id">false</item>
+    <item name="accountBalance" type="id">false</item>
+    <item name="accountLine" type="id">false</item>
+    <item name="accountName" type="id">false</item>
+    <item name="accountTitle" type="id">false</item>
+    <item name="addTarget" type="id">false</item>
+    <item name="address" type="id">false</item>
+    <item name="addressLine" type="id">false</item>
+    <item name="addressTitle" type="id">false</item>
+    <item name="aotuCheckingAccount" type="id">false</item>
+    <item name="aotuComple" type="id">false</item>
+    <item name="auto_focus" type="id"/>
+    <item name="baselayout" type="id">false</item>
+    <item name="basicSortMode" type="id">false</item>
+    <item name="bindingAccountLine" type="id">false</item>
+    <item name="bindingAccountName" type="id">false</item>
+    <item name="bindingAccountTitle" type="id">false</item>
+    <item name="bindingPassword" type="id">false</item>
+    <item name="bindingPasswordLine" type="id">false</item>
+    <item name="bindingPasswordTitle" type="id">false</item>
+    <item name="bottombar" type="id">false</item>
+    <item name="btnAcc" type="id">false</item>
+    <item name="btnAccount" type="id">false</item>
+    <item name="btnAdd" type="id">false</item>
+    <item name="btnAddDefault" type="id">false</item>
+    <item name="btnAlertDate" type="id">false</item>
+    <item name="btnAlertType" type="id">false</item>
+    <item name="btnAotuComple" type="id">false</item>
+    <item name="btnAverage" type="id">false</item>
+    <item name="btnBack" type="id">false</item>
+    <item name="btnBalanceSummary" type="id">false</item>
+    <item name="btnBinding" type="id">false</item>
+    <item name="btnBudget" type="id">false</item>
+    <item name="btnCalcSwitcher" type="id">false</item>
+    <item name="btnClear" type="id">false</item>
+    <item name="btnClub" type="id">false</item>
+    <item name="btnCount" type="id">false</item>
+    <item name="btnDate" type="id">false</item>
+    <item name="btnDateNext" type="id">false</item>
+    <item name="btnDatePrev" type="id">false</item>
+    <item name="btnDebt" type="id">false</item>
+    <item name="btnDelete" type="id">false</item>
+    <item name="btnDetail" type="id">false</item>
+    <item name="btnEdit" type="id">false</item>
+    <item name="btnExeDay" type="id">false</item>
+    <item name="btnFavoriteSet" type="id">false</item>
+    <item name="btnFull" type="id">false</item>
+    <item name="btnHide" type="id">false</item>
+    <item name="btnImportSMS" type="id">false</item>
+    <item name="btnIncome" type="id">false</item>
+    <item name="btnLoan" type="id">false</item>
+    <item name="btnLoanSum" type="id">false</item>
+    <item name="btnLoanType" type="id">false</item>
+    <item name="btnLogin" type="id">false</item>
+    <item name="btnMarket" type="id">false</item>
+    <item name="btnMember" type="id">false</item>
+    <item name="btnMoney" type="id">false</item>
+    <item name="btnMoneyIn" type="id">false</item>
+    <item name="btnMoneyOut" type="id">false</item>
+    <item name="btnMoneyType" type="id">false</item>
+    <item name="btnMore" type="id">false</item>
+    <item name="btnMsg" type="id">false</item>
+    <item name="btnName" type="id">false</item>
+    <item name="btnNew" type="id">false</item>
+    <item name="btnNext" type="id">false</item>
+    <item name="btnOk" type="id">false</item>
+    <item name="btnOutgo" type="id">false</item>
+    <item name="btnPaybackDate" type="id">false</item>
+    <item name="btnPrev" type="id">false</item>
+    <item name="btnProfit" type="id">false</item>
+    <item name="btnProject" type="id">false</item>
+    <item name="btnQuery" type="id">false</item>
+    <item name="btnQueryMore" type="id">false</item>
+    <item name="btnQuit" type="id">false</item>
+    <item name="btnRefresh" type="id">false</item>
+    <item name="btnRegist" type="id">false</item>
+    <item name="btnReimburse" type="id">false</item>
+    <item name="btnReimburseMgr" type="id">false</item>
+    <item name="btnRepay" type="id">false</item>
+    <item name="btnReset" type="id">false</item>
+    <item name="btnSave" type="id">false</item>
+    <item name="btnScheduleIO" type="id">false</item>
+    <item name="btnScheduleType" type="id">false</item>
+    <item name="btnSearch" type="id">false</item>
+    <item name="btnSetting" type="id">false</item>
+    <item name="btnStar" type="id">false</item>
+    <item name="btnStat" type="id">false</item>
+    <item name="btnSync" type="id">false</item>
+    <item name="btnSyncSetting" type="id">false</item>
+    <item name="btnTake1" type="id">false</item>
+    <item name="btnTake2" type="id">false</item>
+    <item name="btnTake3" type="id">false</item>
+    <item name="btnTake4" type="id">false</item>
+    <item name="btnTally" type="id">false</item>
+    <item name="btnTallyCamera" type="id">false</item>
+    <item name="btnTallyFast" type="id">false</item>
+    <item name="btnTallySms" type="id">false</item>
+    <item name="btnTallyVoice" type="id">false</item>
+    <item name="btnTarget" type="id">false</item>
+    <item name="btnToolkit" type="id">false</item>
+    <item name="btnTransfer" type="id">false</item>
+    <item name="btnType" type="id">false</item>
+    <item name="btnTypeIncome" type="id">false</item>
+    <item name="btnUpload" type="id">false</item>
+    <item name="btnUserDefine" type="id">false</item>
+    <item name="btnWeb" type="id">false</item>
+    <item name="btnWhiteList" type="id">false</item>
+    <item name="btn_eidtImg" type="id">false</item>
+    <item name="btn_refresh" type="id">false</item>
+    <item name="button1" type="id">false</item>
+    <item name="button2" type="id">false</item>
+    <item name="button3" type="id">false</item>
+    <item name="calcFrame" type="id">false</item>
+    <item name="cbBillDay" type="id">false</item>
+    <item name="cbCanReimburse" type="id">false</item>
+    <item name="cbDeleteForever" type="id">false</item>
+    <item name="cbEnableNetworkWarning" type="id">false</item>
+    <item name="cbHaveReimburse" type="id">false</item>
+    <item name="cbItem1" type="id">false</item>
+    <item name="cbLoaclPassword" type="id">false</item>
+    <item name="cbNeedBalanceRemind" type="id">false</item>
+    <item name="cbNeedSMS" type="id">false</item>
+    <item name="cbNoneReimburse" type="id">false</item>
+    <item name="cbReimburse" type="id">false</item>
+    <item name="cbRemindCharge" type="id">false</item>
+    <item name="cbSelAll" type="id">false</item>
+    <item name="cbSetBalance" type="id">false</item>
+    <item name="cbSetWarningBalance" type="id">false</item>
+    <item name="cbSina" type="id">false</item>
+    <item name="cbSyncAutomati" type="id">false</item>
+    <item name="cbTabSelector" type="id">false</item>
+    <item name="cbTecent" type="id">false</item>
+    <item name="cbTencent" type="id">false</item>
+    <item name="chartContainer" type="id">false</item>
+    <item name="chartFoledLine" type="id">false</item>
+    <item name="chartHist" type="id">false</item>
+    <item name="chartList" type="id">false</item>
+    <item name="chartPie" type="id">false</item>
+    <item name="chartScrollList" type="id">false</item>
+    <item name="checkAll" type="id">false</item>
+    <item name="checkBox" type="id">false</item>
+    <item name="checkUpdate" type="id">false</item>
+    <item name="checkbox" type="id">false</item>
+    <item name="checkingAccount" type="id">false</item>
+    <item name="checkitem" type="id">false</item>
+    <item name="chooser" type="id">false</item>
+    <item name="chooserMargin" type="id">false</item>
+    <item name="comment" type="id">false</item>
+    <item name="comments" type="id">false</item>
+    <item name="commit_suggestion_via_microblog" type="id">false</item>
+    <item name="content" type="id">false</item>
+    <item name="contentLayout" type="id">false</item>
+    <item name="contentView" type="id">false</item>
+    <item name="creditCardInfo" type="id">false</item>
+    <item name="cropGallery" type="id">false</item>
+    <item name="dateLayoutBase" type="id">false</item>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="defaultFreq" type="id">false</item>
+    <item name="defaultManual" type="id">false</item>
+    <item name="desc" type="id">false</item>
+    <item name="desc1" type="id">false</item>
+    <item name="desc2" type="id">false</item>
+    <item name="desc3" type="id">false</item>
+    <item name="desc4" type="id">false</item>
+    <item name="desc5" type="id">false</item>
+    <item name="desc6" type="id">false</item>
+    <item name="desc7" type="id">false</item>
+    <item name="desc8" type="id">false</item>
+    <item name="desc9" type="id">false</item>
+    <item name="detailsList" type="id">false</item>
+    <item name="detailsTypeList" type="id">false</item>
+    <item name="differenceBalanceValue" type="id">false</item>
+    <item name="disconnect" type="id">false</item>
+    <item name="divider" type="id">false</item>
+    <item name="dividerBottom" type="id">false</item>
+    <item name="dividerLine" type="id">false</item>
+    <item name="elOutgoTypes" type="id">false</item>
+    <item name="emailLine" type="id">false</item>
+    <item name="emailTitle" type="id">false</item>
+    <item name="enableBalance" type="id">false</item>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="etEmail" type="id">false</item>
+    <item name="etName" type="id">false</item>
+    <item name="etPasswordConfirm" type="id">false</item>
+    <item name="etSearch" type="id">false</item>
+    <item name="etText" type="id">false</item>
+    <item name="exChangeRate" type="id">false</item>
+    <item name="exitTaobao" type="id">false</item>
+    <item name="expansionView" type="id">false</item>
+    <item name="footprintBase" type="id">false</item>
+    <item name="footprintList" type="id">false</item>
+    <item name="forgotPassword" type="id">false</item>
+    <item name="gallery" type="id">false</item>
+    <item name="headerTitle" type="id">false</item>
+    <item name="headerValue" type="id">false</item>
+    <item name="helperOnline" type="id">false</item>
+    <item name="hint" type="id">false</item>
+    <item name="hintView" type="id">false</item>
+    <item name="icSearch" type="id">false</item>
+    <item name="icon" type="id">false</item>
+    <item name="id_date" type="id">false</item>
+    <item name="id_day" type="id">false</item>
+    <item name="id_hour" type="id">false</item>
+    <item name="id_icon" type="id">false</item>
+    <item name="id_main" type="id">false</item>
+    <item name="id_main_layout" type="id">false</item>
+    <item name="id_minute" type="id">false</item>
+    <item name="id_month" type="id">false</item>
+    <item name="id_sec" type="id">false</item>
+    <item name="id_year" type="id">false</item>
+    <item name="image1" type="id">false</item>
+    <item name="image2" type="id">false</item>
+    <item name="image3" type="id">false</item>
+    <item name="image4" type="id">false</item>
+    <item name="imageFrame" type="id">false</item>
+    <item name="image_content" type="id">false</item>
+    <item name="image_pick" type="id">false</item>
+    <item name="imgThumbnails" type="id">false</item>
+    <item name="importData" type="id">false</item>
+    <item name="importTaobaoData" type="id">false</item>
+    <item name="importWhite" type="id">false</item>
+    <item name="incomeType" type="id">false</item>
+    <item name="indicateView" type="id">false</item>
+    <item name="input_text_count_prompt" type="id">false</item>
+    <item name="item1" type="id">false</item>
+    <item name="item2" type="id">false</item>
+    <item name="item3" type="id">false</item>
+    <item name="item4" type="id">false</item>
+    <item name="item4Default" type="id">false</item>
+    <item name="item4Layout" type="id">false</item>
+    <item name="itemCbOut1" type="id">false</item>
+    <item name="itemList" type="id">false</item>
+    <item name="ivCancel" type="id">false</item>
+    <item name="ivEmptyChart" type="id">false</item>
+    <item name="ivHaveBillsNew" type="id">false</item>
+    <item name="ivItem2" type="id">false</item>
+    <item name="ivPic" type="id">false</item>
+    <item name="ivPic1" type="id">false</item>
+    <item name="ivPic2" type="id">false</item>
+    <item name="ivPic3" type="id">false</item>
+    <item name="ivPic4" type="id">false</item>
+    <item name="ivVolumeLeft1" type="id">false</item>
+    <item name="ivVolumeLeft2" type="id">false</item>
+    <item name="ivVolumeLeft3" type="id">false</item>
+    <item name="ivVolumeRight1" type="id">false</item>
+    <item name="ivVolumeRight2" type="id">false</item>
+    <item name="ivVolumeRight3" type="id">false</item>
+    <item name="ivWacaiHomeImage" type="id">false</item>
+    <item name="ivWaitAnim" type="id">false</item>
+    <item name="iv_sina" type="id">false</item>
+    <item name="iv_tencent" type="id">false</item>
+    <item name="lastCradNO" type="id">false</item>
+    <item name="launch_product_query" type="id"/>
+    <item name="layoutAccTransIn" type="id">false</item>
+    <item name="layoutAccTransOut" type="id">false</item>
+    <item name="layoutAccount" type="id">false</item>
+    <item name="layoutAccountType" type="id">false</item>
+    <item name="layoutBeninMoney" type="id">false</item>
+    <item name="layoutBillDay" type="id">false</item>
+    <item name="layoutCardBank" type="id">false</item>
+    <item name="layoutCardNo" type="id">false</item>
+    <item name="layoutCbBillDay" type="id">false</item>
+    <item name="layoutDateEnd" type="id">false</item>
+    <item name="layoutDateStart" type="id">false</item>
+    <item name="layoutDebtor" type="id">false</item>
+    <item name="layoutEndMoney" type="id">false</item>
+    <item name="layoutIncomeReimburse" type="id">false</item>
+    <item name="layoutIncomeTarget" type="id">false</item>
+    <item name="layoutIncomeTypes" type="id">false</item>
+    <item name="layoutLimit" type="id">false</item>
+    <item name="layoutLoanType" type="id">false</item>
+    <item name="layoutMember" type="id">false</item>
+    <item name="layoutMoneyType" type="id">false</item>
+    <item name="layoutName" type="id">false</item>
+    <item name="layoutNowbalance" type="id">false</item>
+    <item name="layoutPic1" type="id">false</item>
+    <item name="layoutPic2" type="id">false</item>
+    <item name="layoutPic3" type="id">false</item>
+    <item name="layoutPic4" type="id">false</item>
+    <item name="layoutProject" type="id">false</item>
+    <item name="layoutReimburse" type="id">false</item>
+    <item name="layoutRepayDay" type="id">false</item>
+    <item name="layoutRepayDayType" type="id">false</item>
+    <item name="layoutRepayRemind" type="id">false</item>
+    <item name="layoutSubTypes" type="id">false</item>
+    <item name="layoutTake1" type="id">false</item>
+    <item name="layoutTake2" type="id">false</item>
+    <item name="layoutTake3" type="id">false</item>
+    <item name="layoutTake4" type="id">false</item>
+    <item name="layoutTarget" type="id">false</item>
+    <item name="layoutTimeShortcuts" type="id">false</item>
+    <item name="layoutTypes" type="id">false</item>
+    <item name="layoutWarningbalance" type="id">false</item>
+    <item name="listButton" type="id">false</item>
+    <item name="listFrame" type="id">false</item>
+    <item name="listHint" type="id">false</item>
+    <item name="listItemRoot" type="id">false</item>
+    <item name="listView" type="id">false</item>
+    <item name="listhint" type="id">false</item>
+    <item name="listitem1" type="id">false</item>
+    <item name="listitem2" type="id">false</item>
+    <item name="listitem3" type="id">false</item>
+    <item name="llAccountOut" type="id">false</item>
+    <item name="llAverageFrame" type="id">false</item>
+    <item name="llBaselayout" type="id">false</item>
+    <item name="llCamera" type="id">false</item>
+    <item name="llChartSelBar" type="id">false</item>
+    <item name="llChartSelector" type="id">false</item>
+    <item name="llCreditBillTab" type="id">false</item>
+    <item name="llDate" type="id">false</item>
+    <item name="llDetailTab" type="id">false</item>
+    <item name="llFootprintTab" type="id">false</item>
+    <item name="llGroupRoot" type="id">false</item>
+    <item name="llHint" type="id">false</item>
+    <item name="llHistProgress" type="id">false</item>
+    <item name="llHomeDisplayView" type="id">false</item>
+    <item name="llLoginLine" type="id">false</item>
+    <item name="llPage1" type="id">false</item>
+    <item name="llRepayRecordTab" type="id">false</item>
+    <item name="llSwitcher" type="id">false</item>
+    <item name="llTitleTab" type="id">false</item>
+    <item name="llUseSMSFeedback" type="id">false</item>
+    <item name="llWhiteList" type="id">false</item>
+    <item name="localPasswordLine" type="id">false</item>
+    <item name="lvAccount" type="id">false</item>
+    <item name="lvAlert" type="id">false</item>
+    <item name="lvBank" type="id">false</item>
+    <item name="lvCommon" type="id">false</item>
+    <item name="lvContent" type="id">false</item>
+    <item name="lvFast" type="id">false</item>
+    <item name="lvFileList" type="id">false</item>
+    <item name="lvHistory" type="id">false</item>
+    <item name="lvMember" type="id">false</item>
+    <item name="lvNearby" type="id">false</item>
+    <item name="lvProperty" type="id">false</item>
+    <item name="lvPropertySum" type="id">false</item>
+    <item name="lvScheduleList" type="id">false</item>
+    <item name="lvSearch" type="id">false</item>
+    <item name="lvSetting" type="id">false</item>
+    <item name="lvShortcut" type="id">false</item>
+    <item name="lvShortcuts" type="id">false</item>
+    <item name="mainlayout" type="id">false</item>
+    <item name="menberMgr" type="id">false</item>
+    <item name="modify_connection" type="id">false</item>
+    <item name="money" type="id">false</item>
+    <item name="moneySumItem" type="id">false</item>
+    <item name="moneyTypeSetting" type="id">false</item>
+    <item name="moreLayout" type="id">false</item>
+    <item name="multiSel" type="id">false</item>
+    <item name="name" type="id">false</item>
+    <item name="nameLine" type="id">false</item>
+    <item name="nameTitle" type="id">false</item>
+    <item name="nowBalanceValue" type="id">false</item>
+    <item name="nowbalance" type="id">false</item>
+    <item name="otherAccount" type="id">false</item>
+    <item name="otherMessage" type="id">false</item>
+    <item name="outgoType" type="id">false</item>
+    <item name="password" type="id">false</item>
+    <item name="passwordConfirmLine" type="id">false</item>
+    <item name="passwordConfirmTitle" type="id">false</item>
+    <item name="passwordHint" type="id">false</item>
+    <item name="passwordLine" type="id">false</item>
+    <item name="passwordTitle" type="id">false</item>
+    <item name="pb" type="id">false</item>
+    <item name="picIndicator" type="id">false</item>
+    <item name="pickerDateTime" type="id">false</item>
+    <item name="popFrame" type="id">false</item>
+    <item name="popupFrame" type="id">false</item>
+    <item name="progress" type="id">false</item>
+    <item name="progressBar" type="id">false</item>
+    <item name="progressBar1" type="id">false</item>
+    <item name="progressFg" type="id">false</item>
+    <item name="progressbar_download" type="id">false</item>
+    <item name="projectMgr" type="id">false</item>
+    <item name="quit" type="id"/>
+    <item name="rbChartHist" type="id">false</item>
+    <item name="rbChartLine" type="id">false</item>
+    <item name="rbChartList" type="id">false</item>
+    <item name="rbChartPie" type="id">false</item>
+    <item name="rbContainsReimburse" type="id">false</item>
+    <item name="rbDate" type="id">false</item>
+    <item name="rbExclusionsReimburse" type="id">false</item>
+    <item name="rbFreq" type="id">false</item>
+    <item name="rbGroupInputTrade" type="id">false</item>
+    <item name="rbHistory" type="id">false</item>
+    <item name="rbInputAcc" type="id">false</item>
+    <item name="rbInputLoanAcc" type="id">false</item>
+    <item name="rbMemberMulti" type="id">false</item>
+    <item name="rbMemberSingle" type="id">false</item>
+    <item name="rbNearby" type="id">false</item>
+    <item name="rbOutgoAll" type="id">false</item>
+    <item name="rbOutgoFast" type="id">false</item>
+    <item name="rbPinYin" type="id">false</item>
+    <item name="rbQuery" type="id">false</item>
+    <item name="rbRemoteQuery" type="id">false</item>
+    <item name="rbTime" type="id">false</item>
+    <item name="realBalance" type="id">false</item>
+    <item name="realBalanceTitle" type="id">false</item>
+    <item name="realBalanceValue" type="id">false</item>
+    <item name="reimburseAccountItem" type="id">false</item>
+    <item name="reimburseMoneyItem" type="id">false</item>
+    <item name="relogin" type="id">false</item>
+    <item name="repayDay" type="id">false</item>
+    <item name="repayRemind" type="id">false</item>
+    <item name="resetPassword" type="id">false</item>
+    <item name="restart_preview" type="id"/>
+    <item name="restore" type="id">false</item>
+    <item name="return_scan_result" type="id"/>
+    <item name="rgAccount" type="id">false</item>
+    <item name="rgBank" type="id">false</item>
+    <item name="rgChartSwitcher" type="id">false</item>
+    <item name="rgDateTime" type="id">false</item>
+    <item name="rgMember" type="id">false</item>
+    <item name="rgOutgo" type="id">false</item>
+    <item name="rgQueryChoice" type="id">false</item>
+    <item name="rgSort" type="id">false</item>
+    <item name="rgTarget" type="id">false</item>
+    <item name="rlChartSel" type="id">false</item>
+    <item name="rlDetailTypeRoot" type="id">false</item>
+    <item name="rlFoldedLine" type="id">false</item>
+    <item name="rlLayout" type="id">false</item>
+    <item name="rlReimburse" type="id">false</item>
+    <item name="rlWeiboShare" type="id">false</item>
+    <item name="rootChartTab" type="id">false</item>
+    <item name="rootChooserAccount" type="id">false</item>
+    <item name="rootChooserBank" type="id">false</item>
+    <item name="rootChooserCalculator" type="id">false</item>
+    <item name="rootChooserCommon" type="id">false</item>
+    <item name="rootChooserDateTimeSwitcher" type="id">false</item>
+    <item name="rootChooserMember" type="id">false</item>
+    <item name="rootChooserOutgoType" type="id">false</item>
+    <item name="rootChooserTarget" type="id">false</item>
+    <item name="rootIncomeTab" type="id">false</item>
+    <item name="rootLoanTab" type="id">false</item>
+    <item name="rootOutgoTab" type="id">false</item>
+    <item name="rootOutgoTypAllTab" type="id">false</item>
+    <item name="rootOutgoTypFastTab" type="id">false</item>
+    <item name="rootPropertyTab" type="id">false</item>
+    <item name="rootQuery" type="id">false</item>
+    <item name="rootSchedule" type="id">false</item>
+    <item name="rootScheduleIncomeTab" type="id">false</item>
+    <item name="rootScheduleOutgoTab" type="id">false</item>
+    <item name="rootTargetHistory" type="id">false</item>
+    <item name="rootTargetNearby" type="id">false</item>
+    <item name="rootTrade" type="id">false</item>
+    <item name="rootTransferTab" type="id">false</item>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="selectDefault1" type="id">false</item>
+    <item name="selectDefault2" type="id">false</item>
+    <item name="selectDefault3" type="id">false</item>
+    <item name="selectFrame" type="id">false</item>
+    <item name="selectItem1" type="id">false</item>
+    <item name="selectItem2" type="id">false</item>
+    <item name="selectItem3" type="id">false</item>
+    <item name="selectItem4" type="id">false</item>
+    <item name="selectItem5" type="id">false</item>
+    <item name="selectItem6" type="id">false</item>
+    <item name="selectItem7" type="id">false</item>
+    <item name="selectItem8" type="id">false</item>
+    <item name="selected1" type="id">false</item>
+    <item name="selected2" type="id">false</item>
+    <item name="selected3" type="id">false</item>
+    <item name="selected4" type="id">false</item>
+    <item name="selected_view" type="id"/>
+    <item name="sendToFriends" type="id">false</item>
+    <item name="settingFeedback" type="id">false</item>
+    <item name="settingFrame" type="id">false</item>
+    <item name="share_to_friends" type="id">false</item>
+    <item name="shortcut" type="id">false</item>
+    <item name="sinaweiboAuthorized" type="id">false</item>
+    <item name="statBaselayout" type="id">false</item>
+    <item name="statCompare" type="id">false</item>
+    <item name="statIncome" type="id">false</item>
+    <item name="statInfo" type="id">false</item>
+    <item name="statOutgo" type="id">false</item>
+    <item name="statSettingFrame" type="id">false</item>
+    <item name="statSettingLine" type="id">false</item>
+    <item name="statTabRoot" type="id">false</item>
+    <item name="subtypeTitle" type="id">false</item>
+    <item name="suggestion_or_bugs" type="id">false</item>
+    <item name="sumbar" type="id">false</item>
+    <item name="switchAcc" type="id">false</item>
+    <item name="switcherContainer" type="id">false</item>
+    <item name="syncData" type="id">false</item>
+    <item name="syncRangeLayout" type="id">false</item>
+    <item name="tabBaseLayout" type="id">false</item>
+    <item name="tabLayoutBase" type="id">false</item>
+    <item name="tabSwitchLine" type="id">false</item>
+    <item name="tabcontent" type="id">false</item>
+    <item name="tallyLine" type="id">false</item>
+    <item name="target" type="id">false</item>
+    <item name="targetMgr" type="id">false</item>
+    <item name="tencentAuthorized" type="id">false</item>
+    <item name="tencentweiboAuthorized" type="id">false</item>
+    <item name="time" type="id">false</item>
+    <item name="timeLayout" type="id">false</item>
+    <item name="title" type="id">false</item>
+    <item name="titleLine" type="id">false</item>
+    <item name="title_view" type="id">false</item>
+    <item name="toolBar" type="id">false</item>
+    <item name="toolkitBox" type="id">false</item>
+    <item name="topLayout" type="id">false</item>
+    <item name="totalItem" type="id">false</item>
+    <item name="tv" type="id">false</item>
+    <item name="tv1" type="id">false</item>
+    <item name="tv2" type="id">false</item>
+    <item name="tvAboutVersions" type="id">false</item>
+    <item name="tvAcc" type="id">false</item>
+    <item name="tvAccBalance" type="id">false</item>
+    <item name="tvAccDes" type="id">false</item>
+    <item name="tvAccIn" type="id">false</item>
+    <item name="tvAccIncome" type="id">false</item>
+    <item name="tvAccOut" type="id">false</item>
+    <item name="tvAccOutgo" type="id">false</item>
+    <item name="tvAccTransIn" type="id">false</item>
+    <item name="tvAccTransOut" type="id">false</item>
+    <item name="tvAccount" type="id">false</item>
+    <item name="tvAccountNowBalance" type="id">false</item>
+    <item name="tvAccountTitle" type="id">false</item>
+    <item name="tvAccountType" type="id">false</item>
+    <item name="tvAlertDate" type="id">false</item>
+    <item name="tvAlertDateDes" type="id">false</item>
+    <item name="tvAlertType" type="id">false</item>
+    <item name="tvAlertTypeDes" type="id">false</item>
+    <item name="tvAvailableLine" type="id">false</item>
+    <item name="tvAverage" type="id">false</item>
+    <item name="tvAverageDes" type="id">false</item>
+    <item name="tvBaiduDisk" type="id">false</item>
+    <item name="tvBeninMoney" type="id">false</item>
+    <item name="tvBillDay" type="id">false</item>
+    <item name="tvBudget" type="id">false</item>
+    <item name="tvCardBank" type="id">false</item>
+    <item name="tvCardNo" type="id">false</item>
+    <item name="tvChartSubType" type="id">false</item>
+    <item name="tvChartSum1" type="id">false</item>
+    <item name="tvChartSum2" type="id">false</item>
+    <item name="tvChartSum3" type="id">false</item>
+    <item name="tvChartType" type="id">false</item>
+    <item name="tvClaim" type="id">false</item>
+    <item name="tvClear" type="id">false</item>
+    <item name="tvComments" type="id">false</item>
+    <item name="tvCompare" type="id">false</item>
+    <item name="tvContent" type="id">false</item>
+    <item name="tvCountPrompt" type="id">false</item>
+    <item name="tvCountdown" type="id">false</item>
+    <item name="tvCurBalance" type="id">false</item>
+    <item name="tvCurDisplay" type="id">false</item>
+    <item name="tvCycleDate" type="id">false</item>
+    <item name="tvDate" type="id">false</item>
+    <item name="tvDateDes" type="id">false</item>
+    <item name="tvDateTime" type="id">false</item>
+    <item name="tvDebt" type="id">false</item>
+    <item name="tvDebtDes" type="id">false</item>
+    <item name="tvDebtorTitle" type="id">false</item>
+    <item name="tvDefault" type="id">false</item>
+    <item name="tvDescription" type="id">false</item>
+    <item name="tvDisplay" type="id">false</item>
+    <item name="tvDivid" type="id">false</item>
+    <item name="tvDot" type="id">false</item>
+    <item name="tvEight" type="id">false</item>
+    <item name="tvEmptyView" type="id">false</item>
+    <item name="tvEndDate" type="id">false</item>
+    <item name="tvEndMoney" type="id">false</item>
+    <item name="tvEqu" type="id">false</item>
+    <item name="tvExeDay" type="id">false</item>
+    <item name="tvExeDayDes" type="id">false</item>
+    <item name="tvExpensePk" type="id">false</item>
+    <item name="tvFileName" type="id">false</item>
+    <item name="tvFileSize" type="id">false</item>
+    <item name="tvFive" type="id">false</item>
+    <item name="tvFour" type="id">false</item>
+    <item name="tvGroupIndicator" type="id">false</item>
+    <item name="tvHint1" type="id">false</item>
+    <item name="tvHint2" type="id">false</item>
+    <item name="tvIncomeAcc" type="id">false</item>
+    <item name="tvIncomeMember" type="id">false</item>
+    <item name="tvIncomeMonth" type="id">false</item>
+    <item name="tvIncomePrj" type="id">false</item>
+    <item name="tvIncomeTarget" type="id">false</item>
+    <item name="tvIncomeType" type="id">false</item>
+    <item name="tvIncomeTypes" type="id">false</item>
+    <item name="tvItem1" type="id">false</item>
+    <item name="tvItem11" type="id">false</item>
+    <item name="tvItem12" type="id">false</item>
+    <item name="tvItem2" type="id">false</item>
+    <item name="tvItem3" type="id">false</item>
+    <item name="tvItem4" type="id">false</item>
+    <item name="tvLimit" type="id">false</item>
+    <item name="tvListHint" type="id">false</item>
+    <item name="tvListhint" type="id">false</item>
+    <item name="tvLoanDebtor" type="id">false</item>
+    <item name="tvLoanSum" type="id">false</item>
+    <item name="tvLoanType" type="id">false</item>
+    <item name="tvLoanTypeDes" type="id">false</item>
+    <item name="tvMember" type="id">false</item>
+    <item name="tvMemberDes" type="id">false</item>
+    <item name="tvMinus" type="id">false</item>
+    <item name="tvMoney" type="id">false</item>
+    <item name="tvMoneyDes" type="id">false</item>
+    <item name="tvMoneyIn" type="id">false</item>
+    <item name="tvMoneyInDes" type="id">false</item>
+    <item name="tvMoneyOut" type="id">false</item>
+    <item name="tvMoneyOutDes" type="id">false</item>
+    <item name="tvMoneySum" type="id">false</item>
+    <item name="tvMoneyType" type="id">false</item>
+    <item name="tvMoodPrompt" type="id">false</item>
+    <item name="tvMore" type="id">false</item>
+    <item name="tvMsgCount" type="id">false</item>
+    <item name="tvMultiple" type="id">false</item>
+    <item name="tvMyNote" type="id">false</item>
+    <item name="tvNO" type="id">false</item>
+    <item name="tvName" type="id">false</item>
+    <item name="tvNameDes" type="id">false</item>
+    <item name="tvNews" type="id">false</item>
+    <item name="tvNext" type="id">false</item>
+    <item name="tvNine" type="id">false</item>
+    <item name="tvNowBalabceDue" type="id">false</item>
+    <item name="tvOne" type="id">false</item>
+    <item name="tvOutgoAcc" type="id">false</item>
+    <item name="tvOutgoMainType" type="id">false</item>
+    <item name="tvOutgoMember" type="id">false</item>
+    <item name="tvOutgoMonth" type="id">false</item>
+    <item name="tvOutgoPrj" type="id">false</item>
+    <item name="tvOutgoSubType" type="id">false</item>
+    <item name="tvOutgoTarget" type="id">false</item>
+    <item name="tvPaybackDate" type="id">false</item>
+    <item name="tvPaybackDateDes" type="id">false</item>
+    <item name="tvPayer" type="id">false</item>
+    <item name="tvPlus" type="id">false</item>
+    <item name="tvPrevious" type="id">false</item>
+    <item name="tvProfit" type="id">false</item>
+    <item name="tvProfitDes" type="id">false</item>
+    <item name="tvProject" type="id">false</item>
+    <item name="tvProjectDes" type="id">false</item>
+    <item name="tvRefresh" type="id">false</item>
+    <item name="tvReimburse" type="id">false</item>
+    <item name="tvReimburseIncome" type="id">false</item>
+    <item name="tvReimburseMoney" type="id">false</item>
+    <item name="tvReimburseTxt" type="id">false</item>
+    <item name="tvRepayAcc" type="id">false</item>
+    <item name="tvRepayDay" type="id">false</item>
+    <item name="tvRepayType" type="id">false</item>
+    <item name="tvSMS" type="id">false</item>
+    <item name="tvSave" type="id">false</item>
+    <item name="tvSaveContinue" type="id">false</item>
+    <item name="tvScheduleType" type="id">false</item>
+    <item name="tvScheduleTypeDes" type="id">false</item>
+    <item name="tvSetBalance" type="id">false</item>
+    <item name="tvSeven" type="id">false</item>
+    <item name="tvShareDes" type="id">false</item>
+    <item name="tvSign" type="id">false</item>
+    <item name="tvSix" type="id">false</item>
+    <item name="tvStartDate" type="id">false</item>
+    <item name="tvSubTypes" type="id">false</item>
+    <item name="tvTarget" type="id">false</item>
+    <item name="tvTargetCancel" type="id">false</item>
+    <item name="tvTargetDes" type="id">false</item>
+    <item name="tvText" type="id">false</item>
+    <item name="tvThree" type="id">false</item>
+    <item name="tvTime" type="id">false</item>
+    <item name="tvTitle" type="id">false</item>
+    <item name="tvTitle1" type="id">false</item>
+    <item name="tvTitle2" type="id">false</item>
+    <item name="tvTitle3" type="id">false</item>
+    <item name="tvTotal" type="id">false</item>
+    <item name="tvTwo" type="id">false</item>
+    <item name="tvType" type="id">false</item>
+    <item name="tvTypeDes" type="id">false</item>
+    <item name="tvTypes" type="id">false</item>
+    <item name="tvUnloadCount" type="id">false</item>
+    <item name="tvValue1" type="id">false</item>
+    <item name="tvValue2" type="id">false</item>
+    <item name="tvValue3" type="id">false</item>
+    <item name="tvVersion" type="id">false</item>
+    <item name="tvVoiceInput" type="id">false</item>
+    <item name="tvZero" type="id">false</item>
+    <item name="txtNetWork" type="id">false</item>
+    <item name="txtRemind" type="id">false</item>
+    <item name="txtSyncTime" type="id">false</item>
+    <item name="type" type="id">false</item>
+    <item name="vBottomBar" type="id">false</item>
+    <item name="vChartView" type="id">false</item>
+    <item name="vDivider" type="id">false</item>
+    <item name="vDivider1" type="id">false</item>
+    <item name="vDivider2" type="id">false</item>
+    <item name="vDivider3" type="id">false</item>
+    <item name="vDividerBottom" type="id">false</item>
+    <item name="vDividerTop" type="id">false</item>
+    <item name="vEmpty" type="id">false</item>
+    <item name="vHistProgress" type="id">false</item>
+    <item name="vItem1" type="id">false</item>
+    <item name="vMoneyDivider" type="id">false</item>
+    <item name="vPaybackDate" type="id">false</item>
+    <item name="vSMS" type="id">false</item>
+    <item name="vSearchBar" type="id">false</item>
+    <item name="vSina" type="id">false</item>
+    <item name="vTally" type="id">false</item>
+    <item name="vTallyBar" type="id">false</item>
+    <item name="vTencent" type="id">false</item>
+    <item name="vTo" type="id">false</item>
+    <item name="vVoiceRec" type="id">false</item>
+    <item name="vWaitFrame" type="id">false</item>
+    <item name="vWeiboShare" type="id">false</item>
+    <item name="viewPager" type="id">false</item>
+    <item name="viewPic" type="id">false</item>
+    <item name="viewReimburseAccount" type="id">false</item>
+    <item name="volume" type="id">false</item>
+    <item name="vsSelector" type="id">false</item>
+    <item name="warningBalanceLine" type="id">false</item>
+    <item name="warningbalance" type="id">false</item>
+    <item name="watch_wacai" type="id">false</item>
+    <item name="webView" type="id">false</item>
+    <item name="weiboLayout" type="id">false</item>
+    <item name="weiboSettings" type="id">false</item>
+    <item name="weibo_image_share" type="id">false</item>
+    <item name="weibo_layout" type="id">false</item>
+    <item name="weibo_title" type="id">false</item>
+    <item name="zoomLayout" type="id">false</item>
+    <item name="zoomin" type="id">false</item>
+    <item name="zoomout" type="id">false</item>
+    <string name="Alert_BACKUPFILE_NOT_EXIST">恢复失败, 没有找到备份文件\"%1$s\"!</string>
+    <string name="Alert_MEDIA_BAD_REMOVAL">没有外部存储卡, 请检查后重试!</string>
+    <string name="Alert_MEDIA_CHECKING">没有外部存储卡, 请检查后重试!</string>
+    <string name="Alert_MEDIA_MOUNTED_READ_ONLY">存储卡为只读模式, 请修改后重试!</string>
+    <string name="Alert_MEDIA_NOFS">没有外部存储卡, 请检查后重试!</string>
+    <string name="Alert_MEDIA_REMOVED">没有外部存储卡, 请检查后重试!</string>
+    <string name="Alert_MEDIA_SHARED">您正在通过USB数据线共享存储卡, 请停止后重试!</string>
+    <string name="Alert_MEDIA_UNMOUNTABLE">没有外部存储卡, 请检查后重试!</string>
+    <string name="Alert_MEDIA_UNMOUNTED">没有外部存储卡, 请检查后重试!</string>
+    <string name="AutoBackupFirstTime">网络原因导致您有%1$d条记录未同步, 请检查网络配置</string>
+    <string name="BudgetTotal">预算总计:</string>
+    <string name="InvalideAccount">无效账户, 请检查后重试!</string>
+    <string name="InvalideIncomeT">无效收入大类, 请检查后重试!</string>
+    <string name="InvalideMember">无效成员, 请检查后重试!</string>
+    <string name="InvalideOutgoST">无效支出小类, 请检查后重试!</string>
+    <string name="InvalideProject">无效项目, 请检查后重试!</string>
+    <string name="LoadContent">请稍后...</string>
+    <string name="PCSTitle">网盘备份文件</string>
+    <string name="PSWChange">修改本地口令</string>
+    <string name="PSWClose">关闭本地口令</string>
+    <string name="PSWInputLocal">输入本地口令</string>
+    <string name="PSWInputLocalAgain">请再次输入</string>
+    <string name="PSWInputNewLocal">请输入新口令</string>
+    <string name="PSWInputOldLocal">请输入原有口令</string>
+    <string name="PSWLoginUserNotSame">您输入的帐号和已登录帐号不符, 请检查后重试.</string>
+    <string name="PSWNotRegisterUser">您没有登录过挖财帐号, 无法进行重置.</string>
+    <string name="PSWOpen">开启本地口令</string>
+    <string name="PSWResetLocal"><u>重置口令</u></string>
+    <string name="PSWResetString">重置</string>
+    <string name="PSWResetSucceedPrompt">您的本地口令已经重置, 请您及时到程序中设置新的口令.</string>
+    <string name="PSWUnmatched">口令不匹配, 请再试一次</string>
+    <string name="PSWVerifySucceed">验证成功</string>
+    <string name="SMSServiceinstall">[短信助手]可拦截收支短信快速记账. 安装即可使用, 此插件免费!</string>
+    <string name="UMAppUpdate">App updating</string>
+    <string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string>
+    <string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string>
+    <string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+    <string name="UMIgnore">Ingore this</string>
+    <string name="UMNewVersion">Latest version: </string>
+    <string name="UMNotNow">Not now</string>
+    <string name="UMTargetSize">Target size: </string>
+    <string name="UMToast_IsUpdating">Updating....</string>
+    <string name="UMUpdateCheck">2.4.2.20140520</string>
+    <string name="UMUpdateContent">Update Content</string>
+    <string name="UMUpdateNow">Update now</string>
+    <string name="UMUpdateSize">Update size: </string>
+    <string name="UMUpdateTitle">New version found</string>
+    <string name="aboutWacai">关于挖财</string>
+    <string name="accBalanceAll">所有账户余额</string>
+    <string name="accBalanceSum">账户余额汇总</string>
+    <string name="accCurrentConfiged">当前配置帐号</string>
+    <string name="accRelogin">重新登录</string>
+    <string name="accSwitch">切换帐号</string>
+    <string name="accSwitchDes">是否切换帐号? 切换后此帐号客户端的数据将先自动同步, 然后被清空</string>
+    <string name="accessPasswordHint1">锁定中, 仍可记账</string>
+    <string name="accessPasswordHint2">未登录帐号, 无法重置口令</string>
+    <string name="accountDepositComment">(储蓄卡, 存折等)</string>
+    <string name="accountInternetPayComment">(支付宝, 财付通等)</string>
+    <string name="accountInvestComment">(股票, 基金等)</string>
+    <string name="accountMgr">账户管理</string>
+    <string name="accountPrimeBalanceTime">期初余额时间</string>
+    <string name="accountValuableCardComment">(购物卡, 美容卡等)</string>
+    <string name="accountVirtualComment">(Q币, 游戏点卡等)</string>
+    <string name="accountVirtualPrompt">为保证您的账户金额统计准确, 虚拟账户的币种只能为虚拟币</string>
+    <string name="addComments">添加备注</string>
+    <string name="addDefaultShortcut">是, 启用默认模板</string>
+    <string name="addPayTarget">新增付款方</string>
+    <string name="addThisPayer">选用此付款方</string>
+    <string name="addThisTradeTarget">选用此商家</string>
+    <string name="addTradeTarget">新增商家</string>
+    <string name="addVoiceComments">添加备注(语音/文本)</string>
+    <string name="addWhiteMember">新增白名单</string>
+    <string name="alertBudgetAlert">预算提醒</string>
+    <string name="alertBudgetConclusion">预算月度总结(%1$s)</string>
+    <string name="alertDeleteAllAlert">确认清空全部消息?</string>
+    <string name="alertEnableRemoveForever">同时放弃每月提醒</string>
+    <string name="alertHasAutoUploadAlert">自动同步数据失败</string>
+    <string name="alertHasLoanAlert">借贷提醒</string>
+    <string name="alertHasNewAlert">您有%1$s条新的提醒</string>
+    <string name="alertHasNewAlertWithoutTitle">您有新的提醒, 点击查看</string>
+    <string name="alertImportTaobaoData">"温馨提示:
+1. 本功能暂只支持淘宝购物数据的导入. 后续挖财将支持其它数据的导入, 敬请期待.
+
+2. 若您记录过淘宝消费记录, 数据导入后可能会导致数据重复.
+
+3. 若自动导入失败, 请点击导入数据, 若失败多次, 请解除绑定后重新导入."</string>
+    <string name="alertNoWIFI">您需要同步的数据中包含图片数据, 可能会占用一定流量, 建议您到WIFI环境中再同步图片数据</string>
+    <string name="alertNone">当前没有提醒消息</string>
+    <string name="alertRebindingConfirm">重新绑定新的淘宝帐号?</string>
+    <string name="alertRemindChargeTitle">挖财宝宝冒个泡</string>
+    <string name="alertRemindChargetContent">可在设置->本地程序设置中关闭此提醒</string>
+    <string name="alertRemoveAlertForever">此消息为每月提醒, 要删除本月提醒吗?</string>
+    <string name="alertRemoveBinding">确认解除淘宝帐号绑定?</string>
+    <string name="alertType">提醒类型</string>
+    <string name="alertUpload">您是否确认同步数据到云端服务器?</string>
+    <string name="alert_at2g_down">当前没有可用的WiFi网络, 是否要用移动网络下载照片?</string>
+    <string name="alipay">支付宝</string>
+    <string name="all">所有</string>
+    <string name="aotuCheckingAccount">简易对账</string>
+    <string name="aotuCompleBalance">将差额补记为收支</string>
+    <string name="aotuCompleSucceed">差额记录成功!</string>
+    <string name="app_name">销售管家</string>
+    <string name="attachmentDownloadError">下载的附件没有文件信息, 请联系挖财解决!</string>
+    <string name="attention">注意</string>
+    <string name="authorizedAccount">应用授权</string>
+    <string name="autoBackupAllTime">有网络连接时自动同步</string>
+    <string name="autoBackupByWifi">仅wifi连接时自动同步</string>
+    <string formatted="false" name="autoBackupFail">网络原因导致您有%1$d条记录未同步, 请检查网络配置. 上次成功同步的时间是%2$s</string>
+    <string name="autoBackupSucceed">自动同步成功!</string>
+    <string name="backup">备份</string>
+    <string name="backupSucceedTo">备份成功到\"%1$s\"!</string>
+    <string name="backupSuccess">"同步成功!
+您可以在云端: www.wacai.com 浏览数据, 体验更多功能."</string>
+    <string name="backupSuccessWithEmail">"同步成功!
+通过手机注册后, 您可以在云端: www.wacai.com 浏览数据, 体验更多功能."</string>
+    <string name="baiduLogout">您确定退出百度网盘?</string>
+    <string name="baiduNetdisk">百度网盘</string>
+    <string name="baiduNetdiskLogin">百度网盘帐号登录</string>
+    <string name="balanceNoSet">余额未开启, 请开启后重试!</string>
+    <string name="basicSortMode">排序设置</string>
+    <string name="binding">绑定</string>
+    <string name="bindingAccount">已有挖财帐号? 立刻绑定</string>
+    <string name="buddetBalanceNotSet">余额未开启</string>
+    <string name="budget">预算</string>
+    <string formatted="false" name="budgetAlertByType">%1$s在%2$s上预算额度只剩%3$s了, 要注意喽.</string>
+    <string name="budgetAlertPrompt">您可进入预算支出对照报表查看历史预算</string>
+    <string name="budgetBalance">预算余额: %1$s</string>
+    <string name="budgetBalance1">余额:</string>
+    <string name="budgetBalance2">预算余额</string>
+    <string name="budgetBalance3">%1$s剩余</string>
+    <string name="budgetBalanceCredit">余额</string>
+    <string name="budgetBalanceOverspend">已超支: %1$s</string>
+    <string name="budgetBalanceRemain">余额: %1$s</string>
+    <string name="budgetClearAll">确认清空本月预算?</string>
+    <string formatted="false" name="budgetEqualsLastMonth">您在%1$s的支出刚好等于预算%2$s, 能再省点吗?</string>
+    <string name="budgetHistogramTotalLabel">总计</string>
+    <string name="budgetLabel">预算:</string>
+    <string name="budgetMonth">本月预算余额</string>
+    <string formatted="false" name="budgetMonthSaveAlert">您在%1$s节省了%2$s, 再接再厉哦.</string>
+    <string name="budgetMonthTotal">本月总预算</string>
+    <string name="budgetNoBalance">无剩余</string>
+    <string name="budgetNotSet">预算未设置</string>
+    <string name="budgetOutgoLabel">支出:</string>
+    <string name="budgetOutgoTotal">总支出:</string>
+    <string formatted="false" name="budgetOverspendAlert">%1$s总支出%2$s, 已经超支%3$s啦.</string>
+    <string formatted="false" name="budgetOverspendAlertByType">%1$s在%2$s上花费%3$s, 已经超支%4$s啦.</string>
+    <string formatted="false" name="budgetOverspendLastMonth">您在%1$s超支%2$s, 这个月要注意喽.</string>
+    <string name="budgetRemoteQueryPrompt">云端查询结果目前不支持编辑.</string>
+    <string formatted="false" name="budgetSaveLastMonth">您在%1$s节省了%2$s, 再接再厉哦.</string>
+    <string name="budgetSettingTitle">月度预算</string>
+    <string name="budgetTotal">总预算:</string>
+    <string formatted="false" name="budgetTotalAlert">%1$s的总预算额度只剩%2$s, 要注意咯.</string>
+    <string name="budgetTotalError">总预算不能小于各类别预算之和.</string>
+    <string name="budgetTotalLabel">总预算</string>
+    <string name="callCameraFaild">调用相机失败，请检查相册功能是否可用</string>
+    <string name="callGallaryFaild">调用相册失败，请检查相册功能是否可用</string>
+    <string name="camera">快拍</string>
+    <string name="cancel">否</string>
+    <string name="cancelIncomeTarget">确认取消选择此付款方?</string>
+    <string name="cancelTarget">确认取消选择此商家?</string>
+    <string name="changeAccountPrompt">如果您原来的用户是注册过的有效用户, 建议您在修改之前先同步数据, 并且初始化软件, 以免用户数据造成混乱! 确认修改用户吗?</string>
+    <string name="changeCover">封面更换</string>
+    <string name="checkLoaclPsw">请输入口令确认权限</string>
+    <string name="checkingAccount">对账</string>
+    <string name="chooseAccount">账户选择</string>
+    <string name="chooseCycleType">周期选择</string>
+    <string name="chooseIncomeTarget">付款方选择</string>
+    <string name="chooseIncomeType">收入类别</string>
+    <string name="chooseMainType">支出大类</string>
+    <string name="chooseMember">成员选择</string>
+    <string name="chooseMoneyType">币种选择</string>
+    <string name="chooseOperate">选择操作</string>
+    <string name="chooseProject">项目选择</string>
+    <string name="chooseQueryType">查询类型选择</string>
+    <string name="chooseSubType">支出小类</string>
+    <string name="chooseTarget">商家选择</string>
+    <string name="clean">清空</string>
+    <string name="close">关  闭</string>
+    <string name="closeRemind">关闭提醒</string>
+    <string name="closeServer">关闭服务</string>
+    <string name="closeSucceed">关闭成功</string>
+    <string name="commitAndSync">提交并同步</string>
+    <string name="completeInfoHint">请完善以下信息, 以便我们更好的为您服务</string>
+    <string name="copyRight">"首先非常感谢您使用挖财软件, 挖财服务包括手机软件和网站服务两部分, 您可以通过手机软件随时随地轻松管理您的收支记录, 并得到直观方便的统计信息, 也可以向网站上传手机数据, 从而享受更加强大的管理、统计分析的服务.
+
+1、手机挖财软件免费下载使用, 手机由于上网而产生的GPRS流量费用由运营商收取, 杭州财米科技不收取任何费用.
+
+2、杭州财米科技拥有本软件的著作权, 以及与本软件相关的所有信息内容, 包括但不限于: 图标、界面设计、有关数据、或电子文档等均受著作权法以及其他知识产权法律法规的保护. 任何个人或组织不得对软件进行反向工程、反向汇编、反向编译等修改行为, 也不得将图片或软件数据取出使用. 我们授权您任意复制和发布此软件, 但未经我们许可任何个人或组织不得将本软件用于商业用途.
+
+3、使用本软件涉及到互联网服务和移动通信服务, 可能会受到各个环节不稳定因素的影响, 存在因不可抗力、计算机病毒、黑客攻击、系统不稳定、用户所在位置以及其他任何网络、技术、通信线路等原因造成的服务中断或不能满足用户要求的风险, 用户须明白并自行承担以上风险, 杭州财米科技不承担任何责任.
+
+4、使用本软件可能存在他人通过非法途径获得用户密码冒名用户身份进行数据操作的风险, 用户须明白并自行承担以上风险, 杭州财米科技对帐号以及密码认证通过后不对任何有关操作的真实性承担责任.
+
+5、用户因第三方如运营商的通讯线路故障、技术问题、网络、电脑故障、系统不稳定性及其他各种不可抗力原因而遭受的经济损失, 杭州财米科技不承担责任.
+
+6、因技术故障等不可抗力原因影响到服务的正常运行, 杭州财米科技承诺在第一时间内与相关单位配合, 及时处理进行修复, 但用户因此而遭受的经济损失, 杭州财米科技不承担责任.
+
+希望您在使用过程中, 遇到问题或不解, 尽快与我们联系, 具体联系方式请参看网站http://www.wacai.com.
+
+再次谢谢您对我们的支持, 我们将为您做到最好!"</string>
+    <string name="copyRightAbout">关于挖财</string>
+    <string name="copyRightCaimi">财米科技 版权所有</string>
+    <string name="copyRightCheckUpdate">检查更新</string>
+    <string name="copyRightDomain">http://www.wacai.com</string>
+    <string name="copyRightEmail">邮箱</string>
+    <string name="copyRightEmailAddress">kf@wacai.com</string>
+    <string name="copyRightPhoneNumber">0571-88821639</string>
+    <string name="copyRightPhoneTime">周一至周五 9:00–18:00</string>
+    <string name="copyRightTelePhone">电话</string>
+    <string name="copyRightTitle">使用协议</string>
+    <string name="copyRightVersion">当前版本:</string>
+    <string name="copyRightWap">wap</string>
+    <string name="copyRightWapDomain">http://wacai.cn</string>
+    <string name="copyRightWebsite">网址</string>
+    <string formatted="false" name="creditcardBillDayRemind">今天是%1$d月份的%2$s账单日, 去看一下吧!</string>
+    <string formatted="false" name="creditcardRepayDayNoBalance">您的%1$s须在%2$s还款. 千万别忘了哦~</string>
+    <string formatted="false" name="creditcardRepayDayRemind">您的%1$s本期应还%2$s，须在%3$s还款. 千万别忘了哦~</string>
+    <string name="cropImage">图片选取</string>
+    <string name="dataBackupSuccess">数据备份成功!</string>
+    <string name="dataDeleteSuccess">数据删除成功!</string>
+    <string name="dataOperate">数据操作</string>
+    <string name="dataRecoverySuccess">数据恢复成功!</string>
+    <string name="dataSafePrompt">为了保障您的数据安全, 请登录挖财帐号.</string>
+    <string name="dayAfter">%1d天内</string>
+    <string name="defaultComment">余额调整产生的烂账</string>
+    <string name="defaultFreq">智能设置</string>
+    <string name="defaultFreqDes">智能设置, 在记账时会根据账户使用频率选择账户</string>
+    <string name="defaultManual">手动设置</string>
+    <string name="defaultNotAllow">系统默认三项不可修改</string>
+    <string name="del_pic">是否删除图片？</string>
+    <string name="delete_all">是否要删除这条微博？</string>
+    <string name="detail">明细</string>
+    <string name="detailFoodprint">足迹</string>
+    <string name="detailSummaryTitle">账务明细</string>
+    <string formatted="false" name="detailTimeFormat">%1$s至%2$s</string>
+    <string name="detailToolKits">工具箱</string>
+    <string name="diffMoneySum">差额汇总</string>
+    <string name="diffOutgoIncome">本月差额</string>
+    <string name="differBalance">差额</string>
+    <string name="dimissPic">放弃编辑?</string>
+    <string name="divideZeroPrompt">0不能作为除数</string>
+    <string name="editPayTarget">编辑付款方</string>
+    <string name="editTradeTarget">编辑商家</string>
+    <string name="emptyNote">便签内容不能为空!</string>
+    <string name="errorNoAppToSend">无可用的发送方式, 请先配置email帐号</string>
+    <string name="errorReport">错误报告</string>
+    <string name="errorReportDetail">感谢您对挖财的支持, 请简单描述一下出错情况</string>
+    <string name="errorReportTitle">请选择电子邮件发送</string>
+    <string name="exChangeRate">汇率计算</string>
+    <string name="exceedTextCount">已超出%1$d字</string>
+    <string name="expenseSum">消费概况</string>
+    <string name="expenserToday">今日消费</string>
+    <string name="fast">快速</string>
+    <string name="favoriteSetPrompt">点击大类可查看小类, 并进行收藏</string>
+    <string name="feedbackSuccessPrompt">"反馈提交成功!
+我们将以电子邮件的形式, 回复反馈结果至您的邮箱, 感谢您对挖财的关心和支持!"</string>
+    <string name="feedbackSuccessPromptAnonymous">"反馈提交成功!
+感谢您对挖财的关心和支持, 若您同步后提交邮箱我们可通过邮件回复您的反馈."</string>
+    <string name="foodprintTitle">我的足迹</string>
+    <string name="forgotPassword">忘记密码</string>
+    <string name="forgotPasswordPrompt">请登录 www.wacai.com 点击\"忘记密码\", 按相关提示进行操作即可找回密码!</string>
+    <string name="general">常用</string>
+    <string name="getPhotoFailed">图片获取失败</string>
+    <string name="goClub">逛论坛</string>
+    <string name="haveNoFile">当前无备份文件</string>
+    <string name="hello">Hello World, TextActivity!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="helperOnline">常见问题</string>
+    <string name="hideAccountSetting">收起高级设置</string>
+    <string name="hideQueryMore">隐藏更多查询条件</string>
+    <string name="hintEmail">常用邮箱可帮助找回密码</string>
+    <string name="hintNotSet">无商家</string>
+    <string name="homeSetting">首页显示设置</string>
+    <string name="homescreenSetting">首页显示项</string>
+    <string name="illegalUser">用户名或密码错误, 请检查后重试!</string>
+    <string name="importTaobaoData">支付宝数据导入</string>
+    <string name="incomeCount">收入: %1$s</string>
+    <string name="incomeDetail">收入详情</string>
+    <string name="incomeMonth">本月收入</string>
+    <string name="incomeSum">收入汇总</string>
+    <string name="incomeToday">今日收入</string>
+    <string name="incomeType">收入类别</string>
+    <string name="incomeWeek">本周收入</string>
+    <string name="incomeYear">本年收入</string>
+    <string name="inputMoneyHint">请输入金额</string>
+    <string name="inputRecord">卖一单</string>
+    <string name="inputSubType">新增子类…</string>
+    <string name="invalidDifferMoney">恭喜, 您的记账熟练度提高了! 分毫不差, 记账一小步, 理财一大步!</string>
+    <string name="invalidPassword">密码不能包含空格!</string>
+    <string name="invalidUserName">帐号只能由字母、数字、中文及下划线任意组成!</string>
+    <string name="lableIncome">收:</string>
+    <string name="lableOutgo">支:</string>
+    <string name="loadAccountOperate">借贷账户操作</string>
+    <string name="loadTitle">加载中</string>
+    <string name="loanAccount">借贷账户</string>
+    <string name="loanAccountManageDetail">新增, 编辑, 删除借贷账户信息</string>
+    <string name="loanDetail">借贷详情</string>
+    <string name="loanInFromsb">向%1$s借入</string>
+    <string name="loanOutTosb">借给%1$s</string>
+    <string name="localPassword">本地口令</string>
+    <string name="locationFailed">定位失败啦! 亲~检查下网络吧</string>
+    <string name="login">登录</string>
+    <string name="loginTitle">登录帐号</string>
+    <string name="maxTextCanInput">你还可以输入%1$d字</string>
+    <string name="memberMultiple">多成员</string>
+    <string name="memberSingle">单成员</string>
+    <string name="menberMgr">成员管理</string>
+    <string name="menu_settings">退出</string>
+    <string name="messageOperate">短信操作</string>
+    <string name="moneyExpence">资金流出</string>
+    <string name="moneyIncome">资金流入</string>
+    <string name="moneyRange">金额范围</string>
+    <string name="moneyTypeSetting">本币设置</string>
+    <string name="moneyTypeSettingPop">登录后才可修改本币设置</string>
+    <string name="more">更多</string>
+    <string name="msgExpensePk">[消费大PK] %1$d月你省钱了没? 快去瞧瞧自己和大家的消费情况对比!</string>
+    <string name="myFavorites">收藏</string>
+    <string name="myFootPrint">我的足迹</string>
+    <string name="myFrequences">经常使用</string>
+    <string name="myNote">收支便签</string>
+    <string name="mySMS">短信助手</string>
+    <string name="myScheduleIO">固定收支</string>
+    <string name="netAlert">联网提示</string>
+    <string name="netAlertSetting">联网提示设置</string>
+    <string name="netRedirected">网络不给力, 请换一种联网方式或稍后重试!</string>
+    <string name="networkError">联网失败!</string>
+    <string name="networkNoAPN">请配置接入点后再试, 详情请咨询运营商!</string>
+    <string name="networkOffline">网络已断开, 请连接后重试!</string>
+    <string name="networkProgress">联网进度</string>
+    <string name="networkTimeout">网络不给力, 请稍后再试!</string>
+    <string name="netwrokConnectError">网络异常,请检查网络连接</string>
+    <string name="nickname">昵称</string>
+    <string name="noAccount">还未设置同步帐号</string>
+    <string name="noData">无数据提供选择, 请新增</string>
+    <string name="noFavorites">暂无收藏</string>
+    <string name="noSet">未设置</string>
+    <string name="noShortcutHint1">使用记账模板</string>
+    <string name="noShortcutHint2">只需输入金额就能快速记账!</string>
+    <string name="noStatMessage">无统计信息</string>
+    <string name="noneMemberNotAllowed">请您至少为该记录指定一位成员!</string>
+    <string name="note">便签</string>
+    <string name="noteOperate">便签操作</string>
+    <string name="ok">是</string>
+    <string name="otherAccountConfig">第三方帐号登录</string>
+    <string name="outgoCount">支出: %1$s</string>
+    <string name="outgoDetail">支出详情</string>
+    <string name="outgoMonth">本月支出</string>
+    <string name="outgoSubType">子类</string>
+    <string name="outgoSum">支出汇总</string>
+    <string name="outgoToday">今日支出</string>
+    <string name="outgoType">支出类别</string>
+    <string name="outgoWeek">本周支出</string>
+    <string name="outgoYear">本年支出</string>
+    <string name="password">密码</string>
+    <string name="payTargetMgr">付款方管理</string>
+    <string name="paybackFromsb">从%1$s收款</string>
+    <string name="paybackTosb">还款给%1$s</string>
+    <string name="pleaseAddAccount">请新增账户</string>
+    <string name="pleaseAddIncomeType">请新增收入类别</string>
+    <string name="pleaseAddMember">请新增成员</string>
+    <string name="pleaseAddNote">请新增收支便签</string>
+    <string name="pleaseAddOutgoType">请新增支出类别</string>
+    <string name="pleaseAddProject">请新增项目</string>
+    <string name="pleaseAddTradeTarget">请新增商家</string>
+    <string name="pleaseInputFeedback">请输入反馈内容</string>
+    <string name="pleaseLogin">请登录挖财帐号</string>
+    <string name="pleaseSelect">请在下方选择常用功能</string>
+    <string name="please_login">请登录！</string>
+    <string name="projectMgr">项目管理</string>
+    <string name="promptGenerateFixItem">生成固定记录可能需要一段时间, 请耐心等待…</string>
+    <string name="promptHomeNotComplete">选满三项才可保存</string>
+    <string name="promptHomeSetting">可选三项, 请取消已选项再试</string>
+    <string name="promptNeedSecondsGetLog">正在处理中, 请稍候…</string>
+    <string name="queryCondition">查询条件</string>
+    <string name="queryMore">更多查询条件</string>
+    <string name="quickEntra">设置快速入口</string>
+    <string name="rate">汇率</string>
+    <string name="rePicture">重拍</string>
+    <string name="realBalance">实际余额</string>
+    <string name="rectificationWarning">矫正余额可能会修改您的期初余额和期初余额时间</string>
+    <string name="regist">注册 ></string>
+    <string name="registTitle">注册帐号</string>
+    <string name="register">注册</string>
+    <string name="reimburseMgr">报销管理</string>
+    <string name="remindCharge">记账提醒</string>
+    <string name="remindDialogContent">是否继续使用记账提醒服务? 此服务可以帮您避免因忙碌导致的漏记. 继续请点确认, 不再使用请选择关闭服务.</string>
+    <string name="remoteVerifyUser">验证中, 请稍候…</string>
+    <string name="requestWeb">访问网址</string>
+    <string name="resetPassword"><u>重置口令</u></string>
+    <string name="resetRegPrompt">"所有本地数据将会被删除, 建议同步后再进行初始化! 
+
+您确认要软件初始化吗?"</string>
+    <string name="restore">软件初始化</string>
+    <string name="restoreDefault">使用默认封面</string>
+    <string name="restoreSucceed">恢复成功!</string>
+    <string name="restoring">初始化中…</string>
+    <string name="scan_retry">条码扫描出错啦,请重新扫描</string>
+    <string name="scan_tip">请将条码置于取景框内扫描</string>
+    <string name="scan_title">扫一扫</string>
+    <string name="sd_pic">闪光灯</string>
+    <string name="searchBankType">输入汉字或拼音即可搜索</string>
+    <string name="searchNearbyTraget">输入关键字</string>
+    <string name="searchOutgoType">输入关键字或拼音</string>
+    <string name="secretKeyMismatching">密钥验证失败, 请重新输入</string>
+    <string name="secretKeyVerify">验证密钥</string>
+    <string name="selectPhoto">选择一张照片</string>
+    <string name="send">发  送</string>
+    <string name="sendToFriends">推荐给好友</string>
+    <string name="send_failed">分享失败！</string>
+    <string name="send_sucess">分享成功！</string>
+    <string name="setPasswordHint1">本地口令可以有效保护个人财务隐私</string>
+    <string name="setPasswordHint2">口令无法找回, 请牢记!</string>
+    <string name="setting">设置</string>
+    <string name="settingBaseData">记账设置</string>
+    <string name="settingDefaultAcc">设置默认账户</string>
+    <string name="settingDefaultMem">设置默认成员</string>
+    <string name="settingDefaultPro">设置默认项目</string>
+    <string name="settingFeedback">提交反馈</string>
+    <string name="settingOthers">其它</string>
+    <string name="settingPersonal">偏好设置</string>
+    <string name="settingSucceed">设置成功</string>
+    <string name="settingTool">工具</string>
+    <string name="sharePicture">选择图片</string>
+    <string name="share_dialog_title">新浪微博</string>
+    <string name="shortcut">记账模板</string>
+    <string name="shortcutOperate">模版操作</string>
+    <string name="sms">短信</string>
+    <string name="smsSelBalanceTitle">请选择余额</string>
+    <string name="smsSelLimitTitle">请选择额度</string>
+    <string name="smsSelMoneyTitle">请选择金额</string>
+    <string name="smsSelTailNumTitle">请选择尾号</string>
+    <string name="softIntroduce">软件推荐</string>
+    <string name="statBalance">余额状况</string>
+    <string name="statBudget">预算报表</string>
+    <string name="statCompareMonth">月收支差</string>
+    <string name="statCompareTitle">对比统计</string>
+    <string name="statDiffAverageDes">平均收支差</string>
+    <string name="statExpensePk">消费大PK</string>
+    <string name="statIncomeAcc">账户收入</string>
+    <string name="statIncomeAverageDes">平均收入</string>
+    <string name="statIncomeMember">成员收入</string>
+    <string name="statIncomeMonth">逐月收入</string>
+    <string name="statIncomePrj">项目收入</string>
+    <string name="statIncomeTitle">收入报表</string>
+    <string name="statIncomeType">类别收入</string>
+    <string name="statOutgoAcc">账户支出</string>
+    <string name="statOutgoAverageDes">平均支出</string>
+    <string name="statOutgoMainType">大类支出</string>
+    <string name="statOutgoMember">成员支出</string>
+    <string name="statOutgoMonth">逐月支出</string>
+    <string name="statOutgoPrj">项目支出</string>
+    <string name="statOutgoSubType">小类支出</string>
+    <string name="statOutgoTarget">商家支出</string>
+    <string name="statOutgoTitle">支出报表</string>
+    <string name="statProperty">资产状况</string>
+    <string name="statPropertyTitle">资产统计</string>
+    <string name="statement">报表</string>
+    <string name="statisticsSetting">统计设置</string>
+    <string name="sumOfOthers">其它总和</string>
+    <string name="sureToBackup">是否恢复此备份数据? 恢复数据会删除本地已有的数据.</string>
+    <string name="sureToDelete">是否删除此备份文件?</string>
+    <string name="takePhoto">拍一张</string>
+    <string name="tallyCamera">快拍记账</string>
+    <string name="tallyVoice">语音记账</string>
+    <string name="targetHistory">历史商家</string>
+    <string name="targetMgr">商家管理</string>
+    <string name="targetNearby">附近商家</string>
+    <string name="targetNoNet">请打开网络后, 重新搜索!</string>
+    <string name="textDay">日</string>
+    <string name="textLocal">本地</string>
+    <string name="textMonth">月</string>
+    <string name="textRealOutgo">实际支出</string>
+    <string name="textReimbuserMoney">报销款</string>
+    <string name="textTo">至</string>
+    <string name="textTravel">出差</string>
+    <string name="textYear">年</string>
+    <string name="title_activity_main">销售管家</string>
+    <string name="today">"今
+日"</string>
+    <string name="todayTime">今天: %1$s</string>
+    <string name="transInAccount">转入账户</string>
+    <string name="transOutAccount">转出账户</string>
+    <string name="transferDetail">转账详情</string>
+    <string name="txt1DayTitle">1天未同步时提醒</string>
+    <string name="txt30DayTitle">30天未同步时提醒</string>
+    <string name="txt3DayTitle">3天未同步时提醒</string>
+    <string name="txt7DayTitle">7天未同步时提醒</string>
+    <string name="txtAagin">重新查询</string>
+    <string name="txtAboutTitle">当前版本:</string>
+    <string name="txtAccount">名称</string>
+    <string name="txtAccountBalanceDateTitle">期初日期</string>
+    <string name="txtAccountBalanceTimeTitle">期初时间</string>
+    <string name="txtAccountDetail">账户详情</string>
+    <string name="txtAccountNowBalanceTitle">当前余额</string>
+    <string name="txtAccountPrimeBalanceTitle">期初余额</string>
+    <string name="txtAccountSetting">高级设置</string>
+    <string name="txtAccountTransf">转</string>
+    <string name="txtAccountType">账户类别</string>
+    <string name="txtAdd">添加</string>
+    <string name="txtAddNewSubtype">新增子类</string>
+    <string name="txtAddSuccess">添加成功!</string>
+    <string name="txtAfterBillDay">账单日后隔几天还款</string>
+    <string name="txtAlert1">1. 加密所用密钥为注册挖财的帐号、密码, 为保证数据安全, 请不要告知他人.</string>
+    <string name="txtAlert2">2. 若需修改密码可到云端 www.wacai.com 进行修改</string>
+    <string name="txtAlert3Day">提前3天+当天提醒</string>
+    <string name="txtAlert7Day">提前7天+当天提醒</string>
+    <string name="txtAlertCenter">消息中心</string>
+    <string name="txtAlertCurDay">当天提醒</string>
+    <string name="txtAlertDate">提醒日期</string>
+    <string name="txtAlertLoan">您与%1$s有借贷需要处理.</string>
+    <string name="txtAlertMonthly">每月提醒</string>
+    <string name="txtAlertMsg">您有一笔与%1$s的借贷需要处理.</string>
+    <string name="txtAlertNone">无需提醒</string>
+    <string name="txtAlertPre3Day">提前三天</string>
+    <string name="txtAlertTitleError">错误提示</string>
+    <string name="txtAlertTitleInfo">提示信息</string>
+    <string name="txtAlertType">提醒</string>
+    <string name="txtAliPayAccountBinding">支付宝帐号绑定</string>
+    <string name="txtAllChecked">全选</string>
+    <string name="txtAlterBillDay">请输入账单日!</string>
+    <string name="txtAlterChangeBalance">修改当前欠款会导致本期应还金额的计算错误, 建议您查账后补记一笔.</string>
+    <string name="txtAlterLimit">请输入信用额度的有效金额!</string>
+    <string name="txtAlterNotificationTitle">挖财宝宝温馨提示:</string>
+    <string name="txtAlterRepayDay">请输入还款日!</string>
+    <string name="txtAmount">数量</string>
+    <string name="txtAppAuthorizeError">应用授权不成功, 请稍候重试.</string>
+    <string name="txtAutoBackupOnHint">本功能仅在指定网络已连接的情况下运行挖财时生效.</string>
+    <string name="txtAvailableLine">可用额度</string>
+    <string name="txtAverage">均分</string>
+    <string name="txtBackupAlertMessage">本次备份将会覆盖您上一次的备份文件!</string>
+    <string name="txtBackupNow">马上同步</string>
+    <string name="txtBackupSetting">提醒设置</string>
+    <string name="txtBalance">余</string>
+    <string name="txtBalanceChange">余额变更</string>
+    <string name="txtBalanceCollect">余额汇总</string>
+    <string name="txtBalanceCorrectionRemind">余额矫正提醒</string>
+    <string name="txtBalanceCount">金额汇总:</string>
+    <string name="txtBalanceSheetBalanceTitle">账户余额</string>
+    <string name="txtBalanceSheetClaimsTitle">借出</string>
+    <string name="txtBalanceSheetDebtTitel">借入</string>
+    <string name="txtBalanceSheetLoanSumTitle">借贷总额</string>
+    <string name="txtBalanceSheetSumTitel">净资产</string>
+    <string formatted="false" name="txtBalanceWarning">您的%1$s余额已经少于或等于%2$s!</string>
+    <string name="txtBalanceWarningNoLogin">您的账户余额已经少于您设置的警戒线!</string>
+    <string name="txtBankName">银行</string>
+    <string name="txtBillDay">账单日</string>
+    <string name="txtBillDay1">账单日:</string>
+    <string name="txtBorrowPayable">借入</string>
+    <string name="txtCacheHttpError">缓存数据错误, 请保证您有足够的存储空间后重试!</string>
+    <string name="txtCalculator">计算器</string>
+    <string name="txtCameraShown">建议拍摄: 票据, 图片, 消费场景</string>
+    <string name="txtCanNotSupportMinus">金额需大于零</string>
+    <string name="txtCanReimburse">可报销</string>
+    <string name="txtCancel">取消</string>
+    <string name="txtCardNo.">卡号</string>
+    <string name="txtChangeBalance">修改</string>
+    <string name="txtChooseBank">请选择发卡行!</string>
+    <string name="txtChooseCradBank">请选择发卡行</string>
+    <string name="txtChoosePhotos">选择图片</string>
+    <string name="txtClose">关闭</string>
+    <string name="txtCloseConfirm">确定关闭提醒?</string>
+    <string name="txtCloseWarning">停用提醒</string>
+    <string name="txtCode">扫描条码</string>
+    <string name="txtCodeSimple">条码</string>
+    <string name="txtConfimPassword">密码前后输入不一致, 请核对后再输入.</string>
+    <string name="txtContainBillday">账单日消费算在本期</string>
+    <string name="txtContainsReimbursement">包含报销</string>
+    <string name="txtContinuePrompt">保存成功! 请继续录入</string>
+    <string name="txtContinueSave">再卖一单</string>
+    <string name="txtCount">%1$s次</string>
+    <string name="txtCountOutBound">字数超出限制!</string>
+    <string name="txtCradBank">发卡行</string>
+    <string name="txtCradBankRefcount">常见发卡行</string>
+    <string name="txtCredit">信用卡</string>
+    <string name="txtCreditAccount">借入账户</string>
+    <string name="txtCreditBill">账单</string>
+    <string name="txtCreditDay">%1d号</string>
+    <string name="txtCreditNowBalanceDue">欠款</string>
+    <string name="txtCreditRepayTitle">信用卡还款</string>
+    <string name="txtCreditor">债权人</string>
+    <string name="txtCreditorAndDebtor">债权/债务人</string>
+    <string name="txtCustomer">客户</string>
+    <string name="txtCustomerNum">电话</string>
+    <string name="txtDataBackupExpirationFormat">您已经有%1$d天没有同步数据, 请及时同步!</string>
+    <string name="txtDataBackuping">正在备份数据中, 请稍候…</string>
+    <string name="txtDataDeleting">正在删除数据中, 请稍候…</string>
+    <string name="txtDataLoading">正在加载数据中, 请稍候…</string>
+    <string name="txtDataRecovering">正在恢复数据中, 请稍候…</string>
+    <string name="txtDataSave">数据保存</string>
+    <string name="txtDate">日期</string>
+    <string name="txtDay">日</string>
+    <string name="txtDebitAccount">借出账户</string>
+    <string name="txtDebtor">债务人</string>
+    <string name="txtDefaultSort">默认排序</string>
+    <string name="txtDefaultWhite">默认白名单</string>
+    <string name="txtDefinitionWhite">自定义白名单</string>
+    <string name="txtDelete">删除</string>
+    <string name="txtDeleteAllConfirm">确认删除全部记录?</string>
+    <string name="txtDeleteConfirm">确定删除该记录?</string>
+    <string name="txtDeleteConfirmNews">确定删除该消息?</string>
+    <string name="txtDeleteImg">确定删除该图片?</string>
+    <string name="txtDeletePayGenData">不能删除还款生成记录. 若需删除, 请到编辑界面清空利息金额</string>
+    <string name="txtDetailNews">查看消息</string>
+    <string name="txtDiffMoney">同一币种下账户转入转出金额必须一致, 请修改后再保存!</string>
+    <string name="txtDisableAccountTypePrompt">很抱歉, 软件初始默认数据的账户类型不能修改!</string>
+    <string name="txtDisableNamePrompt">很抱歉, 软件初始默认数据的名称不能修改!</string>
+    <string name="txtDisablePrompt">很抱歉,软件初始默认数据暂不支持修改!</string>
+    <string name="txtDisplayFormatWithIncomeTarget">, 从</string>
+    <string name="txtDisplayFormatWithTarget">, 在</string>
+    <string name="txtDownload">下载</string>
+    <string name="txtDownloadStringFormat">已成功同步%1$d条数据…</string>
+    <string name="txtDownloadingBaseData">下载基础数据…</string>
+    <string name="txtDownloadingFile">文件下载中…</string>
+    <string name="txtDownloadingFileFailed">文件下载失败, 请检查网络后重试或者联系挖财客服获取帮助</string>
+    <string name="txtDownloadingFileFinish">文件下载完成</string>
+    <string name="txtDurationError">开始日期必须早于结束日期!</string>
+    <string name="txtEdit">编辑</string>
+    <string name="txtEditAccount">编辑账户</string>
+    <string name="txtEditComment">编辑备注</string>
+    <string name="txtEditCradNO">编辑卡号</string>
+    <string name="txtEditIncomeMainType">编辑收入类别</string>
+    <string name="txtEditLoanAccount">编辑借贷账户</string>
+    <string name="txtEditMainType">编辑支出大类</string>
+    <string name="txtEditMember">编辑成员</string>
+    <string name="txtEditName">编辑名称</string>
+    <string name="txtEditNote">编辑便签</string>
+    <string name="txtEditProject">编辑项目</string>
+    <string name="txtEditScheduleData">修改固定收支记录, 请到固定收支管理界面操作!</string>
+    <string name="txtEditScheduleIncomeTitle">编辑固定收入</string>
+    <string name="txtEditScheduleOutgoTitle">编辑固定支出</string>
+    <string name="txtEditShortcutIncome">编辑收入模板</string>
+    <string name="txtEditShortcutOutgo">编辑支出模板</string>
+    <string name="txtEditShortcutTransfer">编辑转账模板</string>
+    <string name="txtEditSubType">编辑支出子类</string>
+    <string name="txtEditTradeTitle">编辑账务</string>
+    <string name="txtEditTradeTitleIncome">编辑收入</string>
+    <string name="txtEditTradeTitleLoan">编辑借贷</string>
+    <string name="txtEditTradeTitleOutgo">编辑支出</string>
+    <string name="txtEditTradeTitleTransfer">编辑转账</string>
+    <string name="txtEmail">我的邮箱</string>
+    <string name="txtEmptyEmail">邮箱不允许为空, 请输入后重试!</string>
+    <string name="txtEmptyName">请输入名称!</string>
+    <string name="txtEmptyPassword">请输入密码</string>
+    <string name="txtEmptyShortcutName">模板名称不能为空值, 请重新输入!</string>
+    <string name="txtEmptyUserName">请输入帐号</string>
+    <string name="txtEnableNetworkWarning">不再显示该提醒</string>
+    <string name="txtEnd">结束</string>
+    <string name="txtExceptionOper">操作发生异常:</string>
+    <string name="txtExit">退出</string>
+    <string name="txtExitPromt">再按一次退出程序!</string>
+    <string name="txtExpectDate">还款日</string>
+    <string name="txtExpense">本期应还: %1$s</string>
+    <string name="txtExpenseNext">本期应还金额未生成</string>
+    <string name="txtExpired">已过期</string>
+    <string name="txtFeedBack">反馈</string>
+    <string name="txtFeedbackSMS">短信反馈</string>
+    <string name="txtFixedDate">固定日期</string>
+    <string name="txtFriday">星期五</string>
+    <string name="txtFridaySimple">周五</string>
+    <string name="txtFristDataSync">首次同步数据量较大,请稍等</string>
+    <string name="txtFullString">全部</string>
+    <string name="txtGoback">后退</string>
+    <string name="txtGoforward">前进</string>
+    <string name="txtHaveReimburse">已报销</string>
+    <string name="txtHelperOnline">进入常见问题</string>
+    <string name="txtHour">时</string>
+    <string name="txtIKnow">我知道了</string>
+    <string name="txtIOCountTitle">收支合计</string>
+    <string name="txtImportData">导入数据</string>
+    <string name="txtImportFromSMS">从短信记录导入</string>
+    <string name="txtImportManual">手动输入</string>
+    <string name="txtImportProgress">导入进度</string>
+    <string name="txtImportSMS">导入短信</string>
+    <string name="txtImportWhiteList">导入白名单</string>
+    <string name="txtImportWithe">同时导入号码到白名单</string>
+    <string name="txtImporting">导入中…</string>
+    <string name="txtIncome">收入</string>
+    <string name="txtIncome1">收</string>
+    <string name="txtIncomeOutgoDiff">收支差</string>
+    <string name="txtIncomeTarget">付款方</string>
+    <string name="txtIncomingNewsWithoutTitle">您有新的新闻公告, 点击查看.</string>
+    <string name="txtIncomingSMSWithoutTitle">您有新的收支短信, 点击记账.</string>
+    <string name="txtInputAccount">新增账户</string>
+    <string name="txtInputAddressTips">请输入号码!</string>
+    <string name="txtInputIncomeMainType">新增收入类别</string>
+    <string name="txtInputLoanAccount">新增借贷账户</string>
+    <string name="txtInputMainType">新增支出大类</string>
+    <string name="txtInputMember">新增成员</string>
+    <string name="txtInputNameForShortcuts">请输入您要保存的快速记账模板名称!</string>
+    <string name="txtInputProject">新增项目</string>
+    <string name="txtInputShortcut">新增模板</string>
+    <string name="txtInputSubType">新增支出子类</string>
+    <string name="txtInstall">安装</string>
+    <string name="txtInterval">间隔</string>
+    <string name="txtInvalidAccountIn">无效的转入账户, 请确认!</string>
+    <string name="txtInvalidAccountOut">无效的转出账户, 请确认!</string>
+    <string name="txtInvalidEmail">无效的邮箱, 请核对后重试!</string>
+    <string name="txtInvalidMoney">请输入有效的金额!</string>
+    <string name="txtInvalidMoneyProfit">请在利息中输入有效的金额!</string>
+    <string name="txtKeepActivities">请取消\"开发者选项—不保留活动\"的选项, 该选项会影响挖财的正常使用, 导致无法顺利记账.</string>
+    <string name="txtKind">类型</string>
+    <string name="txtLOANCountTitle">借贷合计</string>
+    <string name="txtLast30Day">近30天</string>
+    <string name="txtLast7Day">近7天</string>
+    <string name="txtLastMonth">上月</string>
+    <string name="txtLastQuarter">上季</string>
+    <string name="txtLastWeek">上周</string>
+    <string name="txtLastYear">去年</string>
+    <string name="txtLimit">信用额度</string>
+    <string name="txtLoading">读取数据中, 请稍候…</string>
+    <string name="txtLoan">借贷</string>
+    <string name="txtLoanList">借贷明细</string>
+    <string formatted="false" name="txtLoanMsg1">他欠您%1$s%2$s</string>
+    <string formatted="false" name="txtLoanMsg2">您欠他%1$s%2$s</string>
+    <string name="txtLoanMsg3">你们没有借贷关系</string>
+    <string name="txtLoanReceivable">借出</string>
+    <string name="txtLocalQuery">本地查询</string>
+    <string name="txtMainProgram">主程序</string>
+    <string name="txtMakeCollections">收款</string>
+    <string name="txtMakeCollectionsAccount">收款账户</string>
+    <string name="txtMember">成员</string>
+    <string name="txtMenuDeleteAll">删除全部</string>
+    <string name="txtMinute">分</string>
+    <string name="txtMonday">星期一</string>
+    <string name="txtMondaySimple">周一</string>
+    <string name="txtMoneyDecimalsLimit">金额超出有效值范围!</string>
+    <string name="txtMoneyExceedTotal">成员总金额不等于记账金额, 请检查!</string>
+    <string name="txtMoneyIn">进价</string>
+    <string name="txtMoneyOut">售价</string>
+    <string name="txtMoneyProfit">利润</string>
+    <string name="txtMoneyTab">标价</string>
+    <string name="txtMoneyTotal">上述金额总和</string>
+    <string name="txtMoneyTypeMgr">币种管理</string>
+    <string name="txtMoneyTypePrompt">币种</string>
+    <string name="txtMonth">月</string>
+    <string name="txtMonthEnd">月末</string>
+    <string name="txtMoodPrompt">记账晒心情, @我的好友</string>
+    <string name="txtMsgAlertDate">请设置还款提醒日后, 再选择此项提醒方式!</string>
+    <string name="txtMsgAlertProfit">利息大于金额, 请修正!</string>
+    <string name="txtMsgDateErr">还款日早于借款日, 请修正!</string>
+    <string name="txtMsgDebtTitleErr">无效%1$s, 请检查后重试!</string>
+    <string name="txtMsgMoneyTypeErr">借贷账户的币种不统一, 请修正!</string>
+    <string name="txtMySearch">账务搜索</string>
+    <string name="txtName">名称</string>
+    <string name="txtNameExceedLimit">名称最多只能输入20个字符</string>
+    <string name="txtNameExist">该名称已经存在, 请修改后再保存</string>
+    <string name="txtNameExistDel">暂不支持修改为曾使用的名称, 请直接新增!</string>
+    <string name="txtNeedSMS">启用短信智能拦截功能</string>
+    <string name="txtNetworkWarning">该操作将会产生网络流量, 请确认</string>
+    <string name="txtNeverTitle">不需要提醒</string>
+    <string name="txtNew">新增</string>
+    <string name="txtNewNote">新增便签</string>
+    <string name="txtNewRate">新增币种需要网络连接</string>
+    <string name="txtNewScheduleIOTitle">新增固定收支</string>
+    <string name="txtNewTradeTitle">新增账务</string>
+    <string name="txtNextBill">下月账单</string>
+    <string name="txtNoAccountIn">模版出错, 请同步数据并软件初始化</string>
+    <string name="txtNoCommentsString">无备注</string>
+    <string name="txtNoContentRecord">没有符合条件的数据!</string>
+    <string name="txtNoDefinitionWhite">暂无自定义白名单</string>
+    <string name="txtNoFile">安装文件获取失败，请联系客服!</string>
+    <string name="txtNoLoanRecord">你们之间没有借贷记录!</string>
+    <string name="txtNoMoneyType">请新增币种</string>
+    <string name="txtNoNetworkPrompt">无可用网络连接, 请检查后重试</string>
+    <string name="txtNoReimbursement">不包含报销</string>
+    <string name="txtNoSDCard">无法找存储卡, 请检查后重试!</string>
+    <string name="txtNoSMSChecked">请选择您要导入的短信</string>
+    <string name="txtNoShortcutsHint">是否启用挖财提供的默认模板?</string>
+    <string name="txtNone">无</string>
+    <string name="txtNoneReimburse">非报销</string>
+    <string name="txtNotChangeBalance">不修改欠款</string>
+    <string name="txtNotExpired">未过期</string>
+    <string name="txtNotPayTarget">无付款方</string>
+    <string name="txtNowBalanceDue">当前欠款</string>
+    <string name="txtNumExist">号码已存在白名单中</string>
+    <string name="txtOK">确认</string>
+    <string name="txtOccurDay">执行日</string>
+    <string name="txtOccurDayPrompt">请选择有效的执行日</string>
+    <string name="txtOffsetMoney">抵消欠款</string>
+    <string name="txtOnLoanQuery">借贷查询</string>
+    <string name="txtOnLoanType">借贷类型</string>
+    <string name="txtOpen">开启</string>
+    <string name="txtOperating">操作中…</string>
+    <string name="txtOutOfMemory">图片处理时内存溢出</string>
+    <string name="txtOutgo">支出</string>
+    <string name="txtOutgo1">售:</string>
+    <string name="txtOutgoTarget">商家/地点</string>
+    <string name="txtPSWReset">挖财: 您的本地口令需要重新设置</string>
+    <string name="txtParamError">参数错误!</string>
+    <string name="txtPasswordConfirm">确认密码</string>
+    <string name="txtPerDay">每日</string>
+    <string name="txtPerHalfYear">每半年</string>
+    <string name="txtPerMonth">每月</string>
+    <string name="txtPerQuarter">每季度</string>
+    <string name="txtPerTowMonth">每两月</string>
+    <string name="txtPerYear">每年</string>
+    <string name="txtPreparing">准备中…</string>
+    <string name="txtProfitTitle">利息</string>
+    <string name="txtProject">项目</string>
+    <string name="txtPromptAddRate">无法获取汇率信息, 保存失败, 请稍后再试</string>
+    <string name="txtQueryProgress">查询进度</string>
+    <string name="txtRateUpdateTime">汇率更新时间</string>
+    <string name="txtRectificationProgress">矫正进度</string>
+    <string name="txtRefresh">刷新</string>
+    <string name="txtReimburse">可报销支出</string>
+    <string formatted="false" name="txtReimburseComment">%1$s至%2$s的%3$s可报销金额%4$s, 实际报销%5$s</string>
+    <string formatted="false" name="txtReimburseCommentSimpleDate">%1$s的%2$s可报销金额%3$s, 实际报销%4$s</string>
+    <string formatted="false" name="txtReimburseCommentSimpleRecord">%1$s的%2$s, 可报销%3$s, 实际报销%4$s</string>
+    <string name="txtReimburseMoney">可报销总额:</string>
+    <string name="txtReimburseState">报销状态</string>
+    <string name="txtReimburseSucceed">报销成功</string>
+    <string name="txtReimburseTitle">报销</string>
+    <string name="txtRemind1">手指头动动, 开始记账做运动</string>
+    <string name="txtRemind2">猜你今天没花钱哦, 因为没记账嘛!</string>
+    <string name="txtRemind3">今天没花钱哦, 省钱了耶!</string>
+    <string name="txtRemind4">好久没来看挖财宝宝了, 想你啦!</string>
+    <string name="txtRemind5">亲, 你懂的!</string>
+    <string name="txtRemind6">挖财style, 元芳, 你怎么看</string>
+    <string name="txtRemind7">我不在的时候, 有想我吗</string>
+    <string name="txtRemind8">要脱光, 先挖财哦</string>
+    <string name="txtRemind9">记下的感动, 要讲给孩子听哦</string>
+    <string name="txtRemindCharge">记账提醒设置</string>
+    <string name="txtRemindCycle">提醒周期</string>
+    <string name="txtRemindTime">提醒时间</string>
+    <string name="txtRemindType1Day">1天未记账</string>
+    <string name="txtRemindType2Day">2天未记账</string>
+    <string name="txtRemindType3Day">3天未记账</string>
+    <string name="txtRemindType4Day">4天未记账</string>
+    <string name="txtRemindType5Day">5天未记账</string>
+    <string name="txtRemindType6Day">6天未记账</string>
+    <string name="txtRemindType7Day">7天未记账</string>
+    <string name="txtRemoteAccPrompt">云端查询结果目前不支持账户编辑.</string>
+    <string name="txtRemoteQuery">云端查询</string>
+    <string name="txtRemoteSearch">云端查询</string>
+    <string name="txtRemoveBinding">解除绑定</string>
+    <string name="txtRepayDate">还款时间</string>
+    <string name="txtRepayDay">还款日</string>
+    <string name="txtRepayDay1">还款日:</string>
+    <string name="txtRepayDayType">还款日为</string>
+    <string name="txtRepayMoney">还款金额</string>
+    <string name="txtRepayRecord">还款记录</string>
+    <string name="txtRepayRemind">还款提醒</string>
+    <string name="txtRepayment">还款</string>
+    <string name="txtRepaymentAccount">还款账户</string>
+    <string name="txtRequestDownload">正在处理数据中…</string>
+    <string name="txtRestore">恢复</string>
+    <string name="txtSMSAnalysisFail">短信金额分析失败, 反馈此短信, 帮助挖财更进一步!</string>
+    <string formatted="false" name="txtSMSBalanceRemind">短信提醒中%1$s余额为%2$s元, 与%3$s余额为%4$s不符, 是否修改?</string>
+    <string name="txtSMSErr">您有短信格式不对, 不能识别唉!</string>
+    <string name="txtSMSFeedback">反馈此短信, 帮助挖财更进一步!</string>
+    <string name="txtSMSImportErr">短信导入失败!</string>
+    <string name="txtSMSInterceptErr">短信拦截失败!</string>
+    <string formatted="false" name="txtSMSLimitRemind">短信提醒中%1$s可用额度为%2$s元, 与%3$s可用额度为%4$s不符, 是否修改当前欠款纠正可用额度?</string>
+    <string name="txtSMSServiceUninstall">[短信助手]可拦截收支短信快速记账. 下载即可使用, 此插件免费!</string>
+    <string name="txtSMSServiceUpdate">检测到新版短信通, 为了保证您的正常使用, 请更新.</string>
+    <string name="txtSameAccount">同一账户间不能转账, 请确认!</string>
+    <string name="txtSameAccount2">同一账户间不能转账, 请修改模版!</string>
+    <string name="txtSaturday">星期六</string>
+    <string name="txtSaturdaySimple">周六</string>
+    <string name="txtSave">保存</string>
+    <string name="txtSaveAsIncome">保存为收入</string>
+    <string name="txtSaveAsLoan">保存为借贷</string>
+    <string name="txtSaveAsOutgo">保存为支出</string>
+    <string name="txtSaveAsShortcut">设为模板</string>
+    <string name="txtSaveAsShortcutSuc">保存模板成功, 您可以通过快速记账功能直接使用您的模板</string>
+    <string name="txtSaveAsTransfer">保存为转账</string>
+    <string name="txtSaveAsWhiteList">将发送者存入白名单</string>
+    <string name="txtSaveContinue">保存再记</string>
+    <string name="txtSaveShortcutPrompt">保存成功! 长按模版名称可编辑与删除.</string>
+    <string name="txtSaveSuccess">保存成功!</string>
+    <string name="txtSavingsCard">储蓄卡</string>
+    <string name="txtScheduleCreating">记录生成中, 请等待.</string>
+    <string name="txtScheduleDateExceedLimit">结束日期必须早于或等于%1$s</string>
+    <string name="txtScheduleEmptyHint">请新增固定收支</string>
+    <string name="txtScheduleItem">固定记录生成项</string>
+    <string name="txtSearch">筛选</string>
+    <string name="txtSearchTitle">搜索</string>
+    <string name="txtSecond">秒</string>
+    <string name="txtSelAll">全选</string>
+    <string name="txtSendToFriends">推荐给好友</string>
+    <string name="txtSendToFriendsSubject">我正在使用挖财手机记账软件, 还挺好用, 推荐给你试试, 你可以去 http://www.wacai.com 看看</string>
+    <string name="txtSetBalance">设置余额</string>
+    <string name="txtSetLimit">设置信用额度</string>
+    <string name="txtSetWarningBalanceTitle">设置余额警戒线</string>
+    <string name="txtSettingFeedback">提交反馈</string>
+    <string name="txtSettingFeedbackDialog">反馈将在2个工作日内得到回复, 如问题急需解决, 建议查看\"常见问题\".</string>
+    <string name="txtSettingReimburseMgrDetail">管理可报销明细</string>
+    <string name="txtSettingSMSMgr">更多</string>
+    <string name="txtSettingStatistics">选择不包含报销, 则报销数据不计入收支统计. 反之, 则计入.</string>
+    <string name="txtSettingSuccess">设置成功!</string>
+    <string name="txtSettingTime">设定时间：</string>
+    <string name="txtShareAccount">晒账</string>
+    <string formatted="false" name="txtShareMold1">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 有一种习惯叫挖财, 那是每天睡之前对账的时候; 有一种心情叫挖财, 那是每月1号支出为0的时候; 有一种恩爱叫挖财, 那是俩口子一起记着账看账单的时候; 有一种传承, 那是把挖财告诉给孩子的时候. http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold10">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 女儿睡着的时候, 舒服地躺着, 看看电视, 看看片, 不用花钱的娱乐真开心. (via fanchaolianzi2) http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold11">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 亲, 这是要闹哪样. 不记账不知道, 一记吓死人啊, 控制消费刻不容缓. (via 乌龙小蛋蛋) http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold12">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 物价越来越高, 不省吃俭用点没法活啊. 不是高富帅不是白富美的屌丝求包养! 求各种包养! http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold2">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 看着挖财里的存款月月都在增加, 就有一种成就感! http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold3">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 有时候会想, 多年以后看到自己记下的账, 会不会因为回忆起当时的境况和心情, 而倍感幸福. http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold4">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 记着记着就习惯了, 每天打开挖财已经成为了一种习惯, 我想等我的孩子长大了, 拿着挖财给他讲他爹的奋斗历程, 会不会特有意思. http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold5">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. @挖财 若不是因为你, 花钱非常容易, 花完之后再也想不起, 若不是因为你, 怎会有那多情绪, 或许还是不懂快乐的意义. 赤字就在那里, 月光就是我和你. http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold6">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 没有一点点防备, 也没有一丝刻意, 你就这样走进了我的生活里, 带给我惊喜无论何地. 你存在我满满的报表里, 我的记忆, 我的数据, 我的挖财里. http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold7">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 记账的时候, 我的心是晴的, 因为, 我总能幻想到, 总有一天, 总有一个女孩, 会愿意跟我共用一个挖财帐号, 然后, 给我洗衣, 陪我做饭, 为我生娃, 对我记账, 错了, 记的不是账, 是幸福. (via shuimu2009) http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold8">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 有了挖财记账, 每一笔开销用了多少都一目了然, 小数不能大算, 一个月算下来开销太大了, 之前还不知道钱用在什么地方去了 (via 陈建国) http://www.wacai.com</string>
+    <string formatted="false" name="txtShareMold9">\#挖财记账心情# 今天, 我在%1$s花费了%2$s元. 记账也会上瘾哦, 常常会为了在挖财上记录点什么而故意花点小钱! 嘻嘻. 声明, 偶不是大款, 反而穷的叮当响, 买个冰棍儿什么的哈. (via apple_128_84) http://www.wacai.com</string>
+    <string name="txtShareMood">晒心情</string>
+    <string name="txtShareStatMold1">\#挖财晒账# 你见过吃出来喝出来的这么大一个饼吗? 使用挖财制作自己的饼看看. \"屌丝\"的悲苦\"高富帅\"永远不懂! 搬砖就要搬成个工头, 人出生在天黑之中, 活着就是寻找天亮! http://www.wacai.com</string>
+    <string name="txtShareStatMold2">\#挖财晒账# 不记不知道, 一记吓一跳! 原来餐饮占了我这么大的支出比例. 你还记得自己的钱是怎么无声无息地消失掉的吗? 你清楚自己在各项开支上的比例吗? 和我一样装个手机挖财, 就一目了然了! http://www.wacai.com</string>
+    <string name="txtShareStatMold3">\#挖财晒账# 想知道每月吃喝玩乐花了多少吗? 每月都要做月光族吗? 省钱不必用账本, 在手机上轻松完成理财记账软件! 虽然本人不是高帅富, 但是, 看我的报表有多帅! http://www.wacai.com</string>
+    <string name="txtShareStatMold4">\#挖财晒账# 看这饼上的那么大一块都是吃出来的, 我顿感吃货的压力. http://www.wacai.com</string>
+    <string name="txtShareStatMold5">\#挖财晒账# 报表天天有, 这月花销特别少, 很有成就感, 有木有! http://www.wacai.com</string>
+    <string name="txtShareStatMold6">\#挖财晒账# 我宅我宅我宅宅, 持家有道啊, 有木有人, 快来个人夸下咱 http://www.wacai.com</string>
+    <string name="txtShareStatMold7">\#挖财晒账# 我很宅, 伤不起, 剁手网又让我超支了, 555, 泪奔去~ http://www.wacai.com</string>
+    <string name="txtShareTo">"晒心情: "</string>
+    <string name="txtShortcutsList">快捷方式选择</string>
+    <string name="txtShortcutsMgr">模板管理</string>
+    <string name="txtShortcutsTitle">快速记账</string>
+    <string name="txtShowMore">显示更多</string>
+    <string name="txtSoftRecommendLoading">正在连接, 请稍候…</string>
+    <string name="txtSortByPinyin">按拼音排序</string>
+    <string name="txtStart">开始</string>
+    <string name="txtStatShare">"晒账: "</string>
+    <string name="txtStock">库存</string>
+    <string name="txtStringCountIncome">"收入总计: "</string>
+    <string name="txtStringCountOutgo">"支出总计: "</string>
+    <string name="txtSucceedPrompt">操作成功完成!</string>
+    <string name="txtSuccessImport">导入成功!</string>
+    <string name="txtSunday">星期日</string>
+    <string name="txtSundaySimple">周日</string>
+    <string name="txtSure">确定</string>
+    <string name="txtSureToDeleteAccount">确定删除该账户?</string>
+    <string name="txtSureToDeleteLoanAccount">确定删除该借贷账户?</string>
+    <string name="txtSureToDeleteMember">确认删除该成员?</string>
+    <string name="txtSureToDeleteMoneytype">确认删除该币种?</string>
+    <string name="txtSureToDeleteProject">确认删除该项目名称?</string>
+    <string name="txtSureToDeleteScheduleData">确定删除? 删除后, 固定收支自动生成项也将删除</string>
+    <string name="txtSureToDeleteTemplate">确认删除该模板?</string>
+    <string name="txtSureToDeleteTradeTarget">确认删除该商家?</string>
+    <string name="txtSureToDeleteType">确认删除该类别?</string>
+    <string name="txtSyncAlertMessage">系统会恢复到您上次备份时的数据, 现有数据可能会丢失!</string>
+    <string name="txtSyncAllData">全部同步</string>
+    <string name="txtSyncAutomatic">自动同步</string>
+    <string name="txtSyncData">同步数据</string>
+    <string name="txtSyncDataPrompt">正在同步数据, 请稍候</string>
+    <string name="txtSyncDataRange">同步数据范围</string>
+    <string name="txtSyncDataWithOutImg">只同步账务</string>
+    <string name="txtSyncNetWork">网络环境</string>
+    <string name="txtSyncProgress">同步进度%1$s%%</string>
+    <string name="txtSyncProgressTitle">同步进度</string>
+    <string name="txtSyncRemind">同步提醒</string>
+    <string name="txtSyncSetting">同步设置</string>
+    <string name="txtSyncTime">仅同步%1$s及之后的数据</string>
+    <string name="txtSyncing">正在同步数据…</string>
+    <string name="txtTRCountTitle">转账合计</string>
+    <string name="txtTakePhotos">拍照</string>
+    <string name="txtTaobaoAccount">淘宝帐号</string>
+    <string name="txtTaobaoAccountBinding">淘宝帐号绑定</string>
+    <string name="txtTarget">商家</string>
+    <string name="txtTargetNearbyDownload">[商家通]可查找附近商家, 省去输入的烦恼. 下载即可使用, 此插件免费!</string>
+    <string name="txtTargetNearbyInstall">[商家通]可查找附近商家, 省去输入的烦恼. 安装即可使用, 此插件免费!</string>
+    <string name="txtTargetNearbyUpdate">检测到新版商家通, 为了保证您的正常使用, 请更新.</string>
+    <string name="txtTelePhoneNum">号码</string>
+    <string name="txtThisExpenseBill">本期账单金额: %1$s</string>
+    <string name="txtThisMonth">本月</string>
+    <string name="txtThisQuarter">本季</string>
+    <string name="txtThisWeek">本周</string>
+    <string name="txtThisYear">本年</string>
+    <string name="txtThursday">星期四</string>
+    <string name="txtThursdaySimple">周四</string>
+    <string name="txtTime">时间</string>
+    <string name="txtTimeEnd">结束日期</string>
+    <string name="txtTimeScope">日期范围</string>
+    <string name="txtTimeStart">开始日期</string>
+    <string name="txtToday">今天</string>
+    <string name="txtToday1">今日</string>
+    <string name="txtTodayNoRecord">我今天还没花钱哦, 赚了!</string>
+    <string name="txtTotalDiff">"总收支差: "</string>
+    <string name="txtTransfer">转账</string>
+    <string name="txtTransferIn">转入</string>
+    <string name="txtTransferMoneyIn">转入金额</string>
+    <string name="txtTransferMoneyOut">转出金额</string>
+    <string name="txtTransferOut">转出</string>
+    <string name="txtTransformData">传输数据中…</string>
+    <string name="txtTuesday">星期二</string>
+    <string name="txtTuesdaySimple">周二</string>
+    <string name="txtType">类别</string>
+    <string name="txtTypeAll">所有类别</string>
+    <string name="txtTypeFast">常用类别</string>
+    <string name="txtTypePrefix">【%1$s】</string>
+    <string name="txtUnzipError">数据出错, 请稍候重试! 或联系挖财解决!</string>
+    <string name="txtUp">上</string>
+    <string name="txtUpdateInformation">"1. 新增账户余额修改记录, 历史修改一清二楚
+2. 优化对账界面, 显示条目增多, 页面更美观
+3. 解决修改当前欠款使本期应还款出错的问题"</string>
+    <string name="txtUpdateInformationTitle">版本更新内容</string>
+    <string name="txtUpdateNow">更新</string>
+    <string name="txtUpdateRate">更新汇率需要网络连接</string>
+    <string name="txtUpdateRateSucceed">更新汇率成功</string>
+    <string name="txtUpgrade">更新版本</string>
+    <string name="txtUpgradeTitle">版本更新</string>
+    <string name="txtUploadProgress">备份进度</string>
+    <string name="txtUploadingBaseData">备份基础数据中…</string>
+    <string name="txtUseSMSFeedback">短信通使用反馈</string>
+    <string name="txtUserDefine">自定义</string>
+    <string name="txtUserName">帐号</string>
+    <string formatted="false" name="txtVersionDes">"版本: %1$s 
+描述: %2$s."</string>
+    <string name="txtVersionListEmptyHint">您的挖财已经是最新版本, 感谢您的支持!</string>
+    <string name="txtVersionTitle">有新版本啦!</string>
+    <string name="txtVoiceTecProvider">语音技术由科大讯飞提供</string>
+    <string name="txtWacaiRemindCharge">挖财: 记账提醒</string>
+    <string name="txtWarmprompt">温馨提示</string>
+    <string name="txtWarningBalanceTitle">警戒线金额</string>
+    <string name="txtWarningTitle">请注意</string>
+    <string name="txtWednesday">星期三</string>
+    <string name="txtWednesdaySimple">周三</string>
+    <string name="txtWhiteListSetting">白名单管理</string>
+    <string name="txtWhiteMemberDetail">白名单信息</string>
+    <string name="txtWorkingDay">周一至周五</string>
+    <string name="txtWriteTitle">记账</string>
+    <string name="txtYear">年</string>
+    <string formatted="false" name="txtYearMonth">%1$s年%2$s月</string>
+    <string formatted="false" name="txtYearMonthDay">%1$s年%2$s月%3$s日</string>
+    <string name="txtYesterday">昨日</string>
+    <string name="txtdownloadingImage">图片下载中</string>
+    <string name="txtfailedPrompt">操作失败, 请稍后重试!</string>
+    <string name="typeFilter">类型筛选</string>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_download_failed">Download Failed! </string>
+    <string name="umeng_common_download_finish">Download finished,click to install it.</string>
+    <string name="umeng_common_download_notification_prefix">Downloading: </string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+    <string name="umeng_common_pause_notification_prefix">Pause: </string>
+    <string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string>
+    <string name="umeng_common_start_download_notification">Download start.</string>
+    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <string name="umeng_fb_back">Back</string>
+    <string name="umeng_fb_contact_info">Contact Info</string>
+    <string name="umeng_fb_contact_info_hint">Email, msn, gtalk, or whatever we can find you.</string>
+    <string name="umeng_fb_contact_title">Contact</string>
+    <string name="umeng_fb_contact_update_at">Updated at </string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">You received %d new replies from the app developer.</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">New reply: %s</string>
+    <string name="umeng_fb_notification_ticker_text">Got new reply</string>
+    <string name="umeng_fb_powered_by">Powered by</string>
+    <string name="umeng_fb_reply_content_default">Your precious feedback are appriciated.</string>
+    <string name="umeng_fb_reply_content_hint">I want to tell</string>
+    <string name="umeng_fb_reply_date_default">2013-3-12 13:24:00</string>
+    <string name="umeng_fb_send">Send</string>
+    <string name="umeng_fb_title">Feedback</string>
+    <string name="unSupportedROM">很抱歉, 挖财短信服务暂时只支持Android1.6以上的设备</string>
+    <string name="unknownError">未知错误</string>
+    <string name="updateQuick">快速备份</string>
+    <string name="updateRate">汇率更新</string>
+    <string name="userClub">财主汇</string>
+    <string name="viewPicture">查看图片</string>
+    <string name="voice">语音</string>
+    <string name="voiceCountdown">(%1$d秒)</string>
+    <string name="voiceErrorMicInitFailed">录音设备初始化失败!</string>
+    <string name="voiceErrorNetworkBusy">网络忙, 请稍后重试!</string>
+    <string name="voiceErrorNetworkTimeout">网络连接超时, 请重试!</string>
+    <string name="voiceErrorUnknow">未知错误, 请重试!</string>
+    <string name="voiceErrorrecognizeFailed">语音识别出错,请重试!</string>
+    <string name="voiceInitLib">初始化语音库, 请稍候…</string>
+    <string name="voiceInput">语音输入</string>
+    <string name="voicePressSpeak">请按住说话</string>
+    <string name="voiceUseGuide">"1. 请使用普通话
+2. 保持中等语速
+3. 在较安静的环境中使用"</string>
+    <string name="voiceUseGuideTitle">使用帮助</string>
+    <string name="watchWacai">同时关注挖财</string>
+    <string name="watchWacai2">关注挖财官方微博</string>
+    <string name="weiboCharacterCanInput">你还可以输入%1$d字</string>
+    <string name="weiboCommit">提交</string>
+    <string name="weiboCommitSuggestions">提交问题及建议</string>
+    <string name="weiboConnectToSina">关联新浪微博</string>
+    <string name="weiboConnected">已关联</string>
+    <string name="weiboConntect">关联您的微博帐号</string>
+    <string name="weiboDisconnect">解除</string>
+    <string name="weiboDisconnectConfirm">确定解除关联?</string>
+    <string name="weiboDisconnected">未关联</string>
+    <string name="weiboErrorBadGateway">微博已关闭或者正在更新!</string>
+    <string name="weiboErrorBadRequest">无效的请求或者您的网络频率受限!</string>
+    <string name="weiboErrorBusy">微博服务器繁忙, 请稍后重试!</string>
+    <string name="weiboErrorEmpty">写点什么东西吧…</string>
+    <string name="weiboErrorForbidden">请求不合法!</string>
+    <string name="weiboErrorNotAcceptable">请求格式错误!</string>
+    <string name="weiboErrorNotAuth">认证证书错误或者缺失!</string>
+    <string name="weiboErrorNotConnect">操作失败, 您还没有关联微博!</string>
+    <string name="weiboErrorNotFound">请求的内容或资源无效, 如用户不存在!</string>
+    <string name="weiboErrorResend">您已经分享过了, 无需重复分享!</string>
+    <string name="weiboErrorServerInternal">微博未知错误! 可发邮件给微博团队查找原因!</string>
+    <string name="weiboFileSizeTooLarge">图片大小不能超过5M, 请更换.</string>
+    <string name="weiboInputTextExceedCount">已超出%1$d字</string>
+    <string name="weiboModifyConnection">修改关联</string>
+    <string name="weiboMood">换个心情</string>
+    <string name="weiboOutOfMemory">图片解析失败, 无法正常显示.</string>
+    <string name="weiboPicSizeLarge">"亲爱的财主!
+您所分享的微博信息中, 上传照片大小为 %1$s, 是否确认分享"</string>
+    <string name="weiboPromptLoadingPage">正在连接%1$s, 请稍候…</string>
+    <string name="weiboPromptShareSuccess">信息分享成功!</string>
+    <string name="weiboPublish">发布微博</string>
+    <string name="weiboSettings">微博分享设置</string>
+    <string name="weiboShare">分享</string>
+    <string name="weiboShareHint">(补充您的心情/体会/感受分享给大家)</string>
+    <string formatted="false" name="weiboShareOutgoWithMerchant">\#挖财记账心情# %1$s, 我在%2$s花了%3$s元,</string>
+    <string formatted="false" name="weiboShareOutgoWithType">\#挖财记账心情# %1$s, 我在%2$s上花了%3$s元,</string>
+    <string name="weiboSharePie">\#挖财晒账# 刚刚整理了下我的支出, 发现我算得上是个#月光族#/饕餮族/守财奴</string>
+    <string name="weiboShareToFriends">在微博分享挖财</string>
+    <string name="weiboShareToFriendsContent">"一起来#挖财#最近在使用一个叫挖财的记账软件, 终于知道怎么留住钞票啦! 东东很不错, 你也可以试试  http://www.wacai.com "</string>
+    <string name="weiboSinaTitle">新浪微博</string>
+    <string name="weiboStatNotDel">图文分享时不可更换图片</string>
+    <string name="weiboSuggestionsHint">(问题/建议)</string>
+    <string name="weiboTencentErrorAccess">禁止访问, 请联系腾讯微博客服解决此问题, 谢谢!</string>
+    <string name="weiboTencentErrorChecking">微博审核中, 请稍后查看.</string>
+    <string name="weiboTencentErrorContentForbidden">此微博包含违规内容, 请删除违规内容后重新发布, 谢谢!</string>
+    <string name="weiboTencentTitle">腾讯微博</string>
+    <string name="weiboTextCountExceedLimitation">您发的信息超过字数限制, 请删减后再发布!</string>
+    <string name="weiboTokenExpired">微博授权已失效, 请重新授权!</string>
+    <string name="weiboTxtSaveSucceed">支出保存成功, 将信息分享给好友…</string>
+    <string name="weiboUnsupportedImageFormat">图片类型不符, 请更换! 只支持JPG、PNG、GIF类型的图片</string>
+    <string name="weiboUnsupportedImageSize">图片太大, 请更换!</string>
+    <string name="weiboWacaiNickname">"\@挖财 "</string>
+    <string name="weibointroduce">分享您的心情</string>
+    <string name="weibosettings">微博共享设置</string>
+    <string name="whiteMember">白名单</string>
+    <string name="widget2x1">挖财(2X1)</string>
+    <string name="widget4x1">挖财(4X1)</string>
+    <string name="widgetDes">今天消费了%1$s</string>
+    <string name="yesterdayTime">昨天: %1$s</string>
+    <style name="BillHelpDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Panel">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/dialogWindowAnim</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="Panel" parent="@android:style/Theme.Panel">
+        <item name="android:windowAnimationStyle">@style/dialogWindowAnim</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="WacaiTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@drawable/wacai_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:expandableListViewStyle">@style/WaicaiExpandableListView</item>
+        <item name="android:listViewStyle">@style/WaicaiListView</item>
+    </style>
+    <style name="WaicaiExpandableListView" parent="@android:style/Widget.ExpandableListView">
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+    <style name="WaicaiListView" parent="@android:style/Widget.ListView">
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+    <style name="blackDownShadow" parent="@android:style/TextAppearance">
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="blackUpShadow" parent="@style/blackDownShadow">
+        <item name="android:shadowDy">-1.0</item>
+    </style>
+    <style name="calcSimpleText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffeadbd1</item>
+    </style>
+    <style name="calcText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/btn_calc_txt</item>
+    </style>
+    <style name="calcTextDisplay" parent="@android:style/TextAppearance">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff49452e</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="dateDayText" parent="@style/dateWeekText">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="dateWeekText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/txtSizeF4</item>
+        <item name="android:textColor">#ff7a3f00</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="dialogWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_anim</item>
+    </style>
+    <style name="newsTextRead" parent="@style/newsTextUnread">
+        <item name="android:textColor">#ff999999</item>
+    </style>
+    <style name="newsTextUnread" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffa56a36</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="scan_dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/whites</item>
+    </style>
+    <style name="style_14_4B4B4B">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff4b4b4b</item>
+    </style>
+    <style name="titlebar" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/txtSizeF4</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="whiteDownShadow" parent="@android:style/TextAppearance">
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+</resources>

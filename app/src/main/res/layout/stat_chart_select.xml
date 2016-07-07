@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/paperMarginLR" android:paddingRight="@dimen/paperMarginLR" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/paperMarginTop">
+        <TextView android:textSize="@dimen/txtSizeF2" android:textColor="@color/blue_brown_sel" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/paperPaddingLR" android:layout_marginTop="@dimen/size6" android:layout_marginBottom="@dimen/size2" android:text="@string/statOutgoTitle" android:drawableLeft="@drawable/ic_stat_outgo" android:drawablePadding="@dimen/size6" />
+        <RelativeLayout android:background="@drawable/paper_bg" android:paddingLeft="@dimen/paperShadeLR" android:paddingRight="@dimen/paperShadeLR" android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/listHeight1">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoMainType" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoMainType" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoSubType" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoSubType" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoAcc" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoAcc" android:layout_weight="1.0" />
+                </LinearLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/listHeight1">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoTarget" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoTarget" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoMember" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoMember" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoPrj" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoPrj" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="@dimen/size72" android:layout_centerInParent="true">
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/txtSizeF2" android:textColor="@color/blue_brown_sel" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/paperPaddingLR" android:layout_marginTop="@dimen/size6" android:layout_marginBottom="@dimen/size2" android:text="@string/statIncomeTitle" android:drawableLeft="@drawable/ic_stat_income" android:drawablePadding="@dimen/size6" />
+        <RelativeLayout android:background="@drawable/paper_bg" android:paddingLeft="@dimen/paperShadeLR" android:paddingRight="@dimen/paperShadeLR" android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/listHeight1">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomeType" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statIncomeType" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomeAcc" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statIncomeAcc" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomeMember" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statIncomeMember" android:layout_weight="1.0" />
+                </LinearLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/listHeight1">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomePrj" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statIncomePrj" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomeTarget" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/txtIncomeTarget" android:layout_weight="1.0" />
+                    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="@dimen/size72" android:layout_centerInParent="true">
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/txtSizeF2" android:textColor="@color/blue_brown_sel" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/paperPaddingLR" android:layout_marginTop="@dimen/size6" android:layout_marginBottom="@dimen/size2" android:text="@string/statCompareTitle" android:drawableLeft="@drawable/ic_stat_compare" android:drawablePadding="@dimen/size6" />
+        <RelativeLayout android:background="@drawable/paper_bg" android:paddingLeft="@dimen/paperShadeLR" android:paddingRight="@dimen/paperShadeLR" android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/listHeight1">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvCompare" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statCompareMonth" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvBudget" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statBudget" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvOutgoMonth" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statOutgoMonth" android:layout_weight="1.0" />
+                </LinearLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/size44">
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvIncomeMonth" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statIncomeMonth" android:layout_weight="1.0" />
+                    <TextView android:textSize="@dimen/txtSizeF3" android:textColor="@color/blue_brown_sel" android:gravity="center" android:id="@id/tvExpensePk" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/statExpensePk" android:layout_weight="1.0" />
+                    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="@dimen/size72" android:layout_centerInParent="true">
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:background="@color/divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

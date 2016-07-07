@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/bottombar"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/size50"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/bottom_bar_bg"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@id/btnBack"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:drawableLeft="@drawable/back_btn" />
+
+    <TextView
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+
+    <RelativeLayout
+        android:id="@id/btnOk"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" >
+
+        <TextView
+            android:id="@+id/btn_datetime_sure"
+            android:layout_width="40dp"
+            android:layout_height="40dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="6dp"
+            android:background="@drawable/btn_ok1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="35dp"
+            android:paddingRight="@dimen/size14"
+            android:text="@string/txtOK" />
+    </RelativeLayout>
+
+</LinearLayout>

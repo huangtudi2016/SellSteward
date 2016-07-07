@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/wacai_bg" >
+
+    <TextView
+        android:id="@+id/tvDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="选择日期和时间"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtSizeF4"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/timePicker1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDialog"
+        android:layout_gravity="center_horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="10dp" >
+
+        <com.fada.sellsteward.wheelview.WheelView
+            android:id="@+id/year"
+            android:layout_width="85dip"
+            android:layout_height="wrap_content" />
+
+        <com.fada.sellsteward.wheelview.WheelView
+            android:id="@+id/month"
+            android:layout_width="50dip"
+            android:layout_height="wrap_content" />
+
+        <com.fada.sellsteward.wheelview.WheelView
+            android:id="@+id/day"
+            android:layout_width="50dip"
+            android:layout_height="wrap_content" />
+
+        <com.fada.sellsteward.wheelview.WheelView
+            android:id="@+id/hour"
+            android:layout_width="44dip"
+            android:layout_height="wrap_content" />
+
+        <com.fada.sellsteward.wheelview.WheelView
+            android:id="@+id/mins"
+            android:layout_width="44dip"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <!-- android:background="@drawable/bg_camera_pattern" -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/timePicker1" >
+
+        <TextView
+            android:id="@+id/btn_datetime_cancel"
+            android:layout_width="40dp"
+            android:layout_height="40dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/btn_cancel" />
+
+        <TextView
+            android:id="@+id/btn_datetime_sure"
+            android:layout_width="40dp"
+            android:layout_height="40dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/btn_ok1" />
+    </RelativeLayout>
+
+</RelativeLayout>

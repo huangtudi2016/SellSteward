@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+     android:layout_height="@dimen/size44"
+     android:background="@drawable/gray_btn_n"
+     android:layout_marginLeft="5dp"
+     android:layout_marginRight="5dp"
+     android:cacheColorHint="#00000000"
+    android:orientation="vertical" >
+
+    <TextView
+            android:id="@+id/tvCategoryName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="韩版外套"
+            android:textColor="@color/black"
+           android:layout_margin="10dp"
+            android:textSize="@dimen/txtSizeF4" />
+     <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+
+</LinearLayout>

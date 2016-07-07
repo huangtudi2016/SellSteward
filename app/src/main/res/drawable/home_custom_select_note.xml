@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/home_custom_selected_bg" />
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/home_custom_note_n" />
+    </item>
+    <item>
+        <bitmap android:gravity="top|left|center" android:src="@drawable/home_custom_delete_icon" />
+    </item>
+</layer-list>

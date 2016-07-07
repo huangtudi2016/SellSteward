@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dip"
+    android:orientation="horizontal" >
+
+    <TextView
+        style="@style/whiteDownShadow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/ic_sync_notification" />
+
+    <TextView
+        android:id="@+id/bkName"
+        style="@style/whiteDownShadow"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:clickable="true"
+        android:gravity="left|center_vertical"
+        android:text="数据备份日期"
+        android:textColor="@color/lightBlue"
+        android:textSize="@dimen/txtSizeF4" />
+
+    <TextView
+        android:id="@id/btnDate"
+        style="@style/whiteDownShadow"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="2013年02月21日"
+        android:textColor="@color/lightBlue"
+        android:textSize="@dimen/txtSizeF4" />
+
+</LinearLayout>

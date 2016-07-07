@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/rlGroup"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:baselineAligned="false"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/size44" >
+
+            
+
+            <LinearLayout
+                android:id="@+id/ll_jiesuan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/size14"
+                android:paddingRight="@dimen/size14" >
+
+                <LinearLayout
+                    android:id="@+id/ll_customer"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/size40"
+                    android:baselineAligned="false" >
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="4.0"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingRight="@dimen/bluePgPaddingLR2" >
+
+                        <TextView
+                            android:id="@id/tvCountPrompt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:singleLine="true"
+                           android:layout_marginRight="@dimen/size5"
+                            android:text="@string/txtCustomer"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@+id/tvCustomerName"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:singleLine="true"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="1.0px"
+                        android:layout_height="fill_parent"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="5.0"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingLeft="@dimen/bluePgPaddingLR2"
+                        android:paddingRight="@dimen/bluePgPaddingLR2" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/size5"
+                            android:singleLine="true"
+                            android:text="@string/txtCustomerNum"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@+id/tvCustomerNum"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:singleLine="true"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/size38"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="@dimen/size38"
+                        android:layout_marginRight="@dimen/size10"
+                        android:layout_weight="1.0"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="@dimen/size30"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="5dip"
+                            android:background="@color/lightBlue"
+                            android:gravity="center"
+                            android:padding="2dip"
+                            android:text="共:"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/statOutgo"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="@dimen/size5"
+                            android:gravity="center_vertical"
+                            android:singleLine="true"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@id/btnBalanceSummary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/size30"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/gray_btn"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/size15"
+                        android:paddingRight="@dimen/size15"
+                        android:text="@string/txtBalanceCount"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/txtSizeF2" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@id/statBaselayout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@id/ll_jiesuan"
+                android:background="@drawable/paper_bg2"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <ListView
+                    android:id="@+id/expandableListView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:cacheColorHint="#00000000"
+                    android:groupIndicator="@drawable/tag_but_background"
+                    android:listSelector="@drawable/list_seletor_transparent"
+                    android:scrollbars="none" >
+                </ListView>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/size44"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:id="@id/btnDatePrev"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/prev_btn" />
+
+            <TextView
+                android:id="@id/btnDate"
+                style="@style/whiteDownShadow"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="2013年02月"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF4" />
+
+            <TextView
+                android:id="@id/btnDateNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/size10"
+                android:drawableRight="@drawable/next_btn" />
+
+            <CheckBox
+                android:id="@id/cbTabSelector"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/size30"
+                android:background="@drawable/gray_btn"
+                android:button="@null"
+                android:drawablePadding="@dimen/size8"
+                android:drawableRight="@drawable/detail_tab_selector"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/size10"
+                android:text="@string/txtAdd"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtSizeF2" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

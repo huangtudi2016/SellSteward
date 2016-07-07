@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <TextView
+        style="@style/whiteDownShadow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size33"
+        android:text="@string/weiboConntect"
+        android:textColor="@color/lightBlue"
+        android:textSize="@dimen/txtSizeF4" />
+
+    <TextView
+        style="@style/whiteDownShadow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/weibointroduce"
+        android:textColor="@color/lightBlue"
+        android:textSize="@dimen/txtSizeF2" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size20"
+        android:layout_weight="1.0" >
+
+        <RelativeLayout
+            android:layout_width="@dimen/size93"
+            android:layout_height="@dimen/size87"
+            android:layout_marginLeft="@dimen/size54" >
+
+            <View
+                android:id="@id/vSina"
+                android:layout_width="@dimen/size85"
+                android:layout_height="@dimen/size85"
+                android:background="@drawable/ic_weibo_sina" />
+
+            <ImageView
+                android:id="@id/iv_sina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_weibo_show" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/size93"
+            android:layout_height="@dimen/size87"
+            android:layout_marginLeft="@dimen/size34" >
+
+            <View
+                android:id="@id/vTencent"
+                android:layout_width="@dimen/size85"
+                android:layout_height="@dimen/size85"
+                android:background="@drawable/ic_weibo_tencent" />
+
+            <ImageView
+                android:id="@id/iv_tencent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_weibo_show" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/rootTrade" android:background="@drawable/wacai_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/title_bar" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_above="@id/bottombar" android:layout_below="@id/titleLine">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/tabBaseLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/paperMarginLR" android:layout_marginTop="@dimen/size14" android:layout_marginRight="@dimen/paperMarginLR" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/size35" android:layout_margin="@dimen/size15">
+                <TextView android:textSize="@dimen/txtSizeF4" android:textColor="@color/white" android:gravity="center" android:id="@id/tvSave" android:background="@drawable/green_btn" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/txtSave" android:layout_weight="4.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:id="@id/calcFrame" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/paperMarginLR" android:layout_above="@id/bottombar" />
+    <include layout="@layout/bottom_back_save" />
+    <LinearLayout android:id="@id/popFrame" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</RelativeLayout>

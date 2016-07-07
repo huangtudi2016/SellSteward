@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/wacai_bg" >
+
+    <TextView
+        android:id="@+id/tvDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="编辑"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtSizeF4"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDialog"
+        android:layout_margin="5dip"
+        android:hint="请输入...." />
+    <!-- android:background="@drawable/bg_camera_pattern" -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/etDialog" >
+
+        <TextView
+            android:id="@+id/btn_datetime_cancel"
+            android:layout_width="30dp"
+            android:layout_height="30dip"
+             android:layout_marginLeft="25dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/home_custom_delete_icon" />
+
+        <TextView
+            android:id="@+id/btn_datetime_sure"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_marginRight="25dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_dialog_info" />
+    </RelativeLayout>
+
+</RelativeLayout>

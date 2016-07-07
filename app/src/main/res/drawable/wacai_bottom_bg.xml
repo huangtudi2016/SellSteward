@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/wacai_bottom_bg_slice" android:tileMode="repeat" />
+    </item>
+    <item>
+        <nine-patch android:src="@drawable/wacai_bottom_bg_mask" />
+    </item>
+</layer-list>

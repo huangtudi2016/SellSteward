@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/title_bar" />
+    <LinearLayout android:background="@drawable/paper_bg2" android:paddingLeft="@dimen/paperShadeLR" android:paddingRight="@dimen/paperShadeLR" android:paddingBottom="@dimen/paperShadeBottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/paperMarginLR" android:layout_marginTop="@dimen/paperMarginTop" android:layout_marginRight="@dimen/paperMarginLR" android:layout_marginBottom="@dimen/paperMarginBottom" android:layout_above="@id/bottombar" android:layout_below="@id/titleLine">
+        <ListView android:id="@id/IOList" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@drawable/transparent" android:cacheColorHint="@drawable/transparent" android:divider="@color/divider" android:dividerHeight="1.0px" />
+        <TextView android:textColorHint="@color/lightGray" android:gravity="center" android:id="@id/tvEmptyView" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/txtNoContentRecord" />
+    </LinearLayout>
+    <include layout="@layout/bottom_back_add" />
+</RelativeLayout>

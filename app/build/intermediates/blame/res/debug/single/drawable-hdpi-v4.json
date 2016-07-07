@@ -1,0 +1,2430 @@
+[
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_alert_notification.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_alert_notification.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_bbs_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_bbs_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_account_cast.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_account_cast.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_budget_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_budget_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stat_balance_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/stat_balance_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_note.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_note.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_remburse.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_remburse.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_weibo_menu_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_weibo_menu_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/prev_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/prev_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_sport.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_sport.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_bg_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_bg_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_close_bg_normal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/divider_timer_shaft.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/divider_timer_shaft.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weibo_disconnect_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/weibo_disconnect_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_bill_scan.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_bill_scan.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_pie_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_pie_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/orange_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/orange_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_4.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_4.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pin.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_pin.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_input_record_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_input_record_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_equ_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_equ_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_thumb_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_thumb_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_art.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_art.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_search_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_search_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_indecator_button.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_phone.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_phone.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_back1_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_back1_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sync_notification.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_sync_notification.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_social_agent.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_social_agent.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stxm.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/stxm.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_fast_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_fast_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_income.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_stat_income.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_supper.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_supper.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_property.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_stat_property.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_sina_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_sina_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/back_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_bottom_corner_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/item_bottom_corner_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_subway.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_subway.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pinyin_sort_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/pinyin_sort_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/delete_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_camera.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_camera.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_babies.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_babies.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_schedule_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_schedule_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_tecent_c.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_tecent_c.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume2_right_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume2_right_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_voice_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_voice_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_chart.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_chart.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_indicate_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_indicate_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_list_group_cp.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_list_group_cp.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_stock.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_stock.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume2_left_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume2_left_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_5.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_5.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_children.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_children.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_8.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_8.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_account_datail.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_account_datail.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_title_bar_bg_slice.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_title_bar_bg_slice.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_loans.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_loans.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_button_d.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/radio_button_d.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_account_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_account_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_camera_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_camera_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/reset_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/reset_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_bar_bg_slice.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/title_bar_bg_slice.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_3.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/loading_3.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_msg_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_msg_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume1_right_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume1_right_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_ok1_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_ok1_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_daily_department.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_daily_department.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_retake_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/pic_retake_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_dot.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_dot.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_btn_pressed.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_materials.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_materials.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/black_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/black_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fav_yes.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_fav_yes.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_btn_d.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/gray_btn_d.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_add_pic_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_add_pic_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellow_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/yellow_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/paper_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/paper_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/input_text_bg_s.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/input_text_bg_s.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_remburse_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_remburse_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_renovation.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_renovation.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_right_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_right_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_pic.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_pic.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_car.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_car.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_zoom_out_f.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_zoom_out_f.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_details_gohome.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/button_details_gohome.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_flash_down.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_flash_down.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_fast_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_fast_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_prev_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_prev_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_rent.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_rent.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/edit_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fg_budget_w.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/fg_budget_w.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_tool_kits_content.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_tool_kits_content.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_furniture.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_furniture.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hide_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/hide_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bills_analyzefailed.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_bills_analyzefailed.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/del_pic.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/del_pic.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chooser_elist_bg_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chooser_elist_bg_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_8.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_8.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_list_group_ep.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_list_group_ep.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_voice_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_voice_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_2.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/loading_2.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_sina_c.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_sina_c.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_left.jpg",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_left.jpg"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_type_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_type_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_friends.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_friends.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_off_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/delete_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_marriage.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_marriage.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_calc.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_calc.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_setting_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_setting_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_parking.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_parking.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_more_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_more_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_et_search.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_et_search.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_profit.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_profit.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_setting_sync_right_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_setting_sync_right_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbox_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/toolbox_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/right.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/right.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/white_member_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/white_member_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_delete1_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_delete1_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_detail_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_detail_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_house.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_house.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_location_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_location_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_4.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_4.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_7.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_7.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/setting_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_skin.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_skin.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_ok.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_ok.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_delete_alert_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_delete_alert_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_bg_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_bg_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume1_left_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume1_left_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/next_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_reimburse_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_reimburse_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/target_cancel_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/target_cancel_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_sync_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_sync_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_invest.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_invest.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_mic.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_mic.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/download_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/download_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_note_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_note_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_search_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_search_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_msg_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_msg_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_camera_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_camera_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sina_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_sina_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_futures.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_futures.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_clothes.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_clothes.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_tecent_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_tecent_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_title.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_title.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/green_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/green_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/camera_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_bonus.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_bonus.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/prev_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/prev_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_right.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_arrow_right.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_stat_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_stat_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/product_loading.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/product_loading.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_delwords_sel.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_delwords_sel.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_calc_display.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_calc_display.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_date_wheel.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_date_wheel.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_cancel_holo_light_16_9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_menu_cancel_holo_light_16_9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_setting_default.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_setting_default.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_footprint_image.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_footprint_image.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_tab_selector_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_tab_selector_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_camera_pattern.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_camera_pattern.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_shopping.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_shopping.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_camera_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_camera_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/page_indicator_unfocused.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/page_indicator_unfocused.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button_down.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_indecator_button_down.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_delwords_nor.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_delwords_nor.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_right.jpg",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_right.jpg"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/more_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/more_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_stat_setting.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_stat_setting.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_delete_alert_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_delete_alert_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/exit_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/exit_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_broadband.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_broadband.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_qq_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_qq_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_reward.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_reward.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bills_persync.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_bills_persync.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_account_credit.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_account_credit.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_account_savings.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_account_savings.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_wine.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_wine.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_setting_sync_left_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_setting_sync_left_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_back_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_back_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ok_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_sync_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_sync_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_bottom_bg_mask.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_bottom_bg_mask.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_empty_iv.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_empty_iv.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_social.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_social.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_myqrcode_nor.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_myqrcode_nor.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_on_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottom_add_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bottom_add_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_education.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_education.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_game.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_game.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_tencent_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_tencent_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_bg.jpg",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_bg.jpg"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_left_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_left_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_photo_down.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_photo_down.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_date_mask.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_date_mask.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_new.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_new.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_sync_data_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_sync_data_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_pic_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_pic_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_fruit.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_fruit.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_btn_bg_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/camera_btn_bg_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_empty_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_empty_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_bottom_divider.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_bottom_divider.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sousuo.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sousuo.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_account_other.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_account_other.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_title.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_title.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_calculator.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_calculator.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox4_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox4_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_date_divider.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_date_divider.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_text_des.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_text_des.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_sign_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_sign_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/paple_dialog_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/paple_dialog_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/appwidget_search_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/appwidget_search_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_flash_nor.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_flash_nor.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellow_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/yellow_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_6.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_6.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_alipay_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_alipay_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_coffee.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_coffee.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_tencent_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_tencent_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hide_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/hide_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_zoom_in_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_zoom_in_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qrcode_scan_line.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qrcode_scan_line.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_search2.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_search2.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_no_image.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_detail_no_image.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_calc_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_calc_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_back_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_back_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fg_budget_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/fg_budget_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_account_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_account_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/white_member_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/white_member_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_lunch.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_lunch.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/vertical_divider.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/vertical_divider.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_img_weibo_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_img_weibo_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_footprint_item.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_footprint_item.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_personal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_setting_personal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_logo.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/title_logo.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_tab_selector_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_tab_selector_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/favorite_set_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/favorite_set_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pinyin_sort_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/pinyin_sort_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/close_normal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/close_normal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_loans.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_loans.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chooser_elist_bg_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chooser_elist_bg_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ok_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_msg_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_msg_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_back_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_back_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_indicate_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_indicate_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_weibo_publish.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_weibo_publish.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_voice_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_voice_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_profit.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_profit.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_loans.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_loans.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/payback_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/payback_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_more_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_more_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_camera_control_top_bar_16_9.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_camera_control_top_bar_16_9.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_search_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_search_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume3_right_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume3_right_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/reset_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/reset_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_selected.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_item_bg_album_selected.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_zoom_out_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_zoom_out_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_transfer_arrow.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_transfer_arrow.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_dialog_alert.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_dialog_alert.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_btn.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_btn.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/left_top.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/left_top.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/num_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_update_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_check_update_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/back_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_rent.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_rent.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_myqrcode_down.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_myqrcode_down.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_remote_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/search_remote_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_calulator_mask.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_calulator_mask.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_operate_selected.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_item_bg_operate_selected.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_fast_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_fast_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/orange_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/orange_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ok_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_bg_slice.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_bg_slice.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_msg_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_msg_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_stat_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_stat_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume3_left_on.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume3_left_on.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/money_in_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/money_in_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/search_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txm.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/txm.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_delete_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_delete_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_remote_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/search_remote_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_hist_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_hist_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_img_show.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_img_show.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_toy.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_toy.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_equ_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_equ_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_calculator2.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_calculator2.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stat_balance_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/stat_balance_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_list_group_en.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_list_group_en.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_electricity.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_electricity.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_receivable.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_receivable.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_tool_kit_c.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_tool_kit_c.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_househole.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_househole.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_train.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_train.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_bus.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_bus.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/target_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/target_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/dialog_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/appwidget_2x1_fast_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/appwidget_2x1_fast_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_back1_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_back1_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_selected_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_selected_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stat_divider.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/stat_divider.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sina_logo.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sina_logo.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_lavipeditum.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_lavipeditum.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume3_right_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume3_right_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_camera_exposure_line.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_camera_exposure_line.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc2_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc2_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_family.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_family.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/prev_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/prev_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_budget_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_budget_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_schedule.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_schedule.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_input_record_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_input_record_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_expend_loans.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_expend_loans.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_insurance.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_insurance.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radiogroup_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/radiogroup_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_show.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_show.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_taxi.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_taxi.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_delwords.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_delwords.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_tv.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_tv.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_2.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_2.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_photo_nor.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_photo_nor.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_list_group_cn.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_list_group_cn.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weibo_disconnect_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/weibo_disconnect_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_tag.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_arrow_tag.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_note_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_note_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_6.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_6.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/input_top_corner.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/input_top_corner.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_title_bar_divider.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_title_bar_divider.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc2_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc2_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_msg_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_msg_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/web_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/web_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/red_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_fund.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_fund.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/edit_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_bottom_bg_slice.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_bottom_bg_slice.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_right_m.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_right_m.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/copyright_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/copyright_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume2_right_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume2_right_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rb_stat_setting_c.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/rb_stat_setting_c.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_compare.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_stat_compare.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_fast_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_fast_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_tolls.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_tolls.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_password_bg_s.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/register_password_bg_s.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_alipay_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_alipay_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_social_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_social_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_detail_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_detail_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pie_mask.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/pie_mask.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_meal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_meal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_medicine.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_medicine.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_weibo_menu_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_weibo_menu_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/setting_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footprint_tab_switch_s.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/footprint_tab_switch_s.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_social_goods.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_social_goods.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/item_more_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_img_weibo_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_img_weibo_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_search_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_search_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_pie_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_pie_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_bg_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_bg_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_outgo.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_stat_outgo.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_rectification_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_rectification_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_thumb_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_thumb_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_detail.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_location_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_location_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_dialog_info.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_dialog_info.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_oiling.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_oiling.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_delete1_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_delete1_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/left_bottom.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/left_bottom.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_remote_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/search_remote_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_setting_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_setting_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_cash_gift.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_cash_gift.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/payback_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/payback_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_delete_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_delete_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_air.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_air.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_detail_seperator.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_detail_seperator.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_close_bg_tap.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_update_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_check_update_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/receipt_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/receipt_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fg_budget_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/fg_budget_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/money_out_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/money_out_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_sign2_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_sign2_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_dinner.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_dinner.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_remburse_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_remburse_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_down.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_msg_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_msg_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_sing.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_sing.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_account_bg_s.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/register_account_bg_s.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_cylinder.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_cylinder.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/freq_sort_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/freq_sort_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_type_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_type_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_zoom_in_f.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_zoom_in_f.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/gray_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_hist_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_hist_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_hor_hist_red.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_hor_hist_red.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_update_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/check_update_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fav_no.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_fav_no.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/search_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_photograph.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_photograph.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_prev_btn_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_prev_btn_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_dance_show.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_dance_show.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_hairdressing.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_hairdressing.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_repail.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_repail.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_snacks.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_snacks.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_retake_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/pic_retake_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_calc_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_calc_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_ok1_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_ok1_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/import_sms_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/import_sms_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_button_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/radio_button_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/exit_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/exit_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/loading_1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tencent_logo.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tencent_logo.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_issue_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_issue_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_target.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_target.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_3.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_3.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calc_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/calc_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_setting_sync_left_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_setting_sync_left_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_breakfast.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_breakfast.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_account_paying_online.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/icon_account_paying_online.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_mood.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_mood.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_camera.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_launcher_camera.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_alert_unread_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_alert_unread_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_budget_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_budget_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_data.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_setting_data.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_part_time_job.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_part_time_job.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_setting_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_self.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_self.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_sync_data_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_sync_data_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume1_right_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume1_right_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_bbs_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_bbs_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/next_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/web_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/web_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_bbs_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_bbs_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_list_expand_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_list_expand_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_line_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_line_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/gray_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_normal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/list_item_bg_album_normal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/more_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/more_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_message.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_message.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_camera_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_camera_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rb_stat_setting_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/rb_stat_setting_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_parents.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_parents.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bill.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_bill.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/favorite_set_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/favorite_set_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_3.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_3.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_tally_pic_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_tally_pic_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/next_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_main_image.jpg",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_main_image.jpg"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radiobutton_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/radiobutton_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_alipay.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_alipay.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_tally_pic_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_tally_pic_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_search_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_search_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg_selected.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/item_more_bg_selected.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/single_choose_cancle_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/single_choose_cancle_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_compensate.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_compensate.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/empty_pic.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/empty_pic.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_ring.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_ring.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_list_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_list_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_0.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_0.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_bycicle.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_bycicle.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_camera_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_camera_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_issue_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_issue_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/green_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/green_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_cancel_holo_light.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_menu_cancel_holo_light.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_travel.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_travel.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_qq_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_qq_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_buying.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_buying.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_simple_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_simple_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_button_c.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/radio_button_c.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/temp_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/temp_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hist_money.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/hist_money.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_5.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/progress_5.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_issue.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_issue.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget2x1_search_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget2x1_search_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_left_m.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_left_m.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_centra_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/item_centra_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_title1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_title1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tally_camera_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/tally_camera_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_tab_selector_c.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_tab_selector_c.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_mate.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_mate.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottom_add_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bottom_add_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_d.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox_d.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_market_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_market_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_real_estate.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_real_estate.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/close_press.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/close_press.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox2_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox2_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/single_choose_cancle_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/single_choose_cancle_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_setting_sync_right_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_setting_sync_right_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_tax.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_tax.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_expend.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_expend.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/web_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/web_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottom_bar_bg_slice.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bottom_bar_bg_slice.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_travel.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_travel.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/target_cancel_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/target_cancel_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sousuo_bg.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sousuo_bg.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_list_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_list_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbox_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/toolbox_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qb_scan_btn_flash_disable.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/qb_scan_btn_flash_disable.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_voice_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_voice_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/paper_bg2.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/paper_bg2.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_list_expand_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_list_expand_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_househole_express.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_househole_express.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_footprint_time.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_footprint_time.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bills_underanalyze.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_bills_underanalyze.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_car_insurance.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_car_insurance.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_company.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_company.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_tool.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_setting_tool.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smtxm.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/smtxm.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_technology.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_technology.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget2x1_search_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget2x1_search_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_social_cash_gift.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_social_cash_gift.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_2.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_2.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_show_newbills.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_show_newbills.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_content.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_content.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottom.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bottom.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_footprint.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_footprint.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_group_bg.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_group_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_social_charitable.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_social_charitable.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_tool_kit_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_tool_kit_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chart_line_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/chart_line_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_right_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_right_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_btn_n1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ok_btn_n1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_7.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/widget_7.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tally_camera_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_tally_camera_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_salary.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_salary.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_top_corner_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/item_top_corner_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/receipt_btn_n.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/receipt_btn_n.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cb_sina_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/cb_sina_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/freq_sort_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/freq_sort_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_insurance.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_insurance.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_video_camera.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_launcher_video_camera.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calc_btn_callback_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/calc_btn_callback_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/input_text_bg_d.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/input_text_bg_d.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_others.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_others.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_bg_s.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_bg_s.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_book.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_book.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/gray_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/member_other.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/member_other.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_camera_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_camera_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_market_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_market_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_traffic_ship.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_traffic_ship.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_list.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_list.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/import_sms_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/import_sms_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/download_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/download_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/page_indicator_focused.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty_search.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_empty_search.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_date.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_date.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume1_left_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume1_left_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_tab_switch_s.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_tab_switch_s.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_delete_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_delete_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_weibo_sina_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_weibo_sina_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footprint_tab_switch_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/footprint_tab_switch_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_jewelry.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_jewelry.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_health.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_health.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_sales.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_sales.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_item_bbs.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_item_bbs.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_other.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_other.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_recreation_movie.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_recreation_movie.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_recreation.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_recreation.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_tab_switch_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/detail_tab_switch_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_calc_delete1_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_calc_delete1_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_meal_vegetables.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_meal_vegetables.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_exam.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_exam.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume2_left_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume2_left_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whatsnew_btn_nor.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/whatsnew_btn_nor.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_rectification_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_rectification_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/copyright_btn_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/copyright_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_left_btn_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/sync_left_btn_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_main_traffic.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_main_traffic.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_gold.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_gold.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/x.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/x.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_pic_p.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_pic_p.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tencent_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_tencent_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_invest_forex.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_invest_forex.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_add_pic_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/btn_add_pic_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_hor_hist_green.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_hor_hist_green.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/project_daily.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/project_daily.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox2_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/checkbox2_p.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stxm1.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/stxm1.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wacai_forum_prev_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/wacai_forum_prev_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_medicine_textbook.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_medicine_textbook.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_sub_shopping_electrical.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_sub_shopping_electrical.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_horizontal_divider.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_horizontal_divider.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/horizontal_divider.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/horizontal_divider.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volume3_left_off.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/volume3_left_off.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_btn_n.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/delete_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_date_value.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/bg_date_value.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/input_password_forget_bg_s.9.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/input_password_forget_bg_s.9.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/type_income_allowance.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/type_income_allowance.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_custom_schedule_p.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-hdpi/home_custom_schedule_p.png"
+    }
+]

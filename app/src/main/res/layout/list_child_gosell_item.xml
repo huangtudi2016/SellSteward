@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:cacheColorHint="#00000000"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="@dimen/size100"
+        android:layout_height="@dimen/size100"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/camera_btn" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/size6"
+            android:scaleType="centerCrop" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:layout_weight="1.0"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_tally_click"
+            android:paddingLeft="@dimen/size10" >
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="right"
+                android:singleLine="true"
+                android:text="韩版外套"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtSizeF3" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_tally_click"
+            android:paddingLeft="@dimen/size10" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/size5"
+                android:singleLine="true"
+                android:text="@string/txtType"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <LinearLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@id/tvType"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="right|center"
+                    android:singleLine="true"
+                    android:text="外套"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_tally_click"
+            android:paddingLeft="@dimen/size10" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/size5"
+                android:singleLine="true"
+                android:text="@string/txtMoneyTab"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <TextView
+                android:id="@+id/tvMoneySellTab"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.0"
+                android:gravity="right"
+                android:singleLine="true"
+                android:text="100.00"
+                android:textColor="@color/moneyRed"
+                android:textSize="@dimen/txtSizeF3"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+       
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_tally_click"
+            android:paddingLeft="@dimen/size10" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/size5"
+                android:singleLine="true"
+                android:text="@string/txtCodeSimple"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <LinearLayout
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tvCode"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right|center"
+                    android:singleLine="true"
+                    android:text="12345678"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_tally_click"
+            android:paddingLeft="@dimen/size10" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/size5"
+                android:singleLine="true"
+                android:text="@string/txtAmount"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <LinearLayout
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tvisSell"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right|center"
+                    android:singleLine="true"
+                    android:text="1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/txtSizeF3" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/divider" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/camera_btn_bg_n" />
+    </item>
+    <item android:drawable="@drawable/opacity15" />
+</layer-list>

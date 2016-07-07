@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="topFaceHeight" format="dimension" />
+    <attr name="contourColor" format="color" />
+    <attr name="contourWidth" format="dimension" />
+    <attr name="indicator" format="reference" />
+    <attr name="indicatorCount" format="integer" />
+    <attr name="ovalInOutRatio" format="float" />
+    <attr name="ovalHeightWithRatio" format="float" />
+    <attr name="cylinderHovalHRatio" format="float" />
+    <attr name="startAngle" format="float" />
+    <attr name="visibleCount" format="integer" />
+    <attr name="centerDrawable" format="reference" />
+    <attr name="wheelEdgePadding" format="integer" />
+    <attr name="cyclic" format="boolean" />
+    <attr name="showdaysoption" format="boolean" />
+    <attr name="bidirection" format="boolean" />
+    <attr name="pillarWidth" format="dimension" />
+    <attr name="intervalWidth" format="dimension" />
+    <attr name="pillarOvalHeight" format="dimension" />
+    <attr name="pillarContourWidth" format="dimension" />
+    <attr name="percentTextSize" format="dimension" />
+    <attr name="labelTextSize" format="dimension" />
+    <attr name="maxTextLength" format="integer" />
+    <attr name="pressShadowColor" format="reference" />
+    <attr name="pressShadowDx" format="float" />
+    <attr name="pressShadowDy" format="float" />
+    <attr name="pressShadowRadius" format="float" />
+    <attr name="isNeedBottom" format="boolean" />
+</resources>

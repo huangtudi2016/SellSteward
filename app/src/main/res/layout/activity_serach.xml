@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/relSearch"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/home_search_bg"
+            android:orientation="horizontal" >
+
+            <AutoCompleteTextView
+                android:id="@+id/at_search"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:maxLength="26"
+                android:singleLine="true"
+                android:textColor="@color/brown"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/ok"
+                android:layout_width="50dp"
+                android:layout_height="40dp"
+                android:background="@drawable/sousuo"
+                android:paddingLeft="3.0dip"
+                android:paddingRight="5.0dip" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.0" >
+
+            <com.fada.sellsteward.view.KeywordsFlow
+                android:id="@+id/frameLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            </com.fada.sellsteward.view.KeywordsFlow>
+
+            <ListView
+                android:id="@+id/expandableListView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="#00000000"
+                android:groupIndicator="@drawable/tag_but_background"
+                android:listSelector="@drawable/list_seletor_transparent"
+                android:scrollbars="none" >
+            </ListView>
+        </FrameLayout>
+    </LinearLayout>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

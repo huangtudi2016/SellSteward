@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wacai_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/size25"
+                android:background="@drawable/red_bg" />
+
+            <com.fada.sellsteward.view.MyTextView
+                style="@style/whiteDownShadow"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/listHeight1"
+                android:gravity="center"
+                android:text="销售管家"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF3" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/paperMarginLR"
+                android:layout_marginRight="@dimen/paperMarginLR"
+                android:background="@drawable/paper_bg"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight1"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:paddingRight="@dimen/paperPaddingLR" >
+
+                    <TextView
+                        android:id="@id/tvAboutVersions"
+                        style="@style/whiteDownShadow"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.3"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:text="@string/copyRightVersion"
+                        android:textColor="@color/lightBlue"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.5" >
+
+                        <TextView
+                            android:id="@id/tvVersion"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center_vertical"
+                            android:textColor="@color/lightGray"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/checkUpdate"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="wrap_content"
+                            android:layout_height="@dimen/size28"
+                            android:layout_gravity="center_vertical"
+                            android:background="@drawable/bg_check_update"
+                            android:drawableLeft="@drawable/btn_check_update"
+                            android:gravity="center_vertical"
+                            android:paddingRight="@dimen/size15"
+                            android:text="意见反馈"
+                            android:textColor="@color/darkGray"
+                            android:textSize="@dimen/txtSizeF1" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0px"
+                    android:background="@color/divider" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight1"
+                    android:background="@drawable/bg_tally_click"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:paddingRight="@dimen/paperPaddingLR" >
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center_vertical"
+                        android:text="姓名"
+                        android:textColor="@color/lightBlue"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.5"
+                        android:autoLink="phone|web|email"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:text="huangshouzan"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/txtSizeF3" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0px"
+                    android:background="@color/divider" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight1"
+                    android:background="@drawable/bg_tally_click"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:paddingRight="@dimen/paperPaddingLR" >
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center_vertical"
+                        android:text="电话"
+                        android:textColor="@color/lightBlue"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.5"
+                        android:autoLink="phone|web|email"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:text="13001954592"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/txtSizeF3" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0px"
+                    android:background="@color/divider" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight1"
+                    android:background="@drawable/bg_tally_click"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:paddingRight="@dimen/paperPaddingLR" >
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center_vertical"
+                        android:text="@string/copyRightEmail"
+                        android:textColor="@color/lightBlue"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.5"
+                        android:autoLink="phone|web|email"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:text="pingshanhuang@live.com"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/txtSizeF3" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0px"
+                    android:background="@color/divider" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight2"
+                    android:background="@drawable/bg_tally_click"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:paddingRight="@dimen/paperPaddingLR" >
+
+                    <TextView
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center_vertical"
+                        android:text="QQ"
+                        android:textColor="@color/lightBlue"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2.5"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:autoLink="phone|web|email"
+                            android:gravity="center_vertical"
+                            android:singleLine="true"
+                            android:text="1034436571"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                style="@style/whiteDownShadow"
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_marginBottom="@dimen/paperMarginBottom"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:text="个人开发者"
+                android:textColor="@color/lightBlue"
+                android:textSize="@dimen/txtSizeF2" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

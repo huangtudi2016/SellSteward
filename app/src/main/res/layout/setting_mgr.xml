@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/paperMarginBottom"
+            android:paddingLeft="@dimen/paperMarginLR"
+            android:paddingRight="@dimen/paperMarginLR"
+            android:paddingTop="@dimen/paperMarginTop" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:id="@id/accountLine"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight1"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:duplicateParentState="true"
+                        android:paddingLeft="@dimen/paperPaddingLR"
+                        android:paddingRight="@dimen/paperPaddingLR"
+                        android:text="@string/txtUserName"
+                        android:textColor="@color/blue_brown_sel"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <TextView
+                        android:id="@id/accountName"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/lightBlueHalf"
+                        android:textSize="@dimen/txtSizeF3" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0px"
+                    android:background="@color/divider" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/listHeight2"
+                    android:paddingBottom="@dimen/size8"
+                    android:paddingLeft="@dimen/size20"
+                    android:paddingRight="@dimen/size20"
+                    android:paddingTop="@dimen/size8" >
+
+                    <TextView
+                        android:id="@id/syncData"
+                        style="@style/blackUpShadow"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_toLeftOf="@id/btnSyncSetting"
+                        android:background="@drawable/btn_sync_left"
+                        android:gravity="center"
+                        android:text="@string/txtSyncData"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/txtSizeF3" />
+
+                    <View
+                        android:layout_width="1.0px"
+                        android:layout_height="fill_parent"
+                        android:layout_marginBottom="@dimen/size8"
+                        android:layout_marginTop="@dimen/size8"
+                        android:layout_toLeftOf="@id/btnSyncSetting"
+                        android:background="@color/divider" />
+
+                    <ImageView
+                        android:id="@id/btnSyncSetting"
+                        android:layout_width="@dimen/size40"
+                        android:layout_height="fill_parent"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/btn_sync_right"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/btn_sync_data" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/localPasswordLine"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <TextView
+                    android:layout_width="0.0dip"
+                    android:layout_height="@dimen/listHeight1"
+                    android:layout_weight="1.0"
+                    android:duplicateParentState="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:text="@string/localPassword"
+                    android:textColor="@color/blue_brown_sel"
+                    android:textSize="@dimen/txtSizeF3" />
+
+                <CheckBox
+                    android:id="@id/cbLoaclPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="@dimen/paperPaddingLR"
+                    android:layout_marginRight="@dimen/paperPaddingLR"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/checkbox2"
+                    android:focusable="false"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <TextView
+                    android:layout_width="0.0dip"
+                    android:layout_height="@dimen/listHeight1"
+                    android:layout_weight="1.0"
+                    android:duplicateParentState="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/paperPaddingLR"
+                    android:text="@string/remindCharge"
+                    android:textColor="@color/blue_brown_sel"
+                    android:textSize="@dimen/txtSizeF3" />
+
+                <CheckBox
+                    android:id="@id/cbRemindCharge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="@dimen/paperPaddingLR"
+                    android:layout_marginRight="@dimen/paperPaddingLR"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/checkbox2"
+                    android:focusable="false"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size2"
+                android:layout_marginLeft="@dimen/paperPaddingLR"
+                android:layout_marginTop="@dimen/size6"
+                android:drawableLeft="@drawable/ic_setting_tool"
+                android:drawablePadding="@dimen/size6"
+                android:gravity="center_vertical"
+                android:text="@string/settingTool"
+                android:textColor="@color/blue_brown_sel"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/size88"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/tvBaiduDisk"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/baiduNetdisk"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/tvMyNote"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/myNote"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/exChangeRate"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/exChangeRate"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/importTaobaoData"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/importTaobaoData"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1.0px"
+                    android:layout_height="fill_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/size8"
+                    android:layout_marginTop="@dimen/size8"
+                    android:background="@color/divider" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size2"
+                android:layout_marginLeft="@dimen/paperPaddingLR"
+                android:layout_marginTop="@dimen/size6"
+                android:drawableLeft="@drawable/ic_setting_data"
+                android:drawablePadding="@dimen/size6"
+                android:gravity="center_vertical"
+                android:text="@string/settingBaseData"
+                android:textColor="@color/blue_brown_sel"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/outgoType"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/outgoType"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/incomeType"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/incomeType"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/targetMgr"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/targetMgr"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/menberMgr"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/menberMgr"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/projectMgr"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/projectMgr"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/shortcut"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/shortcut"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1.0px"
+                    android:layout_height="@dimen/size108"
+                    android:layout_centerInParent="true"
+                    android:background="@color/divider" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size2"
+                android:layout_marginLeft="@dimen/paperPaddingLR"
+                android:layout_marginTop="@dimen/size6"
+                android:drawableLeft="@drawable/ic_setting_personal"
+                android:drawablePadding="@dimen/size6"
+                android:gravity="center_vertical"
+                android:text="@string/settingPersonal"
+                android:textColor="@color/blue_brown_sel"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size6"
+                android:background="@drawable/paper_bg"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/moneyTypeSetting"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/moneyTypeSetting"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/basicSortMode"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/basicSortMode"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/weiboSettings"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/weiboSettings"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1.0px"
+                    android:layout_height="@dimen/size72"
+                    android:layout_centerInParent="true"
+                    android:background="@color/divider" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size2"
+                android:layout_marginLeft="@dimen/paperPaddingLR"
+                android:layout_marginTop="@dimen/size6"
+                android:drawableLeft="@drawable/ic_setting_others"
+                android:drawablePadding="@dimen/size6"
+                android:gravity="center_vertical"
+                android:text="@string/settingOthers"
+                android:textColor="@color/blue_brown_sel"
+                android:textSize="@dimen/txtSizeF2" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size10"
+                android:background="@drawable/paper_bg"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/settingFeedback"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/settingFeedback"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/sendToFriends"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/sendToFriends"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1" >
+
+                        <TextView
+                            android:id="@id/helperOnline"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/helperOnline"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+
+                        <TextView
+                            android:id="@id/aboutWacai"
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:text="@string/aboutWacai"
+                            android:textColor="@color/blue_brown_sel"
+                            android:textSize="@dimen/txtSizeF3" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1.0px"
+                    android:layout_height="@dimen/size72"
+                    android:layout_centerInParent="true"
+                    android:background="@color/divider" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@id/restore"
+                style="@style/whiteDownShadow"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/size36"
+                android:layout_marginBottom="@dimen/paperMarginBottom"
+                android:layout_marginLeft="@dimen/bgPaddingLR"
+                android:layout_marginRight="@dimen/bgPaddingLR"
+                android:background="@drawable/gray_btn"
+                android:gravity="center"
+                android:text="@string/restore"
+                android:textColor="@color/lightBlack"
+                android:textSize="@dimen/txtSizeF3" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

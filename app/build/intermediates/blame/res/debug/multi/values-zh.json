@@ -1,0 +1,767 @@
+[
+    {
+        "outputFile": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 419,
+                        "endColumn": 41,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 61,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 593,
+                        "endColumn": 58,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 56,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 323,
+                        "endColumn": 53,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 41,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 500,
+                        "endColumn": 38,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 47,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 142,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 41,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 461,
+                        "endColumn": 38,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 47,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 278,
+                        "endColumn": 44,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 56,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 53,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 48,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 187,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 44,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 377,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 47,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 233,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 47,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 57,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 295,
+                        "endColumn": 54,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 59,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 238,
+                        "endColumn": 56,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 65,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 56,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 184,
+                        "endColumn": 53,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 61,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 709,
+                        "endColumn": 58,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 67,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 768,
+                        "endColumn": 64,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 76,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 73,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 71,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 115,
+                        "endColumn": 68,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 71,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 71,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 64,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 833,
+                        "endColumn": 61,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 71,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 424,
+                        "endColumn": 68,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 78,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 895,
+                        "endColumn": 75,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 75,
+                    "endOffset": 1573
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 493,
+                        "endColumn": 72,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1578,
+                    "endColumn": 73,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 566,
+                        "endColumn": 70,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 44,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 44,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 54,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 54,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 73,
+                    "endOffset": 1821
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 73,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1826,
+                    "endColumn": 57,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 57,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endColumn": 59,
+                    "endOffset": 1939
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 59,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1944,
+                    "endColumn": 97,
+                    "endOffset": 2037
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 97,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2042,
+                    "endColumn": 86,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 86,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 67,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 67,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 85,
+                    "endOffset": 2278
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 85,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2283,
+                    "endColumn": 59,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 59,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endColumn": 75,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 75,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2419,
+                    "endColumn": 44,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 44,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 47,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/values-zh/umeng_fb_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 47,
+                        "endOffset": 278
+                    }
+                }
+            }
+        ]
+    }
+]

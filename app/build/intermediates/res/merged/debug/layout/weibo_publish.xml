@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/title_bar" />
+    <TextView android:textSize="@dimen/txtSizeF2" android:textColor="@color/lightBlue" android:gravity="right|center" android:id="@id/input_text_count_prompt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/paperMarginTop" android:layout_marginRight="@dimen/bgPaddingLR" android:layout_marginBottom="@dimen/paperMarginTop" android:text="@string/weiboCharacterCanInput" style="@style/whiteDownShadow" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/paperMarginLR" android:paddingRight="@dimen/paperMarginLR" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/paperMarginBottom">
+            <EditText android:textSize="@dimen/txtSizeF3" android:textColor="@color/lightBlue" android:gravity="top|left|center" android:id="@id/suggestion_or_bugs" android:background="@drawable/bg_input_text" android:padding="@dimen/paperPaddingLR" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/size172" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/image_pick" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size6">
+                    <FrameLayout android:background="@drawable/btn_tally_pic" android:padding="@dimen/size4" android:duplicateParentState="true" android:layout_width="@dimen/size127" android:layout_height="@dimen/size127" android:layout_marginLeft="@dimen/size10" android:layout_marginTop="@dimen/size10">
+                        <ImageView android:layout_gravity="center" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/btn_camera" android:scaleType="center" />
+                    </FrameLayout>
+                    <FrameLayout android:id="@id/weibo_image_share" android:background="@drawable/bg_img_weibo" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/size10" android:layout_marginTop="@dimen/size10">
+                        <ImageView android:layout_gravity="center" android:id="@id/image_content" android:background="@color/white" android:duplicateParentState="true" android:layout_width="@dimen/size120" android:layout_height="@dimen/size120" />
+                    </FrameLayout>
+                    <ImageView android:id="@id/btn_eidtImg" android:background="@drawable/btn_weibo_menu" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+                <LinearLayout android:id="@id/btn_refresh" android:background="@drawable/bg_weibo_publish" android:paddingTop="@dimen/size12" android:paddingRight="@dimen/size10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size8" android:layout_alignParentRight="true">
+                    <ImageView android:background="@drawable/ic_weibo_mood" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/size8" />
+                    <TextView android:textSize="@dimen/txtSizeF2" android:textColor="@color/lightBlue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/size6" android:text="@string/weiboMood" style="@style/whiteDownShadow" />
+                </LinearLayout>
+                <TextView android:textSize="@dimen/txtSizeF1" android:textColor="@color/lightBlue" android:gravity="right|center" android:id="@id/tvMoodPrompt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/size5" android:layout_marginBottom="@dimen/size5" android:text="@string/txtMoodPrompt" android:singleLine="true" android:layout_toRightOf="@id/image_pick" android:layout_below="@id/btn_refresh" style="@style/whiteDownShadow" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+    <include layout="@layout/bottom_back_ok" />
+</LinearLayout>

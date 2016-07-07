@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/app_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/zebra_ic_bt_normal.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-ldpi/zebra_ic_bt_normal.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/toolbar.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-ldpi/toolbar.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/zebra_ic_album.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-ldpi/zebra_ic_album.png"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:id="@id/bottombar" android:background="@drawable/bottom_bar_bg" android:layout_width="fill_parent" android:layout_height="@dimen/size50" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/btnBack" android:layout_width="0.0dip" android:layout_height="fill_parent" android:drawableLeft="@drawable/back_btn" android:layout_weight="1.0" />
+    <com.wacai365.widget.Button android:id="@id/btnAdd" android:layout_width="0.0dip" android:layout_height="fill_parent" android:button="@drawable/bottom_add_btn" android:text="@string/txtNew" android:layout_weight="1.0" />
+    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+</LinearLayout>

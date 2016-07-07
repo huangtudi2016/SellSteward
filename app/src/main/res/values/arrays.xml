@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ReimburseSetting">
+        <item>@string/txtFullString</item>
+        <item>@string/txtCanReimburse</item>
+        <item>@string/txtNoneReimburse</item>
+        <item>@string/txtHaveReimburse</item>
+    </array>
+    <array name="ReimburseType">
+        <item>@string/txtNoneReimburse</item>
+        <item>@string/txtCanReimburse</item>
+        <item>@string/txtHaveReimburse</item>
+    </array>
+    <array name="DetailsBalanceTimes">
+        <item>@string/txtThisYear</item>
+        <item>@string/txtThisQuarter</item>
+        <item>@string/txtThisMonth</item>
+        <item>@string/txtThisWeek</item>
+    </array>
+    <array name="TakePicType">
+        <item>@string/txtTakePhotos</item>
+        <item>@string/txtChoosePhotos</item>
+    </array>
+    <array name="Times">
+        <item>@string/txtToday1</item>
+        <item>@string/txtYesterday</item>
+        <item>@string/txtThisWeek</item>
+        <item>@string/txtLastWeek</item>
+        <item>@string/txtThisMonth</item>
+        <item>@string/txtLastMonth</item>
+        <item>@string/txtThisQuarter</item>
+        <item>@string/txtLastQuarter</item>
+        <item>@string/txtThisYear</item>
+        <item>@string/txtLastYear</item>
+        <item>@string/txtLast7Day</item>
+        <item>@string/txtLast30Day</item>
+    </array>
+    <array name="DetailType">
+        <item>@string/all</item>
+        <item>@string/txtOutgo</item>
+        <item>@string/txtIncome</item>
+        <item>@string/txtTransfer</item>
+        <item>@string/txtLoan</item>
+    </array>
+    <array name="SearchLoanType">
+        <item>@string/txtFullString</item>
+        <item>@string/txtBorrowPayable</item>
+        <item>@string/txtLoanReceivable</item>
+        <item>@string/txtRepayment</item>
+        <item>@string/txtMakeCollections</item>
+    </array>
+    <array name="BackupTypes">
+        <item>@string/txt1DayTitle</item>
+        <item>@string/txt3DayTitle</item>
+        <item>@string/txt7DayTitle</item>
+        <item>@string/txt30DayTitle</item>
+        <item>@string/txtNeverTitle</item>
+    </array>
+    <array name="LoanType">
+        <item>@string/txtBorrowPayable</item>
+        <item>@string/txtLoanReceivable</item>
+        <item>@string/txtRepayment</item>
+        <item>@string/txtMakeCollections</item>
+    </array>
+    <array name="AlertType">
+        <item>@string/txtAlertNone</item>
+        <item>@string/txtAlertCurDay</item>
+        <item>@string/txtAlertPre3Day</item>
+        <item>@string/txtAlertMonthly</item>
+    </array>
+    <string-array name="OccurDate">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+    </string-array>
+    <array name="arrayEditReimburse">
+        <item>@string/txtEdit</item>
+        <item>@string/txtReimburseTitle</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="arrayEditDelete">
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="CycleType">
+        <item>@string/txtPerDay</item>
+        <item>@string/txtWorkingDay</item>
+        <item>@string/txtPerMonth</item>
+        <item>@string/txtPerTowMonth</item>
+        <item>@string/txtPerQuarter</item>
+        <item>@string/txtPerHalfYear</item>
+        <item>@string/txtPerYear</item>
+    </array>
+    <array name="CycleIncomeType">
+        <item>@string/txtPerMonth</item>
+        <item>@string/txtPerTowMonth</item>
+        <item>@string/txtPerQuarter</item>
+        <item>@string/txtPerHalfYear</item>
+        <item>@string/txtPerYear</item>
+    </array>
+    <array name="SearchType">
+        <item>@string/txtExpired</item>
+        <item>@string/txtNotExpired</item>
+        <item>@string/txtFullString</item>
+    </array>
+    <array name="openAndClose">
+        <item>@string/txtClose</item>
+        <item>@string/txtOpen</item>
+    </array>
+    <array name="basicSortMode">
+        <item>@string/txtDefaultSort</item>
+        <item>@string/txtSortByPinyin</item>
+    </array>
+    <array name="RemindType">
+        <item>@string/txtRemindType1Day</item>
+        <item>@string/txtRemindType2Day</item>
+        <item>@string/txtRemindType3Day</item>
+        <item>@string/txtRemindType4Day</item>
+        <item>@string/txtRemindType5Day</item>
+        <item>@string/txtRemindType6Day</item>
+        <item>@string/txtRemindType7Day</item>
+    </array>
+    <array name="SMSTransferType">
+        <item>@string/txtSaveAsOutgo</item>
+        <item>@string/txtSaveAsIncome</item>
+        <item>@string/txtSaveAsTransfer</item>
+        <item>@string/txtSaveAsLoan</item>
+        <item>@string/txtSaveAsWhiteList</item>
+        <item>@string/txtDelete</item>
+        <item>@string/txtMenuDeleteAll</item>
+    </array>
+    <array name="TypeAddWhite">
+        <item>@string/txtImportFromSMS</item>
+        <item>@string/txtImportManual</item>
+    </array>
+    <array name="NoteTransferType">
+        <item>@string/txtSaveAsOutgo</item>
+        <item>@string/txtSaveAsIncome</item>
+        <item>@string/txtSaveAsTransfer</item>
+        <item>@string/txtSaveAsLoan</item>
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="ShareMolds">
+        <item>@string/txtShareMold1</item>
+        <item>@string/txtShareMold2</item>
+        <item>@string/txtShareMold3</item>
+        <item>@string/txtShareMold4</item>
+        <item>@string/txtShareMold5</item>
+        <item>@string/txtShareMold6</item>
+        <item>@string/txtShareMold7</item>
+        <item>@string/txtShareMold8</item>
+        <item>@string/txtShareMold9</item>
+        <item>@string/txtShareMold10</item>
+        <item>@string/txtShareMold11</item>
+        <item>@string/txtShareMold12</item>
+    </array>
+    <array name="ShareStatMolds">
+        <item>@string/txtShareStatMold1</item>
+        <item>@string/txtShareStatMold2</item>
+        <item>@string/txtShareStatMold3</item>
+        <item>@string/txtShareStatMold4</item>
+        <item>@string/txtShareStatMold5</item>
+        <item>@string/txtShareStatMold6</item>
+        <item>@string/txtShareStatMold7</item>
+    </array>
+    <array name="WeiboTakePicTypeDel">
+        <item>@string/txtTakePhotos</item>
+        <item>@string/txtChoosePhotos</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="WeiboPicDel">
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="editDelete">
+        <item>@string/txtEdit</item>
+        <item>@string/txtDelete</item>
+    </array>
+    <array name="RemindContent">
+        <item>@string/txtRemind1</item>
+        <item>@string/txtRemind2</item>
+        <item>@string/txtRemind3</item>
+        <item>@string/txtRemind4</item>
+        <item>@string/txtRemind5</item>
+        <item>@string/txtRemind6</item>
+        <item>@string/txtRemind7</item>
+        <item>@string/txtRemind8</item>
+        <item>@string/txtRemind9</item>
+    </array>
+    <array name="detailTabSelectorArray">
+        <item>@string/txtFullString</item>
+        <item>@string/txtType</item>
+        <item>@string/txtAccount</item>
+        <item>@string/txtTarget</item>
+        <item>@string/txtMember</item>
+        <item>@string/txtProject</item>
+    </array>
+    <array name="creditRemind">
+        <item>@string/txtAlertNone</item>
+        <item>@string/txtAlertCurDay</item>
+        <item>@string/txtAlert3Day</item>
+        <item>@string/txtAlert7Day</item>
+    </array>
+    <array name="creditRepayDayType">
+        <item>@string/txtFixedDate</item>
+        <item>@string/txtAfterBillDay</item>
+    </array>
+    <array name="arrayProcessSMS">
+        <item>@string/txtMenuDeleteAll</item>
+        <item>@string/txtSMSFeedback</item>
+    </array>
+</resources>

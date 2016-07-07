@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/statSettingFrame" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/statSettingLine" android:background="@drawable/bg_setting_default" android:layout_width="@dimen/size241" android:layout_height="wrap_content" android:layout_marginRight="@dimen/size15" android:layout_marginBottom="@dimen/size50" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+        <RadioGroup android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/size12" android:layout_marginRight="@dimen/size12">
+            <RadioButton android:textSize="@dimen/txtSizeF4" android:textColor="@color/black" android:id="@id/defaultFreq" android:background="@null" android:paddingTop="@dimen/size10" android:paddingBottom="@dimen/size8" android:layout_width="0.0dip" android:layout_height="wrap_content" android:button="@null" android:text="@string/defaultFreq" android:drawableLeft="@drawable/rb_stat_setting" android:drawablePadding="@dimen/size5" android:layout_weight="1.0" style="@style/whiteDownShadow" />
+            <RadioButton android:textSize="@dimen/txtSizeF4" android:textColor="@color/black" android:id="@id/defaultManual" android:background="@null" android:paddingTop="@dimen/size10" android:paddingBottom="@dimen/size8" android:layout_width="0.0dip" android:layout_height="wrap_content" android:button="@null" android:text="@string/defaultManual" android:drawableLeft="@drawable/rb_stat_setting" android:drawablePadding="@dimen/size5" android:layout_weight="1.0" style="@style/whiteDownShadow" />
+        </RadioGroup>
+        <TextView android:textSize="@dimen/txtSizeF2" android:textColor="#ffa6a6a6" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/size14" android:layout_marginRight="@dimen/size14" android:layout_marginBottom="@dimen/size20" android:text="@string/defaultFreqDes" style="@style/whiteDownShadow" />
+    </LinearLayout>
+</RelativeLayout>

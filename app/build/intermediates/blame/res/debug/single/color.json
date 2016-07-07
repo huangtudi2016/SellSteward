@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/switch_tab_title_color.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/switch_tab_title_color.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/btn_calc_txt.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/btn_calc_txt.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/blue_brown_sel.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/blue_brown_sel.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/black_disable_change.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/black_disable_change.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/chooser_rb.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/chooser_rb.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/btn_tab1.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/btn_tab1.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/btn_weibo.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/btn_weibo.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/color/btn_setting_sync.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/color/btn_setting_sync.xml"
+    }
+]

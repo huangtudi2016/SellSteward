@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black" >
+
+    <com.fada.sellsteward.gallery_3d.MyGallery
+        android:id="@+id/myGallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:id="@+id/LinBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RLzoomView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/black"
+        android:visibility="gone" >
+
+       <com.fada.sellsteward.gallery_3d.ImageZoomView
+            android:id="@+id/zoomView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+        <FrameLayout
+            android:id="@+id/backGallery"
+            android:layout_width="fill_parent"
+            android:layout_height="55dip"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/bg_camera_pattern" >
+
+            <ImageView
+                android:layout_width="20dip"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="140dip"
+                android:layout_marginRight="130dip"
+                android:layout_marginTop="15dip"
+                android:layout_marginBottom="15dip"
+                android:src="@drawable/ic_menu_cancel_holo_light" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</FrameLayout>

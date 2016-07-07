@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/umeng_fb_slide_out_from_left.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/umeng_fb_slide_out_from_left.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/translate_right.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/translate_right.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/right_out.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/hide_setting_default_pop.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/hide_setting_default_pop.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/bill_scan.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/bill_scan.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/left_in.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/left_in.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_fast_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_fast_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_fast_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_fast_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/zoom_out_enter.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/zoom_out_enter.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_switch_off.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_switch_off.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_bill_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_bill_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/umeng_fb_slide_in_from_right.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/umeng_fb_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_voice_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_voice_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/zoom_out_exit.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/zoom_out_exit.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_main_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_main_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/dialog_exit_anim.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/dialog_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/detail_tool_kit.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/detail_tool_kit.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/dialog_enter_anim.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/dialog_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/left_out.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/left_out.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/chooser_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/chooser_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_voice_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_voice_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/translate_left.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/translate_left.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/right_in.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_bg_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_bg_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/detail_hide_tool_kit.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/detail_hide_tool_kit.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_camera_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_camera_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_bg_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_bg_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_main_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_main_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/chooser_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/chooser_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/stat_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/stat_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/stat_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/stat_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_camera_show.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_camera_show.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/umeng_fb_slide_out_from_right.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/umeng_fb_slide_in_from_left.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_bill_hide.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_bill_hide.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/tally_switch_on.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/tally_switch_on.xml"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/anim/show_setting_default_pop.xml",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/anim/show_setting_default_pop.xml"
+    }
+]

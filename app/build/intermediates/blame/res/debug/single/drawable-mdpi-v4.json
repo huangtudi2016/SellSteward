@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_icon.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangzan/Downloads/SellSteward/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/Users/huangzan/Downloads/SellSteward/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    }
+]

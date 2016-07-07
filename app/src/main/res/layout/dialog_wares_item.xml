@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_bar" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0" >
+
+        <LinearLayout
+            android:id="@id/rootOutgoTab"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:id="@+id/ivDialog"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/home_main_image" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/paper_bg"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/paperShadeBottom"
+                android:paddingLeft="@dimen/paperShadeLR"
+                android:paddingRight="@dimen/paperShadeLR" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingRight="@dimen/size10" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingLeft="@dimen/size10" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/size5"
+                            android:singleLine="true"
+                            android:text="@string/txtAccount"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF2" />
+
+                        <TextView
+                            android:id="@+id/tvName"
+                            android:layout_width="0.0dip"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="1.0"
+                            android:gravity="right"
+                            android:singleLine="true"
+                            android:text="韩版小外衣"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/txtSizeF4"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:id="@id/btnType"
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingLeft="@dimen/size10" >
+
+                        <TextView
+                            android:id="@id/tvTypeDes"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/size5"
+                            android:singleLine="true"
+                            android:text="@string/txtType"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF2" />
+
+                        <LinearLayout
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@id/tvType"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="right|center"
+                                android:singleLine="true"
+                                android:text="外套"
+                                android:textColor="@color/black"
+                                android:textSize="@dimen/txtSizeF4" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingLeft="@dimen/size10" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/size5"
+                            android:singleLine="true"
+                            android:text="@string/txtMoneyOut"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF2" />
+
+                        <LinearLayout
+                            android:layout_width="0.0dip"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1.0"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/tvMoneyTab"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="right|center"
+                                android:singleLine="true"
+                                android:text="30.00"
+                                android:textColor="@color/red"
+                                android:textSize="@dimen/txtSizeF6"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/listHeight1"
+                        android:background="@drawable/bg_tally_click"
+                        android:paddingLeft="@dimen/bluePgPaddingLR2"
+                        android:paddingRight="@dimen/bluePgPaddingLR2" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/size5"
+                            android:singleLine="true"
+                            android:text="@string/txtCode"
+                            android:textColor="@color/lightBlue"
+                            android:textSize="@dimen/txtSizeF2" />
+
+                        <TextView
+                            android:id="@+id/tvCode"
+                            style="@style/whiteDownShadow"
+                            android:layout_width="0.0dip"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="1.0"
+                            android:gravity="right"
+                            android:singleLine="true"
+                            android:text="3456789033333"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/txtSizeF4" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0px"
+                        android:background="@color/divider" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvAagin"
+                    style="@style/blackUpShadow"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/size35"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="@dimen/size18"
+                    android:background="@drawable/green_btn"
+                    android:gravity="center"
+                    android:text="@string/txtAagin"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/txtSizeF4" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/bottom_back" />
+
+</LinearLayout>

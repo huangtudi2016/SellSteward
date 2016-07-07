@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <SurfaceView
+        android:id="@+id/preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center" />
+
+    <com.fada.sellsteward.scalecode.view.ViewfinderView
+        android:id="@+id/viewfinder_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/transparent" />
+
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:singleLine="true"
+        android:textColor="@color/moneyRed"
+        android:textSize="@dimen/txtSizeF4"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <FrameLayout
+            android:layout_width="80dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="0dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/bg_camera_pattern" >
+
+            <TextView
+                android:id="@+id/codeOk"
+                android:layout_width="40dp"
+                android:layout_height="40dip"
+                android:layout_gravity="top"
+                android:layout_marginTop="15dip"
+                android:background="@drawable/btn_ok1" />
+
+            <TextView
+                android:id="@+id/codeCancel"
+                android:layout_width="40dp"
+                android:layout_height="40dip"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="15dip"
+                android:background="@drawable/btn_cancel" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</FrameLayout>

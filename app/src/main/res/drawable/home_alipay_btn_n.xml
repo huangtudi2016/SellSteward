@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/home_tally_bg_n" />
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/home_custom_alipay_n" />
+    </item>
+</layer-list>
